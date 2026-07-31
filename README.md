@@ -6,4 +6,4 @@
 #### چاپ نخست: ۱۳۶۲ هجری خورشیدی، مطابق با ۱۹۸۳ میلادی
 ##### نحوه استفاده:
  فایل 
- <a href="https://github.com/mehdihoore/Kritik-der-reinen-Vernunft/blob/main/Glossary.html">Glossary.html</a> را دانلود کنید و به سادگی از صفحه قابل جستجو به صورت آفلاین استفاده کنید. 
+ <a href="https://github.com/mehdihoore/Kritik-der-reinen-Vernunft/blob/main/Glossary.html">Glossary.html</a> را دانلود کرده و به سادگی از صفحه قابل جستجو به صورت آفلاین استفاده کنید. 
