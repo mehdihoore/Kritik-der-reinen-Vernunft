@@ -1,0 +1,11507 @@
+# واژه‌نامه سنجش خرد ناب - حرف A
+
+### Abänderung
+* **E:** alteration, change
+* **F:** changement
+* **P:** دگرگونی، تبدّل [احمد شیبانی]، تغییر
+
+### Aberglaube
+* **E:** superstition
+* **F:** superstition
+* **P:** خرافات [جمع]، خرافه [مفرد]
+
+### Abfolge
+* **E:** sequence, logical sequence; resulting
+* **F:** rapport de conséquence, dérivation
+* **P:** هَچِش [پهلوی hačiš: «ازش»، «از او»، «از آن»؛ یا همچنین از hač پهلوی به معنای «از» + «ـِش» مصدری. ــ اوستایی hača و hačā، پارسی باستان hačā. خود از ایرانی نخستین `*hak-`، هند و اروپایی نخستین `*sek-`، ریشهٔ sequens لاتین.]، توالی
+
+### abgeleitet
+* **E:** derived, derivative, deduced
+* **F:** dérivé
+* **P:** اشتقاقی، مشتقّ
+
+### abgeleitete Begriffe
+* **E:** derived concepts, derivative concepts
+* **F:** concepts dérivés
+* **P:** مفهومهای اشتقاقی
+
+### abgesonderter Begriff
+* **E:** bare concept
+* **F:** concept abstrait
+* **P:** مفهوم مجرّد
+
+### abgezogen
+* **E:** abstract, derived, abstruse
+* **F:** abstrait, tiré, ce qui dérive, dérivé
+* **P:** برآهنجیده، آهنجیده [ناصرخسرو؛ ــ از مصدر «آهنجیدن»؛ شکل دیگر آن: «آهیختن»]
+
+### Abhandlung
+* **E:** treatise
+* **F:** traité
+* **P:** رساله، کتاب
+
+### Abhängigkeit
+* **E:** dependence
+* **F:** dépendance
+* **P:** وابستگی
+
+### Ableitung
+* **E:** derivation
+* **F:** dériver, dérivation
+* **P:** اشتقاق
+
+### Abmessung
+* **E:** dimension
+* **F:** dimension
+* **P:** دورآمون [= بُعد؛ ــ از «دور» + «ـ ا» میانوند + «ـ مون» (= «سنجه»)]
+
+### Abplattung
+* **E:** flattening
+* **F:** aplatissement
+* **P:** پهن‌شدگی [در قطبهای زمین]
+
+### Abschnitt
+* **E:** section, main section; drawing the line
+* **F:** section; tracer la ligne
+* **P:** بهره، قطعه؛ بریش [لغت‌نامهٔ دهخدا: بریدن و برش، قطع]
+
+### Absicht
+* **E:** purpose, intention, object; interest; respect; point of view
+* **F:** but, intention, dessin; rapport; point de vue
+* **P:** آهنگ، قصد، مقصود، هدف، هدفِ مورد نظر، منظور؛ جنبه؛ نگرگاه
+
+### absolut
+* **E:** absolute
+* **F:** absolu
+* **P:** مطلق
+
+### absolute Einheit
+* **E:** absolute unity
+* **F:** unité absolue
+* **P:** یگانگی مطلق
+
+### das absolute Ganze
+* **E:** the absolute totality, the absolute whole
+* **F:** l'ensemble absolu, le tout absolu
+* **P:** کلّ مطلق
+
+### absolute Grenze
+* **E:** absolute limit
+* **F:** limite absolue
+* **P:** مرز مطلق
+
+### absolute Möglichkeit
+* **E:** absolute possibility
+* **F:** possibilité absolue
+* **P:** امکان مطلق
+
+### absolute Naturnotwendigkeit
+* **E:** absolute natural necessity
+* **F:** nécessité naturelle absolue
+* **P:** ضرورت طبیعی مطلق
+
+### absolute Notwendigkeit
+* **E:** absolute necessity
+* **F:** nécessité absolue, absolue nécessité
+* **P:** ضرورت مطلق
+
+### absolute Realität
+* **E:** absolute reality
+* **F:** réalité absolue
+* **P:** واقعیت مطلق
+
+### absoluter Raum
+* **E:** absolute space
+* **F:** espace absolu
+* **P:** مکان مطلق
+
+### absolute Selbsttätigkeit
+* **E:** absolute self-activity
+* **F:** spontanéité absolue
+* **P:** خودکاری مطلق
+
+### absolute Spontaneität
+* **E:** absolute spontaneity
+* **F:** spontanéité absolue
+* **P:** خودانگیختگی مطلق
+
+### absolutes Subjekt
+* **E:** absolute subject
+* **F:** sujet absolu
+* **P:** درون‌آختهٔ مطلق
+
+### absolute Totalität
+* **E:** absolute totality
+* **F:** totalité absolue
+* **P:** تمامیت مطلق
+
+### absolute Totalität der Erscheiniung
+* **E:** absolute totality of appearance
+* **F:** totalité absolue du phénomène
+* **P:** تمامیت مطلق پدیدار
+
+### absolute Totalität der regressiven Synthesis des Mannigfaltigen
+* **E:** absolute totality of the regressive synthesis of the manifold
+* **F:** totalité absolue de la synthèse régressive du divers
+* **P:** تمامیت مطلق همنهاد قهقرایی بسیارگان
+
+### absolute Vollständigkeit
+* **E:** absolute completeness
+* **F:** intégrité absolue, perfection absolue
+* **P:** فَراراستگی مطلق
+
+### absolute Zeit
+* **E:** absolute time
+* **F:** temps absolu
+* **P:** زمان مطلق
+
+### absolutmöglich
+* **E:** absolutely possible
+* **F:** absolument possible
+* **P:** مطلقاً ممکن
+
+### das Absolutnotwendige / etwas Absolutnotwendiges
+* **E:** the absolutely necessary
+* **F:** l'absolument nécessaire, qq. ch. d'absolument nécessaire
+* **P:** امر مطلقاً ضروری
+
+### Absprung
+* **E:** leap, saltus
+* **F:** saut
+* **P:** جهش
+
+### Abstammung
+* **E:** derivation, heredity, origin, descent
+* **F:** dérivation, origine
+* **P:** نسب، منشأ، اشتقاق، تبار
+
+### das Absteigen
+* **E:** descending, to descend
+* **F:** descendre
+* **P:** فرود آمدن
+
+### absteigende Reihe
+* **E:** descending series
+* **F:** série descendante
+* **P:** سلسلهٔ فرودآینده
+
+### abstrahieren
+* **E:** to abstract
+* **F:** faire abstraction de
+* **P:** منتزع کردن
+
+### abstrakt
+* **E:** abstract
+* **F:** abstrait
+* **P:** انتزاعی [= آهنجیده = تجریدی]
+
+### abstrakte Begriffe
+* **E:** abstract concepts
+* **F:** concepts abstraits
+* **P:** مفهومهای انتزاعی
+
+### abstrakte Synthesis
+* **E:** abstract synthesis
+* **F:** synthèse abstraite
+* **P:** همنهاد انتزاعی
+
+### Abstraktion
+* **E:** abstraction
+* **F:** abstraction
+* **P:** انتزاع
+
+### Abteilung
+* **E:** division, group
+* **F:** division, partie
+* **P:** قسمت؛ طبقه‌بندی کردن، بخش کردن
+
+### actio [G: ποιεῖν = poiein]
+* **P:** فعل، آن یفعل [همچنین: کنش، کردن]
+
+### adäquat
+* **E:** adequate, ~ly
+* **F:** adéquat, ~ement
+* **P:** طابق النعل بالنعل، مکفی، به شیوهٔ مکفی، کافی، به شیوهٔ کافی
+
+### Addition
+* **E:** addition
+* **F:** addition
+* **P:** افزایش، جمع
+
+### ad esse
+* **F:** à l'esse [F]
+* **P:** به بودن، به هستی، به ذات
+
+### adjective
+* **P:** چونان صفت، به مثابهٔ صفت، چونان صفت صوری [اویزرمن: «به طور صوری»، «صورتاً»: формально]
+
+### ad melius esse
+* **F:** au melius esse [F]
+* **P:** به بهتر بودن، به بهتر هستی
+
+### Affektion
+* **E:** affection
+* **F:** affection
+* **P:** انفعال
+
+### Affinität
+* **E:** affinity
+* **F:** affinité
+* **P:** قرابت
+
+### Aggregat
+* **E:** aggregate
+* **F:** agrégat
+* **P:** مجموعه [غلامحسین مصاحب: «توده»]
+
+### Aggregation
+* **E:** aggregation
+* **F:** agrégation
+* **P:** تجمّع
+
+### aggregierte Räume
+* **E:** aggregated spaces
+* **F:** espaces agrégés
+* **P:** مکانهای مجتمع
+
+### αἰσθητά καὶ νοητά = aisthēta kai noēta
+* **P:** حسّیات و معقولات
+
+### akademisch
+* **E:** academic, academical
+* **F:** académique
+* **P:** دانشگاهی
+
+### akroamatische (diskursive) Beweise
+* **E:** acroamatic (discursive) proofs
+* **F:** preuves acroamatiques (discursives)
+* **P:** برهانهای شنیداری [= سماعی] (نُطقی)
+
+### aktiv
+* **E:** active
+* **F:** actif
+* **P:** فعّال، فعّالانه
+
+### Aktus
+* **E:** act, actus
+* **F:** acte
+* **P:** فعل، عمل
+
+### Aktus der Aufmerksamkeit
+* **E:** act of attention
+* **F:** acte d'attention
+* **P:** عمل توجه
+
+### Akzidens
+* **E:** accident
+* **F:** accident
+* **P:** عرض
+
+### Akzidenz
+* **E:** accident
+* **F:** accident
+* **P:** عرض
+
+### Algebra / Algeber
+* **E:** algebra
+* **F:** algèbre, méthode algébrique
+* **P:** جبر
+
+### das All, Alles
+* **E:** that which is all-containing, all, whole; universe
+* **F:** le tout, tout; univers
+* **P:** همه، هرویسپ [پهلوی]؛ کیهان
+
+### allbefassende Realität
+* **E:** all-embracing reality
+* **F:** une réalité qui embrasse tout
+* **P:** واقعیت همه‌فراگیر، واقعیت هرویسپ‌فراگیر
+
+### allbefassender Raum
+* **E:** all-embracing space
+* **F:** espace qui comprend tout
+* **P:** مکان همه‌فراگیر
+
+### Allbesitz
+* **E:** what possesses all, sum-total, complete possession of all
+* **F:** possession entière, entière possession
+* **P:** هرویسپ‌دارایی
+
+### allerhöchste Vernunft
+* **E:** supreme reason, all-highest reason
+* **F:** raison suprême
+* **P:** برترین خرد
+
+### allerrealstes Wesen
+* **E:** ens realissimum
+* **F:** être souverainement réel, être infiniment réel
+* **P:** واقعی‌ترین هستومند
+
+### Allgegenwart
+* **E:** omnipresence
+* **F:** toute-présence, omniprésence
+* **P:** همه‌جاباشندگی، هرویسپ‌باشندگی
+
+### allgegenwärtig
+* **E:** omnipresent
+* **F:** présent partout, omniprésent
+* **P:** همه‌جاباشنده، هرویسپ‌باشنده
+
+### allgemein
+* **E:** universal, ~ly, general, ~ly; all mankind; common
+* **F:** général, ~ement, universel, ~ement, en général; commun
+* **P:** کلّی، همگانی، کلاً، عام، عمومی، عموماً؛ مشترک
+
+### das Allgemeine / etwas Allgemeines
+* **E:** the universal, what is general, what is universal, something universal
+* **F:** le général, de général, qq. ch. de général, généralité, ce qu'il y a de général en qq. ch.
+* **P:** کلیّات، چیزی کلی، امر کلّی
+
+### allgemeine Logik
+* **E:** general logic
+* **F:** logique générale
+* **P:** منطق عمومی
+
+### allgemeine Naturwissenschaft
+* **E:** general science of nature
+* **F:** physique générale
+* **P:** دانش طبیعی عمومی
+
+### allgemeiner Begriff
+* **E:** general concept, universal concept
+* **F:** concept général, concept universel
+* **P:** مفهوم کلّی
+
+### allgemeine Regel
+* **E:** universal rule
+* **F:** règle générale
+* **P:** قاعدهٔ کلّی
+
+### allgemeine Urteile
+* **E:** universal judgments
+* **F:** jugements universels
+* **P:** داوریهای کلّی
+
+### allgemeingültig
+* **E:** universally valid
+* **F:** valable universellement
+* **P:** کلاً معتبر [همچنین: هرویسپ‌معتبر]
+
+### Allgemeingültigkeit
+* **E:** universal validity
+* **F:** universalité
+* **P:** هرویسپ‌ارزشمندی، اعتبار کلّی [همچنین: هرویسپ‌اعتباری]
+
+### Allgemeinheit
+* **E:** universality, generality
+* **F:** universalité, généralité
+* **P:** کلیّت
+
+### allgenugsam
+* **E:** all-sufficient
+* **F:** suffisant à tout
+* **P:** هرویسپ‌بسنده
+
+### allgenugsamer Grund
+* **E:** all-sufficient ground
+* **F:** principe suffisant à tout
+* **P:** بنیاد هرویسپ‌بسنده
+
+### allgewaltig
+* **E:** omnipotent
+* **F:** tout-puissant, omnipotent
+* **P:** هرویسپ‌زورمند
+
+### allgewaltiger Welturheber
+* **E:** omnipotent Author
+* **F:** créateur du monde tout-puissant
+* **P:** جهان‌آفرین هرویسپ‌زورمند، جهان‌کردگار هرویسپ‌زورمند
+
+### Allheit
+* **E:** allness, totality
+* **F:** totalité
+* **P:** هرویسپی
+
+### Allmacht
+* **E:** omnipotence
+* **F:** tout-puissance, omnipotence
+* **P:** هرویسپ‌توانی [در پهلوی پیشوندهای «ویسپ» و «هرویسپ» برابرند با پیشوند -All (یا -all) در آلمانی، و -omni در لاتین؛ و در مورد واژه‌های گوناگون، عملاً گاه یکی، گاه دیگری، و گاه هر دو، بکار می‌روند. ــ در این مورد ما در مراجع خود به visptuvānih (شکل دری: «ویسپ‌توانی») برخورده‌ایم.]
+
+### allmächtig
+* **E:** omnipotent
+* **F:** tout-puissant, omnipotent
+* **P:** هرویسپ‌توان، هرویسپ‌توانا [پهلوی با شکل دری: «ویسپ‌توان»]
+
+### das All (omnitudo) der Realität
+* **E:** the allness (omnitudo) of the reality
+* **F:** le tout (omnitudo) de la réalité
+* **P:** هرویسپ‌واقعیت [= omnitudo) همگی] واقعیت
+
+### allvermögend
+* **E:** all-powerful, omnipotent
+* **F:** tout-puissant, omnipotent
+* **P:** هرویسپ‌توانا
+
+### Allvermögenheit
+* **E:** omnipotence
+* **F:** toute-puissance, omnipotence
+* **P:** هرویسپ‌توانی
+
+### allwissend
+* **E:** omniscient
+* **F:** omniscient
+* **P:** هرویسپ‌دانا [پهلوی با شکل دری: «ویسپ‌دانا»]
+
+### als ob
+* **E:** as if, as though
+* **F:** comme, comme si, pour ainsi dire
+* **P:** که گویی، چنان... که گویی، چنانکه گویی [همچنین: مثل اینکه، انگار، به فرض]
+
+### als solche / als ein- solch-
+* **E:** as such
+* **F:** en tant que tel, comme tel, à ce titre
+* **P:** چونان... [تکرار اسم]، همچون... [تکرار اسم]، بدینسان [محسن ثلاثی، همچنین: «به معنای مطلق»]، [همچنین:... من حیث ... ... از آن روی که ... بود]
+
+### Amphibolie
+* **E:** amphiboly
+* **F:** amphibologie, amphibolie
+* **P:** ایهام
+
+### Analogie
+* **E:** analogy
+* **F:** analogie
+* **P:** آناگویی [از «آناکاوی» + «ـیک»، شکل پهلوی «ـی» صفت‌ساز که در چند شکل در فارسی دری نیز باز مانده است: «نزدیک»، «تاریک»، «باریک». ــ «ـیک» جای اسم نیز می‌نشیند، مانند «دادیک»، «زندیک». با ἀνά در یونانی؛ و «گویی»: «لوژی»؛]، تمثیل و مماثله، قیاس و تمثیل و مماثله، شباهت
+
+### Analogien der Erfahrung
+* **E:** analogies of experience
+* **F:** analogies de l'expérience
+* **P:** آناگوییهای تجربه
+
+### analogisch
+* **E:** analogous
+* **F:** analogue
+* **P:** آناگویانه، مماثل
+
+### Analogon
+* **E:** analogon
+* **F:** analogue
+* **P:** آناگویش، مثال قیاسی، مماثله
+
+### Analysis
+* **E:** analysis
+* **F:** analyse
+* **P:** آناکاوی [از ana/anā در ایرانی باستان، همیشه و هم‌معنا با ἀνά در یونانی، و «کاوی» از «کاویدن»]
+
+### Analysis des Metaphysikers
+* **E:** analysis of the metaphysician
+* **F:** analyse du métaphysicien
+* **P:** آناکاویِ متاگیتی‌گرو
+
+### Analyst
+* **E:** analytical thinker, analyst
+* **F:** analyste
+* **P:** آناکاو
+
+### Analytik
+* **E:** analytic
+* **F:** analytique
+* **P:** آناکاویک [از «آناکاوی» + «ـیک»، شکل پهلوی «ـی» صفت‌ساز که در چند شکل در فارسی دری نیز باز مانده است: «نزدیک»، «تاریک»، «باریک». ــ «ـیک» جای اسم نیز می‌نشیند، مانند «دادیک»، «زندیک». با ana/anā در ایرانی باستان، همیشه و هم‌معنا با ἀνά در یونانی؛ و «کاوی» از «کاویدن». بسنجید با que- فرانسه]
+
+### Analytik der Begriffe
+* **E:** analytic of concepts
+* **F:** analytique des concepts
+* **P:** آناکاویکِ مفهومها
+
+### Analytik der Grundsätze
+* **E:** analytic of principles
+* **F:** analytique des principes
+* **P:** آناکاویکِ آغازه‌ها
+
+### analytisch
+* **E:** analytic, analytical, ~ly
+* **F:** analytique, ~ment
+* **P:** آناکاوانی
+
+### analytische Einheit
+* **E:** analytic unity, analytical unity
+* **F:** unité analytique
+* **P:** یگانگیِ آناکاوانی
+
+### analytische Einheit der Apperzeption
+* **E:** analytic unity of apperception
+* **F:** unité analytique de l'aperception
+* **P:** یگانگیِ آناکاوانیِ خوداندریفت
+
+### analytische Erkenntnis
+* **E:** analytic knowledge
+* **F:** connaissance analytique
+* **P:** شناختِ آناکاوانی
+
+### analytische Opposition
+* **E:** analytical opposition
+* **F:** opposition analytique
+* **P:** تقابلِ آناکاوانی
+
+### analytischer Satz
+* **E:** analytic proposition
+* **F:** proposition analytique
+* **P:** گزارهٔ آناکاوانی
+
+### analytisches Urteil
+* **E:** analytic judgment
+* **F:** jugement analytique
+* **P:** داوریِ آناکاوانی
+
+### analytisches Verfahren
+* **E:** to proceed analytically, analytical process
+* **F:** procédé analytique
+* **P:** فراروندِ آناکاوانی
+
+### Anarchie
+* **E:** anarchy
+* **F:** anarchy
+* **P:** بی‌سالاری
+
+### anerkennen
+* **E:** to recognize, ~ recognise
+* **F:** admettre, reconnaître
+* **P:** برشناختن
+
+### Anfang
+* **E:** beginning; rudiment
+* **F:** commencement; principe
+* **P:** آغاز
+
+### Angelegenheit
+* **E:** task, concern, vocation
+* **F:** affaire, intérêt
+* **P:** وظیفه، کار
+
+### das Angenehme
+* **E:** the pleasant
+* **F:** l'agréable
+* **P:** امر مطبوع
+
+### angenommener Begriff
+* **E:** concept which is assumed, assumed concept
+* **F:** concept admis
+* **P:** مفهوم فرضی
+
+### das Angeschauete
+* **E:** [the] intuited, [the] perceived
+* **F:** [le] perçu, *[l'] intuitionné
+* **P:** سهیده
+
+### angewandte allgemeine Logik
+* **E:** applied general logic
+* **F:** logique générale appliquée
+* **P:** منطق عمومیِ کاربسته
+
+### angewandte Logik
+* **E:** applied logic
+* **F:** logique appliquée
+* **P:** منطقِ کاربسته
+
+### angewandte Philosophie
+* **E:** applied philosophy
+* **F:** philosophie appliquée
+* **P:** فلسفهٔ کاربسته
+
+### Anhang
+* **E:** appendix
+* **F:** appendice
+* **P:** پیوست
+
+### anhängen
+* **E:** to attach
+* **F:** ajouter
+* **P:** دوسیدن [دهخدا: چسبیدن چیزی به چیزی، پیوستن، ملحق شدن، ...]
+
+### anima
+* **P:** جان
+
+### Animalität
+* **E:** animality
+* **F:** animalité
+* **P:** جانداری
+
+### Anlage
+* **E:** disposition, characteristic, capacity, provision, means
+* **F:** disposition, besoin
+* **P:** تمایل، استعداد، سرشته، ظرفیت [همچنین: مقتضیات]
+
+### Anordnung
+* **E:** ordinance, order, arrangement
+* **F:** disposition, ordonnance, ordre, arrangement
+* **P:** نظام، نظم، سامان، ترتیب، آرایش؛ فرمان
+
+### anschauende Gewissheit
+* **E:** intuitive certainty
+* **F:** certitude intuitive
+* **P:** قطعیتِ سهیدنی [همچنین: قطعیت سهانه]
+
+### anschaulich
+* **E:** intuitable, intuitive
+* **F:** perceptible, intuitif
+* **P:** سهیدنی، سهشی
+
+### das Anschauliche
+* **E:** the intuitional
+* **F:** du caractère intuitif
+* **P:** سهشیگی، جنبهٔ سهشی، جنبهٔ سهیدنی، عنصر سهیدنی، چیز سهشی، امر سهیدنی
+
+### Anschauung
+* **E:** intuition
+* **F:** intuition
+* **P:** سهش [از «سهیدن»، «سهستن»؛ در پهلوی: «به نظر آمدن»، «به نظر رسیدن»، «پدیدشدن». هنوز در زبان عوام به معنای «دیدن» کاربرد دارد: «او را بسه»؛ «او را ببین». از ریشهٔ ایرانی `√sad` — احمد کسروی برای «حس»]
+
+### Anschauungsart
+* **E:** mode of intuition
+* **F:** mode d'intuition
+* **P:** شیوهٔ سهش
+
+### Anschauungsform
+* **E:** form of intuition
+* **F:** forme de l'intuition
+* **P:** صورتِ سهش
+
+### Anschauungsvermögen
+* **E:** faculty of intuition
+* **F:** pouvoir d'intuition
+* **P:** قوهٔ سهش
+
+### an sich / an sich selbst
+* **E:** in itself, by itself
+* **F:** en lui-même, en soi
+* **P:** در خود، در خویشتن خود، در گوهر خویش، فی‌نفسه، فی حدّ ذاته
+
+### antecedens
+* **P:** مقدّم [محمد خوانساری]
+
+### Anthropologie
+* **E:** anthropology
+* **F:** anthropologie
+* **P:** انسان‌شناسی
+
+### anthropologisch
+* **E:** anthropological
+* **F:** anthropologique
+* **P:** انسان‌شناسانه، انسان‌شناختی
+
+### Anthroporphismus
+* **E:** anthropomorphism
+* **F:** anthropomorphisme
+* **P:** انسان شکل‌سازی، انسان شکلی، تشبیه [همچنین: انسان‌وارپنداری]
+
+### anthropomorphistisch
+* **E:** anthropomorphic
+* **F:** anthropomorphique
+* **P:** انسان شکل‌سازانه
+
+### Antinomie
+* **E:** antinomy
+* **F:** antinomie
+* **P:** ناموسان‌بیکاری [= مسئلهٔ جدلی الطرفین]
+
+### Antinomie der reinen Vernunft
+* **E:** antinomy of pure reason
+* **F:** antinomie de la raison pure
+* **P:** ناموسان‌بیکاریِ خرد ناب
+
+### Antithese
+* **E:** antithesis
+* **F:** antithèse
+* **P:** پاد نهاده [محمدعلی فروغی (ذکاءالملک): «برابر نهاد»]
+
+### Antithesis
+* **E:** antithesis
+* **F:** antithèse
+* **P:** پادنهاد [فروغی: «برابرنهاد»]
+
+### Antithetik
+* **E:** antithetic
+* **F:** antithétique
+* **P:** پادنهادیک
+
+### Antithetik der reinen Vernunft
+* **E:** antithetic of pure reason
+* **F:** antithétique de la raison pure
+* **P:** پادنهادیکِ خرد ناب
+
+### Antizipation
+* **E:** anticipation
+* **F:** anticipation
+* **P:** پیش‌نگرش
+
+### Antizipationen der Erscheinungen
+* **E:** anticipations of appearances
+* **F:** anticipations des phénomènes
+* **P:** پیش‌نگرشهای پدیدارها
+
+### Antizipationen der Wahrnehmung
+* **E:** anticipations of perception
+* **F:** anticipations de la perception
+* **P:** پیش‌نگرشهای دریافتِ حسّی
+
+### Antrieb
+* **E:** impulse
+* **F:** inclination, penchant, impulsion, propensity
+* **P:** انگیزه
+
+### Anwendung
+* **E:** application
+* **F:** application, appliquer
+* **P:** تطبیق، کاربرد، کاربردِ عملی، اعمال [همچنین: کاربست] [در متن ترجمه، «کاربرد عملی» معمولاً در برابر praktischer Gebrauch بکار برده شده است.]
+
+### Anziehung
+* **E:** attraction
+* **F:** attraction
+* **P:** جاذبه، کشش
+
+### apagogisch
+* **E:** apagogical, ~ly
+* **F:** apagogique, ~ment
+* **P:** آبا آژیرنده، به شیوهٔ آبا آژیرنده [apa در ایرانی باستان همیشه و هم‌معنا با ἀπό در یونانی: «دورکننده»، و «آژیرنده» ← دهخدا: «آگاهاننده»؛ ــ : «دورـ آگاهاننده». یا «افاغوجی»، عربیدهٔ یونانی ἀπαγωγή اشتباه نشود. برای ἀπαγωγή: «آبا آژیرش»]
+
+### apagogische Beweisart
+* **E:** apagogic method of proof
+* **F:** démonstration apagogique
+* **P:** شیوهٔ برهانِ ابا آژیرنده
+
+### apagogischer Beweis
+* **E:** apagogical proof
+* **F:** preuve apagogique
+* **P:** برهانِ ابا آژیرنده
+
+### a parte posteriori
+* **E:** a posteriori
+* **F:** a posteriori
+* **P:** اَفدوم [پهلوی و دری؛ مهرداد بهار: «واپسین»، «آخرین»؛ ← «اَفدم» و «آفدم» در دهخدا: «آخر»، «اخیر»، «فرجام»، «انجام»، و معناهای مشابه دیگر]
+
+### a parte priori
+* **P:** در سوی برتوم، از نگرگاه برتوم
+
+### apodiktisch
+* **E:** apodeictic, apodeictical, ~ly
+* **F:** apodictique, ~ment
+* **P:** یقینی [شیبانی]، ضروری، برهانی؛ یقیناً، به یقین، به شیوهٔ یقینی [همچنین: *ابوذقطیقایی، (از یونانی عربیده: «ابوذقطیقا»؛ یونانی: ἀπόδειξις از ἀποδεیکتیکوس «برهان»، «برهان نمایان»، «یقین»)]
+
+### apodiktische Gewissheit
+* **E:** apodeictic certainty
+* **F:** certitude apodictique
+* **P:** قطعیتِ یقینی
+
+### apodiktische (philosophische) Gewissheit
+* **E:** apodeictic (philosophical) certainty, apodeictic (philosophical) certitude
+* **F:** certitude (philosophique) apodictique, certitude apodictique (philosophique)
+* **P:** قطعیتِ یقینی (فلسفی)
+
+### apodiktischer Gebrauch
+* **E:** apodeictic use
+* **F:** usage apodictique
+* **P:** کاربردِ یقینی
+
+### apodiktischer Satz
+* **E:** apodeictic proposition
+* **F:** proposition apodictique
+* **P:** گزارهٔ یقینی
+
+### apodiktische Urteile
+* **E:** apodeictic judgments
+* **F:** jugements apodictiques
+* **P:** داوریهای یقینی
+
+### Apologie
+* **E:** apology
+* **F:** apologie
+* **P:** مدافعه
+
+### a posteriori
+* **E:** a posteriori
+* **F:** a posteriori
+* **P:** اَفدوم [پهلوی و دری؛ مهرداد بهار: «واپسین»، «آخرین»؛ ← «اَفدم» و «آفدم» در دهخدا: «آخر»، «اخیر»، «فرجام»، «انجام»، و معناهای مشابه دیگر]
+
+### apperceptionis substantiatae [gen.; - nom.: apperceptio substantiata]
+* **P:** [متعلق به] خوداندریفتِ جوهری شده
+
+### Apperzeption
+* **E:** apperception
+* **F:** aperception
+* **P:** خوداندریفت
+
+### apprehendieren
+* **E:** to apprehend
+* **F:** appréhender
+* **P:** سادگانه درک کردن
+
+### das Apprehendieren
+* **E:** apprehension, apprehending
+* **F:** acte d'appréhender
+* **P:** ادراکِ ساده
+
+### Apprehension
+* **E:** apprehension
+* **F:** appréhension
+* **P:** ادراکِ ساده
+
+### a priori
+* **E:** a priori
+* **F:** a priori
+* **P:** بَرتوم [پهلوی: fraðōm و fratom: «نخستین»؛ ← «فرُدُم» در دهخدا: املای با «ف» را به سبب تداعی با «بازرسال»، «پریروز»، «پریشب»، «پارینه» و «پیشین»، ترجیح داده‌ایم]، ما تقدم
+
+### arbitrium brutum
+* **P:** ارادهٔ حیوانی
+
+### arbitrium liberum
+* **P:** ارادهٔ مختار، اختیار
+
+### arbitrium sensitivum
+* **P:** ارادهٔ حسّی
+
+### Architektonik
+* **E:** architectonic
+* **F:** architectonique
+* **P:** مهرازیک [rāz و rāzgar و rāz kīrrōg در ایرانی میانهٔ باختری: «معمار و بنّا». ضمناً «راز» در برهان قاطع از جمله به «بَنّا و گِل کار» معنا شده است. «مهرازیک» متشکل است از: «مه» (بزرگ، سر) + «راز» + «ـیک»]، ساختمانِ مهرازانه، ساختمان معمارانه
+
+### Architektonik der reinen Vernunft
+* **E:** architectonic of pure reason
+* **F:** architectonique de la raison pure
+* **P:** مهرازیکِ خرد ناب
+
+### architektonisch
+* **E:** architectonic
+* **F:** architectonique
+* **P:** معمارانه، مهرازانه
+
+### architektonisches Interesse
+* **E:** architectonic interest
+* **F:** intérêt architectonique
+* **P:** علاقهٔ مهرازانه، علاقهٔ معمارانه
+
+### Argument
+* **E:** argument
+* **F:** raisonnement
+* **P:** احتجاج، استدلال
+
+### (argumentum) a contingentia mundi
+* **P:** (استدلال) بر پایهٔ تصادفِ عالم [همچنین: (استدلال) بر پایهٔ امکان عالم، (استدلال) بر پایهٔ حدوث عالم]
+
+### Argutation
+* **E:** disputation, argutation
+* **F:** argutie
+* **P:** بهانه‌گیریِ ظریفانه
+
+### Arithmetik
+* **E:** arithmetic
+* **F:** arithmétique
+* **P:** حساب
+
+### arithmetisch
+* **E:** arithmetical
+* **F:** arithmétique
+* **P:** حسابی
+
+### Art
+* **E:** species; way, mode, kind
+* **F:** espèce; manière, nature
+* **P:** نوع؛ گونه، شیوه، سان؛ چیستی
+
+### articulatio
+* **P:** تَمَفْصُل [= انسجام]
+
+### Artikulation
+* **E:** articulation
+* **F:** articulation
+* **P:** انسجام [= تمفصل]
+
+### assertio
+* **P:** حکم
+
+### Assertion
+* **E:** assertion
+* **F:** assertion
+* **P:** حکم
+
+### assertorisch
+* **E:** assertoric, assertorical, ~ly
+* **F:** assertorique, ~ment
+* **P:** تحقیقی؛ تحقیقاً، به طور تحقیقی
+
+### assertorischer Satz
+* **E:** assertoric proposition
+* **F:** proposition assertorique
+* **P:** گزارهٔ تحقیقی
+
+### assertorische Urteile
+* **E:** assertoric judgments
+* **F:** jugements assertoriques
+* **P:** داوریهای تحقیقی
+
+### assoziabel
+* **E:** associable
+* **F:** susceptible de s'associer, associable
+* **P:** تداعی‌پذیر
+
+### Assoziation
+* **E:** association
+* **F:** association
+* **P:** تداعی
+
+### Ästhetik
+* **E:** aesthetic
+* **F:** esthétique
+* **P:** حسّیک [همچنین: حسّیات، استاطیقا]
+
+### ästhetische Theorie
+* **E:** aesthetic theory
+* **F:** théorie esthétique
+* **P:** نظریهٔ حسّیک
+
+### Astronomie
+* **E:** astronomy
+* **F:** astronomie
+* **P:** اخترشناسی
+
+### asymptotisch
+* **E:** asymptotic, asymptotical, ~ly
+* **F:** par asymptote
+* **P:** مجانبواری
+
+### Atheismus
+* **E:** atheism
+* **F:** athéisme
+* **P:** خداناگروی [همچنین: خداناکروی]
+
+### atheistisch
+* **E:** atheistic, atheistical, ~ly
+* **F:** athée, athéistique, en athée
+* **P:** خداناگروانه، خداناشناسانه، خداناپرستانه
+
+### Atomus
+* **E:** atomus
+* **F:** atome
+* **P:** اتم، ذرّهٔ بخش‌ناپذیر
+
+### Attribut
+* **E:** attribute
+* **F:** attribut
+* **P:** مسند
+
+### Aufeinanderfolgen
+* **E:** succession
+* **F:** succession
+* **P:** پی‌درپی آمدن
+
+### Aufgabe
+* **E:** task, problem
+* **F:** problème, entreprise
+* **P:** تکلیف؛ مسئله
+
+### aufgegeben
+* **E:** set as a task, prescribed; given
+* **F:** proposé, imposé; donné
+* **P:** پیش‌نهاده شده، مسئله‌وار پیش‌نهاده شده، مسئله‌وار پیش‌نهاده؛ داده شده، در برابر... نهاده شده
+
+### Aufhebung
+* **E:** denial, abrogation, cancellation
+* **F:** suppression, supprimé, négation
+* **P:** رفع
+
+### Aufklärung
+* **E:** elucidation, restoration, clarification; enlightenment
+* **F:** éclaircissement; renaissance, lumières
+* **P:** روشنگری، روشن‌سازی
+
+### Auflösung
+* **E:** solution, dissolution, exposure, resolution
+* **F:** solution, separation, résolution
+* **P:** فروگشایی [افضل‌الدین کاشانی]، حلّ
+
+### Aufmerksamkeit
+* **E:** attention
+* **F:** attention, remarque
+* **P:** توجّه
+
+### Aufnahme
+* **E:** reception
+* **F:** admission
+* **P:** پذیرش
+
+### Aufnehmung
+* **E:** admission
+* **F:** admission
+* **P:** پذیرش
+
+### Aufschluß
+* **E:** information, solution
+* **F:** éclaircissement, explication, solution
+* **P:** بازگشود [همچنین: توضیح، اطلاع]
+
+### das Aufsteigen
+* **E:** to ascend, ascending
+* **F:** remonter
+* **P:** بالا رفتن، برشدن
+
+### aufsteigende Reihe
+* **E:** ascending series
+* **F:** série ascendante
+* **P:** سلسلهٔ بالارونده
+
+### Augenblick
+* **E:** instant, moment
+* **F:** moment, clin d'œil
+* **P:** لحظه، چشم به هم زدن
+
+### Ausbreitung
+* **E:** application, extension
+* **F:** extension
+* **P:** توسعه
+
+### Ausdehnung
+* **E:** extension
+* **F:** extension
+* **P:** أستتنش [از «*استیدن» به قیاس ustāna [zastō] در اوستایی (گاهان): همیشه و هم‌معنا با آلمانی و لاتین]، کشیدگی، بُعد
+
+### Ausdruck
+* **E:** expression, character, thesis, way of speaking, saying
+* **F:** expression, exprimer, mot, exposition, caractère
+* **P:** اصطلاح؛ بیان، شیوهٔ بیان؛ جنبهٔ بیان؛ گفته؛ افاده [همچنین: عبارت، ضابطه، فرمول]
+
+### Ausführlichkeit
+* **E:** exhaustiveness, completeness, thoroughness
+* **F:** étendue, être explicite, entrer dans le détail, développement
+* **P:** جامعیت
+
+### ausgedehnt
+* **E:** extended
+* **F:** étendu
+* **P:** أستتیده [محمد مقدم: اوستایی]
+
+### das Ausgedehnte
+* **E:** the extended
+* **F:** l'étendu, ce qui est étendu
+* **P:** چیزِ أستتیده، أستتیدگار
+
+### Ausschließung
+* **E:** excluding, exclusion
+* **F:** exclusion
+* **P:** برون‌بندی
+
+### das Äußere / etwas Äußeres
+* **E:** the Outer, outer, outside something, something external
+* **F:** l'externe, l'extérieur, qq. ch. d'extérieur
+* **P:** بیرونگان، چیزِ بیرونی، چیزی بیرون
+
+### äußere Anschauung
+* **E:** outer intuition
+* **F:** intuition externe, intuition extérieure
+* **P:** سهشِ بیرونی
+
+### äußere Erfahrung
+* **E:** outer experience
+* **F:** expérience extérieure
+* **P:** تجربهٔ بیرونی
+
+### äußere Gegenstände
+* **E:** external objects, outer objects
+* **F:** objets extérieurs
+* **P:** برابرایستاهای بیرونی
+
+### äußerer Sinn
+* **E:** outer sense
+* **F:** sens extérieur, sens externe
+* **P:** حسِّ بیرونی
+
+### außerhalb der Welt
+* **E:** outside the world
+* **F:** hors du monde, en dehors du monde
+* **P:** در بیرون از جهان
+
+### außersinnlich
+* **E:** extra-sensory, extra-sensuous, non-sensible
+* **F:** extrasensible
+* **P:** فراحسّی
+
+### Äußerung
+* **E:** manifestation, utterance, expression
+* **F:** manifestation, expression
+* **P:** بیان
+# واژه‌نامه سنجش خرد ناب - حرف B
+
+### 1. Bahn
+* **E:** path
+* **F:** orbite, marche, voie
+* **P:** مسیر، مدار [= auf die Bahn bringen: to establish, to make out a case = mettre en avant: دست یافتن، مطرح کردن، برقرار ساختن، به مسیر انداختن، تکوین، ...]
+
+### 2. Bearbeitung
+* **E:** treatment, endeavour, preoccupation, enquiry, investigation; work
+* **F:** travail que l'on fait, travail, étude; œuvre
+* **P:** بررسی عملی، به عمل آوری، به عمل آوردن، کارگردانی، تعمیل؛ کار، اثر
+
+### 3. Bedeutung
+* **E:** significance, meaning, sense
+* **F:** signification, valeur, sens
+* **P:** معنا، فحوا، دلالت
+
+### 4. das Bedingte
+* **E:** the conditioned
+* **F:** le conditionné
+* **P:** امر مشروط
+
+### 5. Bedingung
+* **E:** condition
+* **F:** condition
+* **P:** شرط
+
+### 6. Befolgung
+* **E:** observance
+* **F:** observance
+* **P:** پیروی، پیروی و اطاعت، پیروی و تقلید
+
+### 7. Beförderung
+* **E:** furtherance, furthering
+* **F:** développement, progresser, instrument de la fin, avancement
+* **P:** پیشبرد
+
+### 8. Befriedigung
+* **E:** satisfaction
+* **F:** satisfaction, satisfaire, solution satisfaisante, la paix
+* **P:** خرسندی، خرسندسازی [همچنین: خرسند شدگی]، ارضاء؛ موفقیت
+
+### 9. Befugnis
+* **E:** right
+* **F:** droit
+* **P:** حقّ
+
+### 10. Begebenheit
+* **E:** event, occurrence
+* **F:** événement, fait
+* **P:** رویداد
+
+### 11. Begierده (Begierde)
+* **E:** desire
+* **F:** désir, tendence
+* **P:** خواهش، میل
+
+### 12. Begleitung
+* **E:** concomitance, coexistence
+* **F:** simultanéité
+* **P:** همراهی، باهمی
+
+### 13. begreifen / das Begreifen
+* **E:** to grasp, to understand, grasping
+* **F:** comprendre, saisir
+* **P:** اندریافتن، دریافتن، اندر گرفتن، فرایافتن، درک کردن، ادراک
+
+### 14. Begreiflichkeit
+* **E:** being conceivable, comprehension, to comprehend, comprehending
+* **F:** concevoir, compréhension
+* **P:** اندریافتندگی [رایموند اشمیت در A789/B817 می‌دهد: Begreiflichkeit؛ ولی هایدمان و وایشدل در همان موضع: ... . ــ به هرسان، Begreiflichkeit را می‌توان به اصطلاح‌های زیر برگرداند: مفهومیت، مفهوم‌واری، مفهومگی، مفهوم پذیری، مفهوم سازی، فرایافتگی، و مانند آنها]
+
+### 15. Begrenzung
+* **E:** limitation, to limit, limiting, definiteness
+* **F:** limitation, limite, circonscription
+* **P:** کرانمند ساختن، تحدید، محدودیت؛ محیط؛ مرزها
+
+### 16. Begriff
+* **E:** concept, conception; outline
+* **F:** concept, conception, idée; résumé
+* **P:** مفهوم؛ چکیده [در: kurzer Begriff: کاربرد نافی]
+
+### 17. Begriffe a priori
+* **E:** a priori concepts
+* **F:** concepts a priori
+* **P:** مفهومهای برتوم
+
+### 18. Begriffe der Reflexion
+* **E:** concepts of reflexion
+* **F:** concepts de la réflexion
+* **P:** مفهومهای تأمّل
+
+### 19. Behandlung
+* **E:** application, operation, action, treatment
+* **F:** opération, action, étude, traitement
+* **P:** بررسی، شیوهٔ بررسی، کنش، عمل
+
+### 20. beharrlich
+* **E:** established, obstinate, ~ly, permanent
+* **F:** subsistant, fixe; endurci, durable
+* **P:** پاینده؛ سرسخت؛ پایدار
+
+### 21. das Beharrliche / etwas Beharrliches
+* **E:** the permanent, something permanent
+* **F:** le permanent, qq. ch. de permanent
+* **P:** پاینده‌گار، چیز پاینده
+
+### 22. Beharrlichkeit
+* **E:** permanence, duration
+* **F:** permanence
+* **P:** پایندگی
+
+### 23. behauptend
+* **E:** affirmative, affirming, asserting
+* **F:** affirmatif, affirmant
+* **P:** تأیید کننده، هاینده [همچنین: حکم کننده، ادّعا کننده؛ و بدینسان]
+
+### 24. Behauptung
+* **E:** assertion, contention, maintaining, to maintain
+* **F:** affirmation, assertion, dire, défendre
+* **P:** حکم، حکم کردن، اثبات، تأیید
+
+### 25. beifallswürdig
+* **E:** praiseworthy, commendable
+* **F:** digne d'approbation
+* **P:** ستودنی [همچنین: درخور تمجید، درخور تحسین]
+
+### 26. beigeordnet
+* **E:** coordinate, coordinated
+* **F:** coordonné
+* **P:** هم‌آراسته
+
+### 27. Beisammensein
+* **E:** coexistence
+* **F:** coexistence
+* **P:** همبود، همبودی
+
+### 28. Beispiel
+* **E:** example
+* **F:** exemple
+* **P:** نمونه
+
+### 29. bejahen
+* **E:** to affirm, to confirm, to assert
+* **F:** affirmer
+* **P:** هاییدن، تأیید کردن، ایجاب کردن
+
+### 30. das Bejahen
+* **E:** affirmation, affirming
+* **F:** affirmation
+* **P:** هایش [= ایجاب، ــ دهخدا: «ها»:: آری؛ ذبیح بهروز: «هایی»:: مثبت. «هایش» از مصدر برساختهٔ «هاییدن»؛ آری گفتن، تأیید کردن، ایجاب کردن. ــ محمود هومن: «آری‌گویی»]
+
+### 31. bejahend
+* **E:** affirmative, affirming, asserting
+* **F:** affirmatif
+* **P:** هایی [= ایجابی] [بهروز: ــ شرف‌الدین خراسانی: «آری‌گوی»؛ : κατάφασις], هاینده، ایجابی، موجب (موجبه)؛ هایانه، در جهتِ هایی، به طور هایی، ایجاباً
+
+### 32. bejahende Urteile
+* **E:** affirmative judgments
+* **F:** jugements affirmatifs
+* **P:** داوریهای هایی
+
+### 33. Bejahung
+* **E:** affirmation, assertion
+* **F:** affirmation
+* **P:** هایش [= ایجاب]
+
+### 34. Belehrung
+* **E:** instruction
+* **F:** enseignement, instruction, instruire
+* **P:** آموزش
+
+### 35. beliebig
+* **E:** arbitrary, optional
+* **F:** arbitraire, ~ment
+* **P:** اختیاری
+
+### 36. Benennung
+* **E:** title, name, using the name in a certain sense
+* **F:** nom, dénomination, titre, expression
+* **P:** نامگذاری، نامش، عنوان
+
+### 37. Beobachtung
+* **E:** observation
+* **F:** observation
+* **P:** مشاهده
+
+### 38. Berichtigung
+* **E:** correction, determination, correct understanding; to correct, correcting
+* **F:** justification, légitimité, rectifier, vérifier
+* **P:** راستداشت، تصحیح
+
+### 39. Berrührung (Berührung)
+* **E:** contact
+* **F:** contact
+* **P:** تماس
+
+### 40. Beschaffenheit
+* **E:** nature, character, constitution, property
+* **F:** nature, manière d'être, essence, constitution
+* **P:** سرشت، چگونگی؛ نفس
+
+### 41. Beschluß
+* **E:** conclusion
+* **F:** conclusion
+* **P:** نتیجه
+
+### 42. besonder-
+* **E:** particular, special; distinct, independent, separate
+* **F:** particulier, spécial; séparé
+* **P:** ویژه؛ جزئی؛ جداگانه
+
+### 43. das Besondere
+* **E:** the particular, peculiarity
+* **F:** le particulier, de particulier, particularité
+* **P:** جنبهٔ ویژه، نکتهٔ ویژه؛ امر جزئی
+
+### 44. besondere Urteile
+* **E:** particular judgments
+* **F:** jugements particuliers
+* **P:** داوریهای جزئی
+
+### 45. besonders
+* **E:** specially, especially, specifically, particular-ly; separately; distinctly
+* **F:** spécialement, particulièrement, en particulier, surtout, pour soi et à sa guise; séparément
+* **P:** بویژه؛ جداگانه؛ مشخصاً
+
+### 46. Besserung
+* **E:** improvement, amelioration
+* **F:** amélioration, perfectionnement
+* **P:** بهسازی
+
+### 47. Bestandteil
+* **E:** constituent
+* **F:** élément, partie intégrante
+* **P:** سازه
+
+### 48. Bestätigung
+* **E:** confirmation, to confirm, confirming
+* **F:** confirmation, à l'appui de
+* **P:** تأیید، تصدیق
+
+### 49. bestimmbar
+* **E:** determinable
+* **F:** déterminable
+* **P:** تعیین‌پذیر
+
+### 50. das Bestimmbare
+* **E:** the determinable
+* **F:** ce qui est à déterminer
+* **P:** امرِ تعیین‌پذیر
+
+### 51. Bestimmbarkeit
+* **E:** determinability
+* **F:** faculté d'être déterminable, déterminabilité
+* **P:** تعیین‌پذیری
+
+### 52. das Bestimmen
+* **E:** determination
+* **F:** détermination, acte de détermination
+* **P:** تعیین کردن
+
+### 53. das Bestimmende
+* **E:** the determining
+* **F:** ce qui détermine
+* **P:** امرِ تعیین‌کننده
+
+### 54. Bestimmtheit
+* **E:** determinateness
+* **F:** détermination, *détermin[é-]یت (déterminéité)
+* **P:** متعیّن شدگی
+
+### 55. Bestimmung
+* **E:** determination, determining, determinate-ness; exposition; definition; vocation, function; destination, destiny; interest; career
+* **F:** détermination, déterminer, caractère déter-miné; destination, destinée; carrière
+* **P:** تعیّن، خصیصه؛ تعیین [شیبانی]، تحدید [در متن وارد نشده]، تعریف، معیّن کردن، مشخص کردن؛ مقصد، مقصود؛ سرشت؛ سرنوشت، سرنوشت مقدّر، قسمت؛ زندگی؛ کاریر
+
+### 56. Betrachtung
+* **E:** thinking, thought, enquiry, investigation, speculation; point
+* **F:** considération, étude, méditation, réflexion
+* **P:** مطالعه، ملاحظه، نگرش
+
+### 57. Betrug
+* **E:** fallacy, fraud
+* **F:** erreur, mensonge
+* **P:** فریب
+
+### 58. Betrug der Sinne
+* **E:** deception of the senses, sense-deception
+* **F:** illusion des sens, erreurs des sens
+* **P:** خطاهای حسّی
+
+### 59. Beurteilung
+* **E:** critical examination, estimation, judging, judgment, judgement
+* **F:** rendre compte, compte rendu, appréciation, examin critique
+* **P:** داوری، داوری و ارزیابی، بررسی و داوری، داوری و نقد، نقد و داوری، نقد
+
+### 60. Bewandtnis
+* **E:** nature
+* **F:** nature
+* **P:** چیستی [فرهنگ بزرگ محیط: حالت، وضعیت؛ ــ خراسانی: «وضع پیرامونی»]
+
+### 61. Bewegung
+* **E:** motion, movement
+* **F:** mouvement
+* **P:** جنبش [افضل‌الدین کاشانی]
+
+### 62. Bewegungsgrund
+* **E:** motive
+* **F:** mobile, motif
+* **P:** انگیزاننده، بنیاد انگیزاننده، بنیاد جنباننده، نیروی جنباننده، دلیل محرک، محرک، سائق
+
+### 63. Bewegungslehre
+* **E:** doctrine of motion
+* **F:** théorie du mouvement
+* **P:** جنبش‌شناسی
+
+### 64. Bewegursache
+* **E:** motive, mobile
+* **F:** NULL
+* **P:** علّتِ جنباننده، علّتِ انگیزاننده، انگیزهٔ جنباننده، قوّهٔ محرّکه
+
+### 65. Beweis
+* **E:** proof
+* **F:** preuve
+* **P:** برهان، دلیل
+
+### 66. Beweisgrund
+* **E:** proof, ground of proof
+* **F:** preuve, démonstration, argument
+* **P:** دلیل، مبنای برهانی، برهان
+
+### 67. Beweiskraft
+* **E:** force of argument
+* **F:** force démonstrative
+* **P:** نیروی برهانی
+
+### 68. Bewußtsein
+* **E:** consciousness
+* **F:** conscience
+* **P:** آگاهی
+
+### 69. Bezeichnung
+* **E:** designation
+* **F:** désignation
+* **P:** مشخص‌سازی، نشان‌گذاری
+
+### 70. Beziehung
+* **E:** relation
+* **F:** relation, rapport, point de vue
+* **P:** رابطه
+
+### 71. Bild
+* **E:** image, picture, figure
+* **F:** image, figure, figuratif, procédé figuratif
+* **P:** انگاره، تصویر
+
+### 72. bildende Synthesis
+* **E:** formative synthesis, figurative synthesis
+* **F:** synthèse figurative, systhèse formative
+* **P:** همنهادِ سازنده
+
+### 73. Bildung
+* **E:** development, formation
+* **F:** formation
+* **P:** تاشیدن [پهلوی: آفریدن، خلق کردن، ایجاد کردن، بریدن، تراشیدن، شکل دادن، قالب کردن]
+
+### 74. Billigkeit
+* **E:** equity
+* **F:** équité
+* **P:** انصاف
+
+### 75. das Bleibende / (etwas) Bleibendes
+* **E:** something abiding, the abiding
+* **F:** qq. ch. de permanent, qq. ch. de durable, le durable
+* **P:** ماندگار، چیزِ ماندگار
+
+### 76. Blendwerk
+* **E:** deceptive influence, deceptive appearance, delusion, illusion, fallacy, sophism; fallacious
+* **F:** illusion, prestige
+* **P:** ترفند، ترفندِ ناآگاه، ترفندِ توهم‌انگیز، هذیان، خیال، فریبنده، ترفندِ فریبا
+
+### 77. bloße Begriffe
+* **E:** mere concepts, concepts alone
+* **F:** simples concepts
+* **P:** مفهومهای محض
+
+### 78. bloßer reiner Begriff
+* **E:** bare and pure concept
+* **F:** simple concept pur
+* **P:** مفهومِ نابِ محض
+
+### 79. Buchstabenrechnung
+* **E:** algebra
+* **F:** algèbre
+* **P:** جبر
+
+### 80. Bürger einer besseren Welt
+* **E:** citizenship in a better world, citizen of a better world
+* **F:** citoyen d'un mond meilleur
+* **P:** شهروندِ یک جهانِ بهتر
+# واژه‌نامه سنجش خرد ناب - حروف C و D
+
+## حرف C
+
+### 1. Cartesianisch
+* **E:** Cartesian, of Descartes
+* **F:** de Descartes, cartésien
+* **P:** دکارتی
+
+### 2. casus datae legis
+* **P:** مورد قانونِ مُعطىٰ [اویزرمن: «موردِ [عملِ] قانونِ مُعطىٰ»: случай [действия] данного закона]
+
+### 3. casus in terminis
+* **P:** مورد در حدود [اویزرمن: случай в пределах]
+
+### 4. Causalität
+* **E:** causality
+* **F:** causalité
+* **P:** علّیت
+
+### 5. causa phaenomenon
+* **P:** علّتِ پدیده‌ها
+
+### 6. Champion
+* **E:** champion
+* **F:** champion
+* **P:** قهرمان
+
+### 7. Chaos
+* **E:** chaos
+* **F:** chaos
+* **P:** هرج و مرج [کاربرد نافی؛ ــ وگرنه: «خائوس»]
+
+### 8. Charakter
+* **E:** mark, character, symbole
+* **F:** caractère
+* **P:** سرشت ـ نشان، علامت، جنبه
+
+### 9. Charakteristik
+* **E:** characteristic properties
+* **F:** caractéristique
+* **P:** سرشت ـ نشانیک
+
+### 10. charakteristisch
+* **E:** characteristic; by characters, by symbols, by means of symbols, symbolic
+* **F:** caractéristique; par les caractères, par les symboles, symbolique
+* **P:** علامتی
+
+### 11. das Charakteristische
+* **E:** the characteristic
+* **F:** la caractéristique
+* **P:** سرشت ـ نشان، نشانِ سرشتی
+
+### 12. Chemiker
+* **E:** chemist
+* **F:** chimiste
+* **P:** شیمی‌دان
+
+### 13. etwas Chimärisches / das Chimärische
+* **E:** the chimerical nature
+* **F:** qq. ch. de chimérique
+* **P:** خیال واهی
+
+### 14. coacervatio
+* **P:** تجمّع
+
+### 15. cogito
+* **P:** فکر می‌کنم
+
+### 16. cogito, ergo sum
+* **P:** فکر می‌کنم، پس هستم
+
+### 17. cognitio
+* **P:** معرفت
+
+### 18. cognitio ex datis
+* **P:** معرفت بر پایهٔ داده‌ها
+
+### 19. cognitio ex principiis
+* **P:** معرفت بر پایهٔ اصلها
+
+### 20. commercium
+* **E:** commerce
+* **F:** commercium, commerce [F]
+* **P:** معامله
+
+### 21. communio
+* **P:** اتفاق
+
+### 22. communio spatii
+* **P:** اتفاق فضایی
+
+### 23. comparatio
+* **P:** مقایسه
+
+### 24. compositio
+* **P:** ترکیب
+
+### 25. compositum / Compositum
+* **E:** composite
+* **F:** composé
+* **P:** مرکّب، ترکیب [همچنین: امر مرکّب]
+
+### 26. compositum ideale
+* **F:** composé idéal [F]
+* **P:** ترکیب مینوی، مرکّبِ مینوی
+
+### 27. compositum reale
+* **F:** composé réel [F]
+* **P:** مرکّبِ واقعی
+
+### 28. conceptus
+* **P:** فرایافت [= مفهوم. ــ اصطلاح conceptus (مترادف با Begriff)، فقط در پنج عبارت زیر آمده، نه بتنهایی. ضبط مستقلّ آن استثنائاً انجام گرفته است.]
+
+### 29. conceptus communis
+* **P:** فرایافتِ عامّ، مفهوم عامّ
+
+### 30. conceptus comparationis
+* **P:** فرایافتِ مقایسه‌ای
+
+### 31. conceptus cosmicus
+* **P:** فرایافتِ کیهانی
+
+### 32. conceptus ratiocinantes
+* **P:** فرایافتهای عقل‌پردازانه [همچنین: فرایافتهای عقلنده، مفهومهای عقلنده. ــ «عقلنده» از مصدر برساختهٔ «عقلیدن»]
+
+### 33. conceptus ratiocinati
+* **P:** فرایافتهای حاصل از استنتاج عقلی [همچنین: فرایافتهای عقلیده، مفهومهای عقلیده. ــ «عقلیده» از مصدر برساختهٔ «عقلیدن»]
+
+### 34. conclusio
+* **E:** conclusion [E]
+* **P:** نتیجه
+
+### 35. Conclusion
+* **E:** conclusion
+* **F:** conclusion
+* **P:** نتیجه
+
+### 36. conditio sine qua non
+* **P:** شرطی که بدون آن نمی‌شود
+
+### 37. conjunctio
+* **P:** ربط
+
+### 38. consentientia uni tertio, consentiunt inter se
+* **P:** موارد مطابقت با یک امرِ سوم، عبارت است از مطابقتِ آن موارد اندر میان یکدیگر [همچنین: موافقت ایشان بر سر یک امرِ سوم، عبارت است از موافقت ایشان اندر میان یکدیگر] [در منطق نمادین: `((x ↔ z) ∧ (y ↔ z)) ⇒ (x ↔ y)`]
+
+### 39. consequens
+* **P:** تالی [خوانساری]
+
+### 40. consequentia immediata [sing.]
+* **P:** تالی بلاواسطه
+
+### 41. consequentiae immediatae [pl.]
+* **P:** تالیهای بلاواسطه
+
+### 42. [von den] consequentibus [dat.-abl. pl.; - nom. sing.: consequens]
+* **E:** [from the] consequents
+* **F:** [des] conséquents
+* **P:** از تالیها
+
+### 43. consequentiis immediatis [dat.-abl. pl.; - nom. sing.: consequentia immediata]
+* **P:** از تالیهای بلاواسطه
+
+### 44. continui specierum (formarum logicarum) [gen.; - nom.: continuum specierum (formarum logicarum)]
+* **P:** متّصلهٔ نوعها (یا صورتهای منطقی)
+
+### 45. (conversio) per accidens
+* **P:** وارونه‌سازی از راه تحدید، وارونه‌سازی طیّ تحدید
+
+### 46. copeilich / copielich
+* **E:** ectypal
+* **F:** textuelle, de la copie, ectypal
+* **P:** رونوشت‌وار
+
+### 47. copula
+* **E:** copula
+* **F:** copule
+* **P:** رابط
+
+### 48. coram intuitu intellectuali
+* **P:** به وسیلهٔ شهود فکری
+
+### 49. corpus mysticum
+* **P:** جامعهٔ رازورانه
+
+### 50. Correlatum
+* **E:** correlate
+* **F:** corrélatif
+* **P:** متضایف
+
+### 51. cosmologia rationalis
+* **P:** کیهان‌شناسیِ تعقّلی
+
+---
+
+## حرف D
+
+### 52. dabile [sing. neut.]
+* **P:** قابل اعطا
+
+### 53. dabilis [sing. masc., fem.]
+* **E:** dabilis, allowing of being given
+* **F:** dabilis, donnable
+* **P:** قابل اعطا
+
+### 54. Darlegung
+* **E:** exposition
+* **F:** exposition
+* **P:** بازنمود
+
+### 55. Darstellung
+* **E:** exposition
+* **F:** exposition
+* **P:** بازنمود
+
+### 56. Darstellungsart
+* **E:** mode of depicting, mode of exposition
+* **F:** mode d'exposition; rédaction
+* **P:** شیوهٔ بازنمود
+
+### 57. das Darum
+* **E:** a / the therefore, a / the because
+* **F:** le parce que
+* **P:** ازیرا [همچنین: زیرا، از بهر آنکه، ... و بسی امکانهای دیگر؛ ــ و نیز: ازیرایی]
+
+### 58. das Dasein
+* **E:** existence
+* **F:** existence
+* **P:** برجاهستی
+
+### 59. Data
+* **E:** data
+* **F:** données, data
+* **P:** داده‌ها
+
+### 60. Datum
+* **E:** datum
+* **F:** donnée
+* **P:** داده، معطىٰ
+
+### 61. datur continuum formarum
+* **P:** در صورتها یک متصله وجود دارد
+
+### 62. Dauer
+* **E:** duration
+* **F:** durée
+* **P:** دیرند [یحیی مهدوی، رودکی]، دیسومت [شیبانی: «دیمومة»]
+
+### 63. decompositio
+* **P:** تجزیه
+
+### 64. Deduktion
+* **E:** deduction
+* **F:** déduction
+* **P:** تنقیح مناط [همچنین: استنباط از راه تنقیح مناط، استنباط، انطباق حکم؛ استنتاج قیاسی، استنباط قیاسی]
+
+### 65. Deduktion der reinen Verstandesbegriffe
+* **E:** deduction of pure concepts of understanding
+* **F:** déduction des concepts intellectuels purs, déduction des concepts purs de l'entendement
+* **P:** تنقیح مناط مفهومهای ناب فهم
+
+### 66. Definition
+* **E:** definition
+* **F:** définition
+* **P:** تعریف
+
+### 67. definitum
+* **P:** تعریف شده
+
+### 68. Deist
+* **E:** deist
+* **F:** déiste
+* **P:** خداشناس تعقّلی، خداگرو تعقّلی، [همچنین: خداشناس استدلالی، خداشناس خردکیش]
+
+### 69. deistisch
+* **E:** deistic
+* **F:** déiste
+* **P:** خداشناسانهٔ عقلانی، خداگروانه عقلانی [همچنین: خداشناسانهٔ تعقّلی]
+
+### 70. Dekadik
+* **E:** decade
+* **F:** dizaine
+* **P:** دهگان
+
+### 71. Deklaration
+* **E:** declaration
+* **F:** déclaration
+* **P:** اعلام
+
+### 72. dekomponierende Synthesis
+* **E:** decomposing synthesis
+* **F:** synthèse de décomposition
+* **P:** همنهاد تجزیه شونده
+
+### 73. Dekomposition
+* **E:** decomposition
+* **F:** décomposition
+* **P:** تجزیه
+
+### 74. Demarkation
+* **E:** demarcation
+* **F:** démarcation
+* **P:** مرزبندی
+
+### 75. Demonstration
+* **E:** demonstration
+* **F:** démonstration
+* **P:** برهان، برهان نمایان
+
+### 76. Denkart
+* **E:** point of view, intellectual disposition, way of thinking
+* **F:** manière de penser, méthode
+* **P:** شیوهٔ اندیشه
+
+### 77. denken
+* **E:** to think, thought
+* **F:** penser
+* **P:** اندیشیدن
+
+### 78. das Denken
+* **E:** thought, thinking
+* **F:** pensée, penser
+* **P:** اندیشیدن
+
+### 79. das /der /die Denkende
+* **E:** the thinking
+* **F:** se qui pense
+* **P:** اندیشیدار
+
+### 80. das denkende ich
+* **E:** the thinking "I"
+* **F:** le moi pensant
+* **P:** منِ اندیشنده
+
+### 81. denkende Natur
+* **E:** thinking nature, nature of thinking being
+* **F:** nature pensante
+* **P:** طبیعتِ اندیشنده
+
+### 82. das denkende Selbst
+* **E:** the thinking self
+* **F:** le moi pensant, le principe pensant
+* **P:** خویشتنِ اندیشنده، نفسِ اندیشنده
+
+### 83. denkendes Subjekt
+* **E:** thinking subject
+* **F:** sujet pensant
+* **P:** درون‌آختهٔ اندیشنده
+
+### 84. denkende Substanz
+* **E:** thinking substance
+* **F:** substance pensante
+* **P:** جوهرِ اندیشنده
+
+### 85. denkende Wesen
+* **E:** thinking beings
+* **F:** êtres pensants
+* **P:** هستومندهای اندیشنده
+
+### 86. Denker
+* **E:** thinker
+* **F:** penseur
+* **P:** اندیشنده
+
+### 87. Denkungsart
+* **E:** thought, way of thinking
+* **F:** façon de penser, manière de penser
+* **P:** شیوهٔ اندیشش
+
+### 88. Dependenz
+* **E:** dependence
+* **F:** dépendance
+* **P:** تبعیت
+
+### 89. Depositär
+* **E:** depositary, authority
+* **F:** dépositaire
+* **P:** گنجور
+
+### 90. Despotismus
+* **E:** despotism
+* **F:** despotisme
+* **P:** استبداد
+
+### 91. Deutlichkeit
+* **E:** clearness, clarity
+* **F:** clarté
+* **P:** روشنی
+
+### 92. Diagonale
+* **E:** diagonal
+* **F:** diagonale
+* **P:** تراز‌انال، خطّ قطری [«ترازانال» متشکل از «ترا» هم‌معنا (ولی نه همیشه) با διά در یونانی + «ران» از «رانو» هم‌ریشه با γωνία به معنای «زاویه» در یونانی + «ـال» پسوند نسبت و اتصاف (صفت‌ساز و اسم‌ساز) که در «دنبال»، «چنگال» و «روال» دیده می‌شود. تا حدی هم‌معنا با al- در لاتین] [همچنین: دیاگونال]
+
+### 93. Dialektik
+* **E:** dialectic
+* **F:** dialectique
+* **P:** دویچگویک [پهلوی: čimgōvāgīh به معنای «منطق» + īk پسوند صفت‌ساز پهلوی که می‌تواند به جای اسم بنشیند. دویچگویک (دو + ی + چم + ورز + یک) را در برابر دیالکتیک پیش نهاد. ولی بر پایهٔ اصل رعایت اصل، در این کتاب دویچگویک را ترجیح داده‌ایم.]
+
+### 94. Dialektiker
+* **E:** dialectician
+* **F:** dialecticien
+* **P:** دویچگوگر [dovičemgū]
+
+### 95. dialektisch
+* **E:** dialectical
+* **F:** dialectique
+* **P:** دویچگویانه، دویچگوگی
+
+### 96. dialektische Behauptung
+* **E:** dialectical assertion
+* **F:** assertion dialectique
+* **P:** حکمِ دویچگویانه
+
+### 97. dialektische Gegenbehauptungen
+* **E:** opposed dialectical assertions
+* **F:** affirmations dialectiques opposées
+* **P:** حکمهای دویچگویانهٔ متضاد
+
+### 98. dialektische Kunst
+* **E:** dialectical skill
+* **F:** art dialectique
+* **P:** هنرِ دویچگویی
+
+### 99. dialektische Lehre
+* **E:** dialectical doctrine
+* **F:** doctrine dialectique
+* **P:** آموزهٔ دویچگویانه
+
+### 100. dialektische Opposition
+* **E:** dialectical opposition
+* **F:** opposition dialectique
+* **P:** تقابلِ دویچگویانه
+
+### 101. dialektische Psychologie
+* **E:** dialectical psychology
+* **F:** psychologie dialectique
+* **P:** روانشناسیِ دویچگویانه
+
+### 102. dialektische Betrug [dialektischer Betrug]
+* **E:** dialectical fallacy
+* **F:** erreur dialectique
+* **P:** فریبِ دویچگویانه
+
+### 103. dialektischer Grundsatz
+* **E:** dialectical principle
+* **F:** principe dialectique
+* **P:** آغازهٔ دویچگویانه
+
+### 104. dialektischer Lehrsatz
+* **E:** dialectical doctrine, dialectical theorem
+* **F:** proposition dialectique, théorème dialectique
+* **P:** قضیهٔ دویچگویانه
+
+### 105. dialektischer Schein
+* **E:** dialectical illusion
+* **F:** apparence dialectique
+* **P:** فرانمودِ دویچگویانه
+
+### 106. dialektischer Vernunftschluß
+* **E:** dialectical inference, dialectical syllogism
+* **F:** raisonnement dialectique
+* **P:** قیاسِ خردیِ دویچگویانه
+
+### 107. dialektische Schlüsse
+* **E:** dialectical inferences, dialectical procedures
+* **F:** raisonnements dialectiques, conclusions dialectiques
+* **P:** استدلالهای قیاسی دویچگویانه، قیاسهای دویچگویانه
+
+### 108. Dialexe
+* **E:** sophism, diallelus
+* **F:** diallèle
+* **P:** دور [مهدوی] [تبصره: شکل املایی "Dialexe" در هیچ‌یک از مرجعهای عمدهٔ زبان آلمانی دیده نشد؛ (آیا ممکن است که Dialexe شکل آلمانی واژهٔ یونانی διάλεξις باشد؟ ولی در فرهنگها، واژهٔ اخیر مترادف با διάλληλος دانسته نمی‌شود). ــ به هرسان شکل متعارف آلمانی این مفهوم، Diallele است که در زیر می‌آید. ولی Dialele نیز در متن با یک l ضبط شده که ما به یاری قلاب، املای متعارف را نشان داده‌ایم.]
+
+### 109. Dial[l]ele
+* **E:** sophism, diallelus
+* **F:** diallèle
+* **P:** دور [مهدوی]
+
+### 110. Dichotomie
+* **E:** dichotomy
+* **F:** dichotomie
+* **P:** دوبخشی
+
+### 111. dictum de Omni et Nullo
+* **P:** قولِ همه یا هیچ کدام
+
+### 112. didaktisch
+* **E:** didactic
+* **F:** didactique
+* **P:** تعلیماتی
+
+### 113. Dignität
+* **E:** dignity
+* **F:** dignité
+* **P:** هیبت و وقار
+
+### 114. diktatorisches Ansehen
+* **E:** dictatorial authority
+* **F:** autorité dictatoriale
+* **P:** اعتبار و اقتدارِ مستبدانه
+
+### 115. Dilemma
+* **E:** dilemma
+* **F:** dilemme
+* **P:** قیاسِ ذوحتیْن [مهدوی]
+
+### 116. Dimension
+* **E:** dimension
+* **F:** dimension
+* **P:** بُعد
+
+### 117. Ding
+* **E:** thing
+* **F:** chose
+* **P:** شیء، چیز، امر
+
+### 118. Ding an sich / Ding an sich selbst
+* **E:** thing in itself
+* **F:** chose en elle-même, chose en soi
+* **P:** شیءِ فی نفسه
+
+### 119. Ding überhaupt
+* **E:** thing in general
+* **F:** chose en général
+* **P:** شیءِ عموماً، شیءِ کلّی [همچنین: شیءِ عام، شیءِ علی‌الاطلاق]
+
+### 120. disjunktiv
+* **E:** disjunctive
+* **F:** disjonctif
+* **P:** انفصالی، شرطیِ انفصالی، استثناییِ منفصل
+
+### 121. disjunktiver Obersatz
+* **E:** disjunctive major premiss
+* **F:** majeure disjonctive
+* **P:** مقدمهٔ مهینِ انفصالی
+
+### 122. disjunktiver Satz
+* **E:** disjunctive proposition
+* **F:** proposition disjonctive
+* **P:** گزارهٔ انفصالی
+
+### 123. disjunktiver Vernunftschluß
+* **E:** disjunctive syllogism
+* **F:** syllogisme disjonctif, raisonnement disjonctif de raison
+* **P:** قیاسِ خردیِ شرطیِ انفصالی، قیاسِ خردیِ استثناییِ منفصل
+
+### 124. disjunktives Urteil
+* **E:** disjunctive judgment
+* **F:** jugement disjonctif
+* **P:** داوریِ انفصالی
+
+### 125. diskursiv
+* **E:** discursive, ~ly
+* **F:** discursif, manière discursive
+* **P:** برهانی، نطقی
+
+### 126. diskursive Erkenntnis
+* **E:** discursive knowledge
+* **F:** connaissance discursive
+* **P:** شناختِ برهانی
+
+### 127. diskursive Grundsätze
+* **E:** discursive principles
+* **F:** principes discursifs
+* **P:** آغازه‌های نطقی، آغازه‌های برهانی
+
+### 128. diskursive (logische) Deutlichkeit
+* **E:** disscursive (logical) clearness, discursive or logical clearness
+* **F:** clarté discursive (logique)
+* **P:** روشنیِ برهانی (منطقی)
+
+### 129. diskursiver Begriff
+* **E:** discursive concept
+* **F:** concept discursif
+* **P:** مفهومِ برهانی
+
+### 130. distributive Einheit
+* **E:** distributive unity
+* **F:** unité distributive, unité distributrice
+* **P:** یگانگیِ توزیعی
+
+### 131. Disziplin
+* **E:** discipline
+* **F:** discipline
+* **P:** انضباط
+
+### 132. Disziplin der reinen Vernunft
+* **E:** discipline of pure reason
+* **F:** discipline de la raison pure
+* **P:** انضباطِ خرد ناب
+
+### 133. Division
+* **E:** division
+* **F:** division
+* **P:** تقسیم
+
+### 134. Dogma [pl.: Dogmata]
+* **E:** dogma
+* **F:** dogma, dogme
+* **P:** اصل جزمی
+
+### 135. Dogmatiker
+* **E:** dogmatist
+* **F:** dogmatique
+* **P:** جزم‌اندیش
+
+### 136. dogmatisch
+* **E:** dogmatic, dogmatical, ~ly
+* **F:** dogmatique, ~ment
+* **P:** جزمی، جزم‌اندیشانه، جزماً
+
+### 137. dogmatische Behauptung
+* **E:** dogmatic assertion
+* **F:** assertion dogmatique
+* **P:** حکمِ جزمی
+
+### 138. dogmatische Methode
+* **E:** dogmatic methode
+* **F:** méthode dogmatique
+* **P:** روشِ جزمی
+
+### 139. dogmatischer Idealismus
+* **E:** dogmatic idealism
+* **F:** idéalisme dogmatique
+* **P:** مینوگرویِ جزمی
+
+### 140. dogmatischer Idealist
+* **E:** dogmatic idealist
+* **F:** idéaliste dogmatique
+* **P:** مینوگرویِ جزمی
+
+### 141. dogmatischer Spiritualist
+* **E:** dogmatic spiritualist
+* **F:** spiritualiste dogmatique
+* **P:** روح‌گرویِ جزمی
+
+### 142. dogmatisches Ansehen
+* **E:** dogmatic authority
+* **F:** prétendu dogmatique
+* **P:** اعتبار و اقتدارِ جزمی
+
+### 143. Dogmatism
+* **E:** dogmatism
+* **F:** dogmatisme
+* **P:** جزم‌گروی، کیش‌گروی
+
+### 144. Dogmatismus
+* **E:** dogmatism
+* **F:** dogmatisme
+* **P:** جزم‌گروی، کیش‌گروی
+
+### 145. Doktrin
+* **E:** doctrine
+* **F:** doctrine
+* **P:** آفراه [فرهنگستان، پهلوی]
+
+### 146. doktrinal
+* **E:** doctrinal
+* **F:** doctrinal
+* **P:** اقراهی
+
+### 147. doktrinaler Glaube
+* **E:** doctrinal belief
+* **F:** foi doctrinale
+* **P:** گروشِ اقراهی
+
+### 148. Doktrin der Urteilskraft
+* **E:** doctrine of judgment
+* **F:** doctrine du jugement
+* **P:** اقراهِ نیروی داوری
+
+### 149. Dokument
+* **E:** authentication, evidence, document
+* **F:** document
+* **P:** سند
+
+### 150. Dualism
+* **E:** dualism
+* **F:** dualisme
+* **P:** دوگروی
+
+### 151. Dualismus
+* **E:** dualism
+* **F:** dualisme
+* **P:** دوگروی
+
+### 152. Dualist
+* **E:** dualist
+* **F:** dualiste
+* **P:** دوگرو
+
+### 153. Dummheit
+* **E:** stupidity
+* **F:** stupidité
+* **P:** حماقت
+
+### 154. Durchmesser
+* **E:** diameter
+* **F:** diamètre
+* **P:** ترامون [= قطر]
+
+### 155. Durchmessung
+* **E:** enumeration
+* **F:** mesure
+* **P:** ترابیمایی، تراسنجی
+
+### 156. durchschauen
+* **E:** to make completely transparent, to see through, to look through, to examine, to penetrate
+* **F:** pénétrer, deviner
+* **P:** تراسهیدن
+
+### 157. Durchsuchung
+* **E:** examination
+* **F:** examen
+* **P:** تراجویی، بررسی و پژوهش
+
+### 158. Dynamik
+* **E:** dynamics
+* **F:** dynamique
+* **P:** نیرونیک
+
+### 159. dynamisch
+* **E:** dynamic, dynamical
+* **F:** dynamique
+* **P:** پویا
+
+### 160. dynamische Antinomie
+* **E:** dynamical antinomy
+* **F:** antinomie dynamique
+* **P:** ناموسان‌بیکاریِ پویا
+
+### 161. dynamische Gemeinschaft
+* **E:** dynamic community
+* **F:** commerce dynamique
+* **P:** مشارکتِ پویا
+
+### 162. dynamische Grundsätze
+* **E:** dynamical principles
+* **F:** principes dynamiques
+* **P:** آغازه‌های پویا
+
+### 163. dynamische Kategorien
+* **E:** dynamical categories
+* **F:** catégories dynamiques
+* **P:** مقوله‌های پویا
+
+### 164. dynamische Reihe
+* **E:** dynamic series
+* **F:** série dynamique
+* **P:** سلسلهٔ پویا
+
+### 165. dynamischer Regressus
+* **E:** dynamic regress
+* **F:** régression dynamique
+* **P:** سیرِ قهقراییِ پویا
+
+### 166. dynamisches Verhältnis
+* **E:** dynamical relation
+* **F:** rapport dynamique
+* **P:** نسبتِ پویا
+
+### 167. dynamische Synthesis
+* **E:** dynamic synthesis
+* **F:** synthèse dynamique
+* **P:** همنهادِ پویا
+
+### 168. dynamische Verknüpfung
+* **E:** dynamical connection
+* **F:** liaison dynamique
+* **P:** پیوستگیِ پویا
+
+### 169. dynamische Zeitbestimmung
+* **E:** dynamical determination in time
+* **F:** determination dynamique de temps
+* **P:** تعیینِ پویای زمانی
+
+### 170. dynamisch-transzendental
+* **E:** dynamical-transcendental
+* **F:** transcendantal-dynamique, dynamique-transcendantal
+* **P:** پویا ـ ترافرازنده
+
+---
+
+
+
+
+# واژه‌نامه سنجش خرد ناب - حرف E
+
+### 1. ectypon [ektupon], ectypus
+* **P:** نسخه بدل [مفرد لاتین؛ ectypus: جمع: ectypa. ــ اصل یونانی: ἔκτυπος و ἔκτυπον. شکل مادهٔ وارده، «نیمه لاتین» و «نیمه یونانی» است. در قلاب حرف‌نوشت دقیق لاتین حالت نخست یونانی داده شده است.]
+
+### 2. effekt
+* **E:** effect
+* **F:** effet
+* **P:** معلول، اثر
+
+### 3. Ehre
+* **E:** honour
+* **F:** honneur
+* **P:** شرافت
+
+### 4. Eigendünkel
+* **E:** self-conceit
+* **F:** vaine présomption, présomption
+* **P:** خودفریفتگی
+
+### 5. Eigenschaft
+* **E:** property, character, characteristic, quality
+* **F:** propriété, qualité
+* **P:** خصیصه، خصوصیت، خاصیت، خصلت، صفت [همچنین: خاصه]
+
+### 6. das Eigentümliche
+* **E:** what is specific, peculiarity, what is unique
+* **F:** caractère propre, qq. ch. de particulier, ceci de particulier
+* **P:** ویژگی، جنبهٔ ویژه
+
+### 7. Eigentümlichkeit
+* **E:** peculiar character, peculiarity
+* **F:** caractère particulier, propriété
+* **P:** ویژگی
+
+### 8. Einbildung
+* **E:** imagination
+* **F:** imagination, fiction
+* **P:** انگارش
+
+### 9. Einbildungskraft
+* **E:** imagination, faculty of imagination
+* **F:** imagination, faculté d'imagination
+* **P:** نیروی انگارش
+
+### 10. Eindruck
+* **E:** impression
+* **F:** impression
+* **P:** تأثّر، تأثیر
+
+### 11. Eindrücke der Sinne
+* **E:** impressions of the senses, sensory impressions
+* **F:** impressions des sens
+* **P:** تأثّرهای حسّی
+
+### 12. das Eine / Eines / Eins
+* **E:** one, the one, unit, unity
+* **F:** un, une seul chose, unité
+* **P:** یک، یکان، امر واحد
+
+### 13. Einerleiheit
+* **E:** identity
+* **F:** identité
+* **P:** اینهمانی [فروغی]
+
+### 14. einfach
+* **E:** simple
+* **F:** simple
+* **P:** ساده [شیبانی: «مفرد»]
+
+### 15. das Einfache
+* **E:** the simple
+* **F:** le simple, simplicité
+* **P:** امر ساده
+
+### 16. Einfachheit
+* **E:** simplicity
+* **F:** simplicité
+* **P:** سادگی [شیبانی: «مفردية» [= «مفردیت»]]
+
+### 17. Einfluß
+* **E:** influence
+* **F:** influence
+* **P:** نفوذ
+
+### 18. Eingeschränktheit
+* **E:** limitation, being limited
+* **F:** limitation, être limité
+* **P:** کرانمندشدگی
+
+### 19. Einheit
+* **E:** unity; singleness; unit
+* **F:** unité
+* **P:** یگانگی؛ یکان
+
+### 20. Einheit der Anschauung
+* **E:** unity of intuition
+* **F:** unité de l'intuition
+* **P:** یگانگیِ سهش
+
+### 21. Einheit der Erscheinungen
+* **E:** unity of appearances
+* **F:** unité des phénomènes
+* **P:** یگانگیِ پدیدارها
+
+### 22. Einhelligkeit
+* **E:** unanimity, unity, harmony, uniformity
+* **F:** accord, unité, uniformité
+* **P:** هم‌آوازی
+
+### 23. Einleitung
+* **E:** introduction
+* **F:** introduction
+* **P:** درآمد، مقدمه
+
+### 24. Einrichtung
+* **E:** constitution, arrangement, organisation, disposition
+* **F:** constitution, arrangement, organisation, disposition
+* **P:** آراستار، سامان، تشکیلات، ترتیب، ساختار؛ تشکیل‌دادن
+
+### 25. Einschränkung
+* **E:** limitation, limiting
+* **F:** limitation, limiter
+* **P:** کرانمندی، کرانمندسازی
+
+### 26. Einsetzung
+* **E:** institution
+* **F:** institution
+* **P:** درنهشت، نهاد، نظام
+
+### 27. Einsicht
+* **E:** insight, view
+* **F:** vue, aperçu, lumière, parfaite connaissance, connaissance parfaite, pénétration mentale
+* **P:** بینش
+
+### 28. Einstimmung
+* **E:** agreement
+* **F:** convenance, accord
+* **P:** توافق
+
+### 29. Einwurf
+* **E:** objection, skeptical teaching
+* **F:** objection
+* **P:** اعتراض
+
+### 30. Einzelheit
+* **E:** singularity, character of singleness, particular character
+* **F:** particularité
+* **P:** یکتاگونگی [همچنین: یکتایی، ویژگی]
+
+### 31. einzeln-
+* **E:** singular, particular, individual, special, single, unitary
+* **F:** singulier, particulier, simple, isolé, individuel
+* **P:** تک، جداگانه، منفرد، مفرد، یگانه؛ شخصی، فردی، مفرد [در داوریها]
+
+### 32. das Einzelne
+* **E:** the single instance, single object, the individual
+* **F:** le singulier
+* **P:** امر منفرد
+
+### 33. einzelne Urteile
+* **E:** singular judgments
+* **F:** jugements singuliers
+* **P:** داوریهای شخصی
+
+### 34. einzig
+* **E:** the only one, single
+* **F:** seul, le / la seul / e
+* **P:** یک، تک، تنها، یگانه، منحصر به فرد، فقط [در ترکیبها؛ مانند: einzig und allein: فقط و فقط؛ انگلیسی و فرانسه به ترتیب: exclusively و uniquement]
+
+### 35. Elangueszenz
+* **E:** elanguescence
+* **F:** consumption
+* **P:** تحلیل قوا
+
+### 36. Element
+* **E:** element
+* **F:** élément
+* **P:** بن‌پار [فرهنگستان]
+
+### 37. Elementarbegriffe
+* **E:** fundamental concepts
+* **F:** concepts élémentaires
+* **P:** مفهومهای مقدماتی
+
+### 38. Elementar-Lehre / Elementarlehre
+* **E:** doctrine of the elements
+* **F:** théorie des éléments
+* **P:** بن‌پارشناسی
+
+### 39. Elementarlogik
+* **E:** logic of elements
+* **F:** logique élémentaire
+* **P:** منطقِ مقدّماتی
+
+### 40. Elementarsubstanzen
+* **E:** elementary substances
+* **F:** substances élémentaires
+* **P:** جوهرهای بن‌پاری
+
+### 41. Elementarwissenschaft
+* **E:** science of the elements
+* **F:** science des éléments
+* **P:** بن‌پارشناسی
+
+### 42. Empfänglichkeit
+* **E:** receptivity
+* **F:** réceptivité
+* **P:** دریافت‌پذیری
+
+### 43. Empfindung
+* **E:** sensation
+* **F:** sensation
+* **P:** دریافتهٔ حسّی؛ احساس
+
+### 44. empirisch
+* **E:** empirical
+* **F:** empirique
+* **P:** آروینی [از «آروین»، «آروین» = تجربه؛ ← لغت‌نامهٔ دهخدا. ــ پارسی باستان، کنش: aruvā. ــ اوستایی: aruvasta- = فعالیت]
+
+### 45. empirisch bedingt / empirischbedingt
+* **E:** empirically conditioned
+* **F:** empiriquement conditionné
+* **P:** آروینانه مشروط
+
+### 46. das Empirische
+* **E:** the empirical, empirical features
+* **F:** élément empirique, l'empirique
+* **P:** امر آروینی، آروینگار، آنچه آروینی است، جنبه‌های آروینی، عنصر آروینی
+
+### 47. empirische Allgemeinheit
+* **E:** empirical universality
+* **F:** universalité empirique
+* **P:** کلیّت آروینی
+
+### 48. empirische Anschauung
+* **E:** empirical intuition
+* **F:** intuition empirique
+* **P:** سهشِ آروینی
+
+### 49. empirische Apperzeption
+* **E:** empirical apperception
+* **F:** aperception empirique
+* **P:** خوداندریفتِ آروینی
+
+### 50. empirische Bedingung
+* **E:** empirical condition
+* **F:** condition empirique
+* **P:** شرطِ آروینی
+
+### 51. empirische Beobachtung
+* **E:** empirical observation
+* **F:** observation empirique
+* **P:** مشاهدهٔ آروینی
+
+### 52. empirische Beschränktheit
+* **E:** empirical limitation
+* **F:** limitation empirique
+* **P:** کرانمندی آروینی
+
+### 53. empirische Deduktion
+* **E:** empirical deduction
+* **F:** déduction empirique
+* **P:** تنقیح مناطِ آروینی
+
+### 54. empirische Einheit
+* **E:** empirical unity
+* **F:** unité empirique
+* **P:** یگانگی آروینی
+
+### 55. empirische Einheit der Apperzeption
+* **E:** empirical unity of apperception
+* **F:** unité empirique de l'aperception
+* **P:** یگانگیِ آروینیِ خوداندریفت
+
+### 56. empirische Erkenntnis
+* **E:** empirical knowledge
+* **F:** connaissance empirique
+* **P:** شناختِ آروینی
+
+### 57. empirische Form
+* **E:** empirical form
+* **F:** forme empirique
+* **P:** صورتِ آروینی
+
+### 58. empirische Kausalität
+* **E:** empirical causality
+* **F:** causalité empirique
+* **P:** علّیتِ آروینی
+
+### 59. empirische Kenntnisse
+* **E:** empirical knowledge, empirical cognitions
+* **F:** connaissances empiriques
+* **P:** شناساییهای آروینی
+
+### 60. empirische (mechanische) Erkenntnis
+* **E:** empirical (mechanical) knowledge
+* **F:** connaissance empirique (mécanique)
+* **P:** شناختِ آروینی (مکانیکی)
+
+### 61. empirische Philosophie
+* **E:** empirical philosophy
+* **F:** philosophie empirique
+* **P:** فلسفهٔ آروینی
+
+### 62. empirische Prinzipien
+* **E:** empirical principles
+* **F:** principes empiriques
+* **P:** اصلهای آروینی
+
+### 63. empirische Psychologie
+* **E:** empirical psychology
+* **F:** psychologie empirique
+* **P:** روانشناسی آروینی
+
+### 64. empirischer Begriff
+* **E:** empirical concept
+* **F:** concept empirique
+* **P:** مفهومِ آروینی
+
+### 65. empirischer Beweisgrund
+* **E:** empirical premiss, empirical argument
+* **F:** argument empirique
+* **P:** برهانِ آروینی
+
+### 66. empirischer Charakter
+* **E:** empirical character
+* **F:** caractère empirique
+* **P:** سرشت ـ نشانِ آروینی
+
+### 67. empirische Realität
+* **E:** empirical reality
+* **F:** réalité empirique
+* **P:** واقعیتِ آروینی
+
+### 68. empirischer Fortgang
+* **E:** empirical advance, advance of experience
+* **F:** progression empirique, progrès de l'expérience
+* **P:** پیشروندِ آروینی
+
+### 69. empirischer Fortschritt
+* **E:** empirical advance
+* **F:** progression empirique
+* **P:** پیشرفتِ آروینی
+
+### 70. empirischer Gebrauch
+* **E:** empirical employment
+* **F:** usage empirique
+* **P:** کاربردِ آروینی
+
+### 71. empirischer Idealism
+* **E:** empirical idealism
+* **F:** idéalisme empirique
+* **P:** مینوگرویِ آروینی
+
+### 72. empirischer Idealismus
+* **E:** empirical idealism
+* **F:** idéalisme empirique
+* **P:** مینوگرویِ آروینی
+
+### 73. empirischer Idealist
+* **E:** empirical idealist
+* **F:** idéaliste empirique
+* **P:** مینوگروِ آروینی
+
+### 74. empirischer Philosoph
+* **E:** empirical philosopher
+* **F:** philosophe empirique
+* **P:** فیلسوفِ آروینی
+
+### 75. empirischer Realismus
+* **E:** empirical realism
+* **F:** réalisme empirique
+* **P:** واقعیت‌گرویِ آروینی
+
+### 76. empirischer Realist
+* **E:** empirical realist
+* **F:** réaliste empirique
+* **P:** واقعیت‌گروِ آروینی
+
+### 77. empirischer Regressus
+* **E:** empirical regress
+* **F:** régression empirique
+* **P:** سیرِ قهقراییِ آروینی
+
+### 78. empirischer Schein
+* **E:** empirical illusion
+* **F:** apparence empirique
+* **P:** فرانمودِ آروینی
+
+### 79. empirischer Verstand
+* **E:** empirical sense
+* **F:** sens empirique
+* **P:** فهمِ آروینی
+
+### 80. empirisches Bewußtsein
+* **E:** empirical consciousness
+* **F:** conscience empirique
+* **P:** آگاهیِ آروینی
+
+### 81. empirisches Denken
+* **E:** empirical thought
+* **F:** pensée empirique
+* **P:** اندیشیدنِ آروینی
+
+### 82. empirische Seelenlehre
+* **E:** empirical doctrine of the soul, empirical psychology
+* **F:** psychologie empirique
+* **P:** روان‌شناسیِ آروینی
+
+### 83. empirisches Gesetz
+* **E:** empirical law
+* **F:** loi empirique
+* **P:** قانونِ آروینی
+
+### 84. empirisches Kriterium
+* **E:** empirical criterion
+* **F:** critérium empirique
+* **P:** سنجیدارِ آروینی
+
+### 85. empirisches Objekt
+* **E:** empirical object
+* **F:** objet empirique
+* **P:** برون‌آختهٔ آروینی
+
+### 86. empirisches Prädikat
+* **E:** empirical predicate
+* **F:** prédicat empirique
+* **P:** محمولِ آروینی
+
+### 87. empirisches Urteil
+* **E:** empirical judgment
+* **F:** jugement empirique
+* **P:** داوریِ آروینی
+
+### 88. empirische Synthesis
+* **E:** empirical synthesis
+* **F:** synthèse empirique
+* **P:** همنهادِ آروینی
+
+### 89. empirische Ursachen
+* **E:** empirical causes
+* **F:** causes empiriques
+* **P:** علّتهای آروینی
+
+### 90. empirische Urteilskraft
+* **E:** empirical judgment, empirical faculty of judgment
+* **F:** jugement empirique, faculté empirique de jugement
+* **P:** نیروی داوریِ آروینی
+
+### 91. empirische Voraussetzung
+* **E:** empirical starting-point, empirical presupposition, empirical precondition
+* **F:** supposition empirique, présupposition empirique
+* **P:** فرضِ بیشینِ آروینی
+
+### 92. empirische Vorstellung
+* **E:** empirical representation
+* **F:** représentation empirique
+* **P:** تصوّرِ آروینی
+
+### 93. empirische Wahrheit
+* **E:** empirical truth
+* **F:** vérité empirique
+* **P:** حقیقتِ آروینی
+
+### 94. ein empirisch Gegebenes / das empirisch Gegebenه (Gegebene)
+* **E:** empirically given
+* **F:** empiriquement donné
+* **P:** عنصرِ آروینانه داده شده
+
+### 95. empirischunbedingt
+* **E:** empirically unconditioned
+* **F:** empiriquement inconditionné, empiriquement non conditionné
+* **P:** آروینانه نامشروط
+
+### 96. Empirism
+* **E:** empiricism
+* **F:** empirisme
+* **P:** آروین‌گروی
+
+### 97. Empirismus
+* **E:** empiricism
+* **F:** empirisme
+* **P:** آروین‌گروی
+
+### 98. Empirist
+* **E:** empiricist
+* **F:** empiriste
+* **P:** آروین‌گرو
+
+### 99. Endabsicht
+* **E:** final intention, final end, final purpose, ultimately, but final
+* **F:** fin, but
+* **P:** آهنگِ فرجامین
+
+### 100. Endabsicht der natürlichen Dialektik
+* **E:** final purpose of the natural dialectic
+* **F:** but final de la dialectique naturelle
+* **P:** آهنگِ فرجامینِ دویچگویکِ طبیعی
+
+### 101. endlich
+* **E:** finite; in the final issue, at last
+* **F:** fini; enfin
+* **P:** کرانمند، پایان‌پذیر؛ سرانجام
+
+### 102. Endzweck
+* **E:** final end
+* **F:** dernier but
+* **P:** هدفِ فرجامین
+
+### 103. ens entium
+* **P:** کائنِ کائنات
+
+### 104. ens extramundanum
+* **P:** کائنِ فوقِ عالمی
+
+### 105. ens imaginarium
+* **P:** کائنِ تخیّلی
+
+### 106. ens originarium
+* **P:** کائنِ اصلی
+
+### 107. ens rationis
+* **P:** کائنِ عقلی [همچنین: کائنِ عقل]
+
+### 108. ens rationis ratiocinatae
+* **P:** کائنِ عقلیِ حاصل از استنتاج تعقّلی، کائنِ عقلی حاصل از استنتاج عقلی، کائنِ عقلِ عقل‌ورزیده، کائنِ عقلِ عقلیده [«عقلیده» از مصدر برساختهٔ «عقلیدن». معادل فارسی مفهوماً برگزیده شده است. ــ اویزرمن: сущность, созданная разумом]
+
+### 109. ens realissimum
+* **P:** واقعی‌ترین کائن
+
+### 110. ens summum
+* **P:** کائنِ اعلا
+
+### 111. entgegengesetzt
+* **E:** opposed, opposite, contrary
+* **F:** opposé, opposé l'un à l'autre, contraire
+* **P:** در برابر هم نهاده، در مقابل قرار گرفته، برابر نهاده، متقابل، مخالف
+
+### 112. Entgegensetzung
+* **E:** opposition; withstanding
+* **F:** opposition
+* **P:** برابرنهش
+
+### 113. Entgegenstellung
+* **E:** opposition
+* **F:** opposition
+* **P:** برابرنهش
+
+### 114. entia praeter necessitatem non esse multiplicanda
+* **P:** نباید مبدأها [= موجودها] را بدون لزوم تکثیر کرد
+
+### 115. entia rationis ratiocinantis
+* **P:** کائن‌های عقلِ عقل‌ورزنده، کائن‌های عقلِ مستقل، کائن‌های عقلِ خردپرداز، کائن‌های عقلِ عقلنده [«عقلنده» از مصدر برساختهٔ «عقلیدن»]؛ [اویزرمن: کائن‌های ساخته شده به‌وسیلهٔ عقلِ عقلنده]، «... به‌وسیلهٔ عقلِ متعقّل»، «... به‌وسیلهٔ خردِ خردپرداز»
+
+### 116. entis realissimi [gen.; - nom.: ens realissimum]
+* **P:** [متعلق به] واقعی‌ترین کائن
+
+### 117. entium varietates non temere esse minuendas
+* **E:** entium varietates non temere esse minuendas
+* **P:** تنوع در موجودها را نباید بیفکرانه کاهش داد
+
+### 118. Entsagung
+* **E:** renunciation, abnegation, self-denial, self-sacrifice
+* **F:** renoncement, renoncer, abnégation
+* **P:** انصراف
+
+### 119. das Entstehen
+* **E:** coming into being, coming to being, coming to be, origin
+* **F:** naissance, fait de naître, le naître, origine
+* **P:** هستی‌پذیرفتن، تکوین
+
+### 120. Entstehung
+* **E:** origination
+* **F:** origine, naissance, formation
+* **P:** هستی‌پذیری
+
+### 121. Entwicklung
+* **E:** involution, unfolding, exposition
+* **F:** développement, révélation, développer
+* **P:** بازگشایی
+
+### 122. Entwurf
+* **E:** plan, draft, project
+* **F:** plan, esquisse
+* **P:** طرح، نقشه
+
+### 123. Epigenesis
+* **E:** epigenesis
+* **F:** épigénèse
+* **P:** آبی‌زایش [همچنین: تکوینِ متعاقب، تکوینِ تدریجی؛ ــ «آبی‌زایش»، برساخته شده از api* ایرانی (اوستایی: aipi، پارسی باستان: apiy، همیشه و تقریباً هم‌معنا با ἐπί = epi یونانی، و «زایش»، همریشه و هم‌معنا با γένεσις = genesis یونانی. نظریهٔ تکاملی epigenesis (مطرح شده بوسیلهٔ Gaspar Friedrich Wolff در ۱۷۵۹) در برابر نظریهٔ Präformation (رایج در سدهٔ هیجدهم) قرار دارد. ــ ضمناً این ماده طیّ عبارتی می‌آید که در واژه‌نامه وارد شده است؛ ضبط مستقلّ آن استثنائاً انجام می‌گیرد.]
+
+### 124. Epikureism
+* **E:** teaching of Epicurus
+* **F:** Épicurisme
+* **P:** اپیکوروس‌گروی، آیینِ اپیکوروس
+
+### 125. epikurische Schule
+* **E:** Epicurean School
+* **F:** école épicurienne
+* **P:** مکتبِ اپیکوریان
+
+### 126. Episode
+* **E:** episode, digression
+* **F:** épisode
+* **P:** واقعهٔ معترضه، تک‌حادثه [همچنین: گریز]
+
+### 127. Episyllogismus
+* **E:** episyllogism
+* **F:** épisyllogisme
+* **P:** قیاسِ مؤخر
+
+### 128. Epoche
+* **E:** epoch
+* **F:** époque
+* **P:** عصر
+
+### 129. Erdichtung
+* **E:** invention, imagining, fabrication, fiction, playful inventiveness, imaginative invention
+* **F:** fiction
+* **P:** خیال‌پردازی، افسانه‌پردازی، عالم خیال
+
+### 130. Erdmasse
+* **E:** mass of the earth
+* **F:** masse terrestre
+* **P:** جرمِ زمین
+
+### 131. Ereignis
+* **E:** event, happening
+* **F:** événement, accident
+* **P:** واقعه
+
+### 132. Erfahrung
+* **E:** experience
+* **F:** expérience
+* **P:** تجربه
+
+### 133. Erfahrungsbegriff
+* **E:** empirical concept, concept of experience
+* **F:** concept de l'expérience, concept d'expérience, concept expérimental
+* **P:** مفهومِ تجربی
+
+### 134. Erfahrungseinheit
+* **E:** unity of experience
+* **F:** unité de l'expérience
+* **P:** یگانگیِ تجربه
+
+### 135. Erfahrungserkenntnis
+* **E:** empirical knowledge
+* **F:** connaissance par expérience, connaissance expérimentale
+* **P:** شناختِ تجربی
+
+### 136. Erfahrungsgesetze
+* **E:** laws of experience
+* **F:** lois de l'expérience
+* **P:** قانونهای تجربی
+
+### 137. Erfahrungsurteil
+* **E:** judgment of experience
+* **F:** jugement d'expérience
+* **P:** داوریِ تجربی
+
+### 138. Erfolg
+* **E:** outcome, event, conclusion
+* **F:** résultat, effet, conséquence
+* **P:** برآمد، معلول
+
+### 139. Erforschung
+* **E:** enquiry, to enquire
+* **F:** recherche
+* **P:** پژوهش
+
+### 140. Erfüllung
+* **E:** filling, filling-in, occupation, occupying; to fulfil
+* **F:** s'accomplir, le remplir
+* **P:** پر کردن، ملأ، اشغال، اشغال کردن؛ تحقق، برآوردن، برآورده‌سازی
+
+### 141. Erinnerung
+* **E:** memory, reminder, reminiscence, pointing out, comment
+* **F:** mémoire, avertissement, réminiscence, conseil, rappeler
+* **P:** یادآوری؛ یادآوری
+
+### 142. erkennen
+* **E:** to know, knowing
+* **F:** connaître
+* **P:** شناختن
+
+### 143. Erkenntnis
+* **E:** cognition, knowledge, mode of knowledge
+* **F:** connaissance
+* **P:** شناخت [: die Erkenntnis: در چند مورد معدود در کتاب das Erkenntnis (به معنای حقوقی «حکم»، «حکم دادگاه»، «داوری») نیز ملاحظه شد، ولی در سیاق مطالب، همچنان به منزلهٔ die Erkenntnis متصور و مفهوم شد و به «شناخت» برگردانده شد.]
+
+### 144. Erkenntnis a priori
+* **E:** a priori knowledge, knowledge a priori
+* **F:** connaissance a priori
+* **P:** شناختِ برتوم
+
+### 145. Erkenntnisart
+* **E:** mode of knowledge, kind of knowledge, species of knowledge, way of knowing
+* **F:** mode de connaissance, sorte de connaissance
+* **P:** گونهٔ شناخت
+
+### 146. Erkenntnis aus Prinzipien
+* **E:** knowledge from principles
+* **F:** connaissance par principes
+* **P:** شناخت بر پایهٔ اصلها
+
+### 147. Erkenntnisfähigkeit
+* **E:** faculty of knowledge
+* **F:** capacité de connaître
+* **P:** تواناییِ شناخت
+
+### 148. Erkenntniskraft
+* **E:** faculty of knowledge, cognitive faculty
+* **F:** faculté de connaissance, faculté de connaître
+* **P:** نیروی شناخت
+
+### 149. Erkenntnisprinzipien
+* **E:** principles of knowledge
+* **F:** principes de la connaissance
+* **P:** اصلهای شناخت
+
+### 150. Erkenntnisquelle
+* **E:** source of knowledge
+* **F:** source de connaissance
+* **P:** سرچشمهٔ شناخت
+
+### 151. Erkenntnissphäre
+* **E:** sphere of knowledge
+* **F:** sphère de connaissance
+* **P:** سپهرِ شناخت
+
+### 152. Erkenntnistrieb
+* **E:** endeavour to extend our knowledge, desire for knowledge
+* **F:** tendance qui nous pousse à étendre nos connaissance, penchant de connaître
+* **P:** رائدِ شناخت
+
+### 153. Erkenntnisvermögen
+* **E:** cognitive faculty, faculty of knowledge
+* **F:** pouvoir de connaissance, pouvoir de connaître, faculté de connaître
+* **P:** قوّهٔ شناخت، توانشِ شناخت
+
+### 154. Erklärung
+* **E:** explaining, explanation, definition
+* **F:** explication, expliquer, définition
+* **P:** توضیح، روشن‌سازی، تعریف
+
+### 155. Erklärungsgrund
+* **E:** ground of explanation
+* **F:** principe d'explication
+* **P:** بنیادِ توضیحی، مبنای توضیحی
+
+### 156. Erkundigung
+* **E:** information; seeking to inform oneself
+* **F:** étude, information, renseignement; se demander
+* **P:** آگاهی، اطلاع؛ بازپرسی
+
+### 157. Erläuterung
+* **E:** illustration, explanation, exposition
+* **F:** éclaircissement, explication
+* **P:** توضیح
+
+### 158. Erläuterungs-Urteil
+* **E:** explicative judgment
+* **F:** jugement explicatif
+* **P:** داوریِ توضیحی
+
+### 159. Erörterung
+* **E:** discussion, exposition, enquiry
+* **F:** illustration, exposition, discussion, explication
+* **P:** بحث، شرح، تشریح
+
+### 160. Erörterung (expositio)
+* **E:** exposition (expositio)
+* **F:** exposition (expositio)
+* **P:** شرح [= expositio = عرضه داشت]
+
+### 161. Erscheinung
+* **E:** appearance, phenomenon; symptom
+* **F:** phénomène, image sensible, apparition; symptome
+* **P:** پدیدار، پدیداری، علامت
+
+### 162. Erschleichung
+* **E:** subreption, subreptious employment
+* **F:** subreption, surprise
+* **P:** اغفالگری
+
+### 163. erschöpfen
+* **E:** to exhaust
+* **F:** épuiser
+* **P:** افنا کردن
+
+### 164. Ersparung
+* **E:** parsimony
+* **F:** économie
+* **P:** صرفه‌جویی
+
+### 165. ein Erstes / das Erste
+* **E:** a first member, first
+* **F:** premier, premier terme, point de départ
+* **P:** نخستینه [دهخدا]
+
+### 166. erster Beweger
+* **E:** prime mover
+* **F:** premier moteur
+* **P:** جنبانندهٔ نخستین، نخست‌جنباننده
+
+### 167. erstes Subjekt
+* **E:** primary subject
+* **F:** premier sujet
+* **P:** درون‌آختهٔ نخستین
+
+### 168. Erstreckung
+* **E:** extension
+* **F:** extension, ascension
+* **P:** گستره، امتداد [شیبانی]
+
+### 169. Erweiterung
+* **E:** extension, to extend, extending
+* **F:** extension, étendre
+* **P:** گسترش، توسیع
+
+### 170. Erweiterungs-Grundsätze
+* **E:** ampliative principles
+* **F:** principes extensifs
+* **P:** آغازه‌های توسیعی
+
+### 171. Erweiterungssucht
+* **E:** passionate desire for enlargement
+* **F:** désir d'extension
+* **P:** میل به گسترش، شورِ گسترش
+
+### 172. Erweiterungs-Urteile
+* **E:** ampliative judgments
+* **F:** jugements extensifs
+* **P:** داوریهای توسیعی
+
+### 173. Erwerb
+* **E:** addition, acquisition
+* **F:** acquisition
+* **P:** اَلْفَنجِش [«الفنج» + «ـِش» مصدری]
+
+### 174. Erwerbung
+* **E:** acquiring, acquisition
+* **F:** acquisition
+* **P:** الفنجیدن [دهخدا: کسب، اندوختن و ذخیره کردن، گردآوردن، به هم رسانیدن...]
+
+### 175. Erzeugung
+* **E:** production, origin
+* **F:** production, génération
+* **P:** فرآورِش، تولید، زایش؛ خاستگاه
+
+### 176. [essentiae
+* **P:** جوهرها، ذاتیات [این واژه در متن اصلی موجود نیست.]
+
+### 177. essentialia
+* **P:** عناصرِ ذاتی
+
+### 178. das Etwas
+* **E:** the something
+* **F:** le quelque chose
+* **P:** آن چیز، چیز
+
+### 179. Euthanasie
+* **E:** euthanasia
+* **F:** belle mort, euthanasie
+* **P:** آسان‌میری
+
+### 180. evident
+* **E:** evident
+* **F:** évident
+* **P:** بدیهی
+
+### 181. Evidenz
+* **E:** evidence
+* **F:** évidence
+* **P:** مدرک؛ بداهت
+
+### 182. Ewigkeit
+* **E:** eternity
+* **F:** éternité, éternel
+* **P:** سرمدیت، سرمدی؛ (از) ازل؛ ازلیت؛ (تا) ابد؛ ابدیت؛ جاودانگی
+
+### 183. Existenz
+* **E:** existence
+* **F:** existence
+* **P:** وجود
+
+### 184. Existenzialsatz
+* **E:** existential proposition
+* **F:** proposition d'existence
+* **P:** گزارهٔ وجودی
+
+### 185. das Existierende
+* **E:** existence, the existing
+* **F:** existant, l'existant, qq. ch. d'existant, être
+* **P:** موجود، امر موجود، آنچه موجود است
+
+### 186. Experiment
+* **E:** experiment
+* **F:** expérimentation
+* **P:** آزمایش
+
+### 187. Experimentalmethode
+* **E:** experimental method
+* **F:** méthode expérimentale
+* **P:** روش آزمایشی
+
+### 188. Experimentalphilosophie
+* **E:** experimental philosophy
+* **F:** philosophie expérimentale
+* **P:** فلسفهٔ آزمایشی
+
+### 189. Experimentalphysik
+* **E:** experimental physics
+* **F:** physique expérimentale
+* **P:** فیزیکِ آزمایشی
+
+### 190. Explikation
+* **E:** explication
+* **F:** explication
+* **P:** توضیح، شرح
+
+### 191. Exponent
+* **E:** exponent
+* **F:** exposant
+* **P:** نماینده
+
+### 192. expositio
+* **P:** عرضه داشت
+
+### 193. Exposition
+* **E:** exposition
+* **F:** exposition
+* **P:** عرضه داشت، نمایش، ایضاح
+
+### 194. extensiv
+* **E:** extensive
+* **F:** extensif
+* **P:** پهنارو [خراسانی]، برتنیده، أستنیده [همچنین: برون‌گستر]
+
+### 195. extensive
+* **E:** extensively
+* **F:** extensivement
+* **P:** به شیوهٔ برتنیده، به شیوهٔ أستنیده، به شیوهٔ پهنارو
+
+### 196. extensive Größen
+* **E:** extensive magnitudes, extensive quantities
+* **F:** grandeurs extensives
+* **P:** چندیهای پهنارو
+
+# واژه‌نامه سنجش خرد ناب - حروف F و G
+
+## حرف F
+
+### 1. Faden
+* **E:** thread, guiding-thread, guidance
+* **F:** fil
+* **P:** رشته، رشتهٔ راهنما، نخِ راهنما [همچنین: ← Leitfaden]
+
+### 2. Fähigkeit
+* **E:** capacity
+* **F:** capacité
+* **P:** توانایی
+
+### 3. Fakta
+* **E:** facts
+* **F:** faits
+* **P:** امرهای واقع
+
+### 4. Faktum
+* **E:** fact, factum
+* **F:** fait
+* **P:** امر واقع
+
+### 5. Falschheit
+* **E:** falsity, duplicity, falsehood, fallacy, being fallacious
+* **F:** fausseté
+* **P:** نادرستی، دروغ، کذب
+
+### 6. Farbe
+* **E:** colour
+* **F:** couleur
+* **P:** رنگ
+
+### 7. Faßlichkeit
+* **E:** comprehensibility; clarity, clearness
+* **F:** compréhensibilité, saisir; clarté
+* **P:** درک‌پذیری، وضوح
+
+### 8. Fassungskraft
+* **E:** capacity of comprehension
+* **F:** faculté de comprendre
+* **P:** نیروی درک
+
+### 9. Fatalismus
+* **E:** fatalism
+* **F:** fatalisme
+* **P:** تقدیرگروی
+
+### 10. faule Vernunft
+* **E:** ignava ratio
+* **F:** raison paresseuse
+* **P:** خردِ اژگهان [← «اژگهان»، و دیگر شکل‌ها در دهخدا: رخش با او لاغر و شبدیز با او تندرو/ ور با «اژگهن» را در این نقل‌قول، به «اژگهن» تبدیل کرده‌ایم. ضبط دری ما دقیقاً برابر است با توبُریٔ [(Nyberg)].]
+
+### 11. Fehler
+* **E:** fault, error, defect
+* **F:** faute, erreur
+* **P:** غلط، خطا، اشتباه
+
+### 12. fehlerhafter Zirkel
+* **E:** vicious circle, fallacy of reasoning in a circle
+* **F:** cercle vicieux
+* **P:** دورِ معیوب، دورِ باطل
+
+### 13. Fehlschluß
+* **E:** erroneous conclusion, fallacy
+* **F:** raisonnement vicieux, paralogisme
+* **P:** مغلطه، قیاسِ کاذب
+
+### 14. Figur
+* **E:** figure
+* **F:** figure
+* **P:** شکل
+
+### 15. figürlich
+* **E:** figurative, ~ly
+* **F:** figuré, d'une manière figurée
+* **P:** مجازی، مجازاً
+
+### 16. figürliche Synthesis
+* **E:** figurative synthesis
+* **F:** synthèse figurée
+* **P:** همنهادِ مجازی
+
+### 17. fit
+* **P:** شروع می‌شود، به‌وجود می‌آید، تکوین می‌یابد، هستی می‌پذیرد، ساخته می‌شود، می‌شود
+
+### 18. fließende Größen
+* **E:** flowing magnitudes
+* **F:** grandeurs fluentes
+* **P:** چندیهای جاری [همچنین: چندیهای روان]
+
+### 19. focus imaginarius
+* **P:** کانونِ تخیّلی، کانونِ موهوم
+
+### 20. Folge
+* **E:** succession, sequence; consequence, effect
+* **F:** succession; effet, conséquence
+* **P:** توالی، پی‌آیند؛ اثر، پی‌آمد، معلول
+
+### 21. Folgerung
+* **E:** inference; consequence, outcome, result, conclusion
+* **F:** developpement de conséquence, conséquence, conclusion
+* **P:** استنتأج، نتیجه‌گیری، استنباط؛ نتیجه
+
+### 22. Folgesatz
+* **E:** consequence
+* **F:** conséquence
+* **P:** گزارهٔ منتج
+
+### 23. Forderung
+* **E:** demand, requisite, requirement, standard; pretension
+* **F:** exigence, exiger, demander; condition; prétension
+* **P:** تقاضا، درخواست، خواست، طلب، داعیه، نیاز
+
+### 24. Form
+* **E:** form
+* **F:** form
+* **P:** صورت، شکل [همچنین: کَرپ]
+
+### 25. formal
+* **E:** formal
+* **F:** formal
+* **P:** صوری
+
+### 26. das Formale
+* **E:** the formal element, what is formal
+* **F:** le formel
+* **P:** جنبهٔ صوری
+
+### 27. formale Anschauung
+* **E:** formal intuition
+* **F:** intuition formelle
+* **P:** سهشِ صوری
+
+### 28. formale Bedingung
+* **E:** formal condition
+* **F:** condition formelle
+* **P:** شرطِ صوری
+
+### 29. formale Logik
+* **E:** formal logic
+* **F:** logique formelle
+* **P:** منطقِ صوری
+
+### 30. formale Notwendigkeit
+* **E:** formal necessity
+* **F:** nécessité formelle
+* **P:** ضرورتِ صوری
+
+### 31. formale Regeln
+* **E:** formal rules
+* **F:** règles formelles
+* **P:** قاعده‌های صوری
+
+### 32. formaler Idealismus
+* **E:** formal idealism
+* **F:** idéalisme formel
+* **P:** مینوگرویِ صوری
+
+### 33. formales Interesse
+* **E:** formal interest
+* **F:** intérêt formel
+* **P:** علاقهٔ صوری
+
+### 34. formales Prinzip
+* **E:** formal principle
+* **F:** principe formel
+* **P:** اصلِ صوری
+
+### 35. formaliter
+* **P:** صورتاً
+
+### 36. Form der Anschauung
+* **E:** form of intuition, form of the intuition
+* **F:** forme de l'intuition
+* **P:** صورتِ سهش
+
+### 37. Form der Erscheinung
+* **E:** form of appearance
+* **F:** forme du phénomène
+* **P:** صورتِ پدیدار
+
+### 38. Fortdauer der Seele
+* **E:** permanence of the soul, continuance of the soul, continued existence of the soul
+* **F:** permanence de l'âme, continuité de l'âme
+* **P:** بقای روح
+
+### 39. Form des Denkens
+* **E:** form of thought, form of the thought
+* **F:** forme de la pensée
+* **P:** صورتِ اندیشیدن
+
+### 40. Formel
+* **E:** formula
+* **F:** formule
+* **P:** ضابطه، فرمول
+
+### 41. Fortgang
+* **E:** advance, progression, outcome
+* **F:** progression, progrès, marche, passage, progressif
+* **P:** پیشروند
+
+### 42. Fortschritt
+* **E:** advance, course
+* **F:** marche en avant, marcher, chemin
+* **P:** پیشرفت
+
+### 43. Frage
+* **E:** question
+* **F:** question
+* **P:** پرسش [همچنین: پُرْسُمان]
+
+### 44. freie Willkür
+* **E:** free will, freewill
+* **F:** libre arbitre
+* **P:** آزادکامی [سهیل محسن افنان]
+
+### 45. freigeisterischer Unglaube
+* **E:** free-thinking, free-thinking unbelief
+* **F:** incrédulité des libres penseurs
+* **P:** ناباوریِ آزاداندیشانه
+
+### 46. Freiheit
+* **E:** freedom
+* **F:** liberté
+* **P:** آزادی
+
+### 47. Fundament
+* **E:** foundation
+* **F:** fondement
+* **P:** پی، اساس
+
+### 48. Fundamentalbegriff
+* **E:** fundamental concept
+* **F:** concept fondamental
+* **P:** مفهومِ اساسی
+
+### 49. Funktion
+* **E:** function
+* **F:** fonction
+* **P:** کارکرد
+
+### 50. für sich / für sich selbst
+* **E:** per se, in itself, by itself, of itself, for itself
+* **F:** en lui-même, par lui-même, en soi, pour soi
+* **P:** برای خود، در گوهرِ خویش، لنفسه
+
+### 51. für sich bestehend
+* **E:** self-subsistent
+* **F:** se suffir à lui-même, existant par lui-même
+* **P:** خودپاینده، خودایستا
+
+### 52. für sich selbst beständig
+* **E:** self-subsistent
+* **F:** subsister par lui-même
+* **P:** خودایستا
+
+### 53. für sich selbst genugsam
+* **E:** self-sufficient
+* **F:** suffir à lui-même
+* **P:** خودبسنده
+
+### 54. das Fürwahrhalten
+* **E:** holding of a thing to be true
+* **F:** croyance
+* **P:** راست‌شماردن
+
+---
+
+## حرف G
+
+### 1. das Ganze
+* **E:** the whole, totum
+* **F:** le tout, ensemble
+* **P:** کلّ
+
+### 2. Gattung
+* **E:** genus, species
+* **F:** genre
+* **P:** رده، جنس
+
+### 3. Gebrauch
+* **E:** employment, use, usage, to employ, practice
+* **F:** usage
+* **P:** کاربرد؛ رسم
+
+### 4. Geburt
+* **E:** birth, lineage
+* **F:** naissance
+* **P:** زادش
+
+### 5. Geburtsort
+* **E:** birthplace
+* **F:** pays de naissance
+* **P:** زادگاه
+
+### 6. Gedächtnis
+* **E:** memory
+* **F:** mémoire
+* **P:** حافظه [همچنین: ویر]
+
+### 7. Gedanke
+* **E:** thought, hypothesis
+* **F:** pensée, idée
+* **P:** اندیشه
+
+### 8. Gedankending
+* **E:** creation of the mind, thought-entity, ens rationis
+* **F:** être de raison
+* **P:** شیءِ اندیشه، شیءِ اندیشه‌ای
+
+### 9. Gedankenformen
+* **E:** forms of thought
+* **F:** formes de pensée
+* **P:** صورتهای اندیشه
+
+### 10. Gedankenwesen
+* **E:** thought-entity
+* **F:** être de raison
+* **P:** هستومندِ اندیشه‌ای
+
+### 11. Gefühl
+* **E:** feeling; touch
+* **F:** sentiment; toucher
+* **P:** عاطفه، احساس؛ بساوایی
+
+### 12. Gefühl der Lust und Unlust
+* **E:** feeling of pleasure and pain
+* **F:** sentiment du plaisir et du paine
+* **P:** احساسِ رامش و نارامش
+
+### 13. gegeben
+* **E:** given
+* **F:** donnée
+* **P:** داده شده، داده
+
+### 14. Gegenbehauptung
+* **E:** opposed assertion, counter-assertion
+* **F:** affirmation opposée, affirmation contraire
+* **P:** حکمِ متضاد
+
+### 15. Gegenbild
+* **E:** counterpart
+* **F:** pendant
+* **P:** تصویرِ قرینه
+
+### 16. Gegensatz
+* **E:** counter-proposition, counter-assertion, assertion of the opposite, contrast
+* **F:** antithèse, opposition, assertion de contraire
+* **P:** پادگزاره، پادنهش [/ im Gegensatz: پادنهش؛ در مقابل، در برابر]
+
+### 17. Gegenstand
+* **E:** object; subject
+* **F:** objet; sujet
+* **P:** برابرایستا [حمید عنایت: «برابراست»]
+
+### 18. Gegenstand der äußeren Sinne (Gegenstand äußerer Sinne)
+* **E:** object of the outer senses
+* **F:** objet des sens externes
+* **P:** برابرایستای حسّهای بیرونی
+
+### 19. Gegenstand des inneren Sinnes
+* **E:** object of inner sense
+* **F:** objet du sens interne
+* **P:** برابرایستای حسّ درونی
+
+### 20. Gegenstände an sich selbst
+* **E:** objects in themselves
+* **F:** objets en soi
+* **P:** برابرایستاهای فی‌نفسه
+
+### 21. Gegenstände der Erfahrung
+* **E:** objects of experience
+* **F:** objets de l'expérience, objets d'expérience
+* **P:** برابرایستاهای تجربه
+
+### 22. Gegenstände des reinen Denkens
+* **E:** objects of pure thought
+* **F:** objets de la pensée pure
+* **P:** برابرایستاهای اندیشیدنِ ناب
+
+### 23. Gegenstände überhaupt
+* **E:** objects in general
+* **F:** objets en général
+* **P:** برابرایستاهای عموماً
+
+### 24. Gegenüberstellung / Gegenstellung
+* **E:** contrasting, opposition
+* **F:** opposition
+* **P:** برابرنهش
+
+### 25. Gegenwart
+* **E:** presence, the present
+* **F:** présence, temps présent
+* **P:** حضور؛ حالِ کنونی
+
+### 26. Gegenwirkung
+* **E:** reaction, counteracting
+* **F:** réaction
+* **P:** واکنش، عملِ متخاصم
+
+### 27. Geist
+* **E:** spirit
+* **F:** esprit
+* **P:** روح
+
+### 28. geistige Natur
+* **E:** spiritual nature
+* **F:** nature spirituelle
+* **P:** ماهیتِ معنوی، ماهیتِ روحانی، ماهیتِ روحی، طبیعتِ مجرّد
+
+### 29. geistige Naturen
+* **E:** spiritual beings
+* **F:** natures spirituelles
+* **P:** موجودهای معنوی
+
+### 30. Geldquantum
+* **E:** quantum of money
+* **F:** quantum d'argent
+* **P:** مقدارِ پول
+
+### 31. Gelegenheitsursachen
+* **E:** occasioning causes
+* **F:** causes occasionnelles
+* **P:** علّتهای ضمنی
+
+### 32. Gelehrsamkeit
+* **E:** learning, erudition
+* **F:** érudition
+* **P:** فضل [همچنین: علم، تبحّر، دانش]
+
+### 33. gemeines Wesen
+* **E:** commonwealth
+* **F:** monde, république
+* **P:** هیئتِ جامعه، مردمانِ عادی، جمهور [همچنین: عرفِ جامعه، جامعهٔ متعارف]
+
+### 34. gemeingültig
+* **E:** general, universal, universally valid
+* **F:** général, valable universellement
+* **P:** کلاً معتبر، کلّی
+
+### 35. gemeingültiges Urteil
+* **E:** general judgment
+* **F:** jugement général
+* **P:** داوریِ کلّی
+
+### 36. Gemeinschaft
+* **E:** community, association, communion
+* **F:** communauté, union, en commerce, réciprocité d'action
+* **P:** مشارکت
+
+### 37. gemeinschaftliches Prinzip
+* **E:** common principle
+* **F:** principe commun
+* **P:** اصلِ مشترک
+
+### 38. Gemüt
+* **E:** mind
+* **F:** esprit
+* **P:** ذهن
+
+### 39. Genealogie
+* **E:** genealogy
+* **F:** généalogie
+* **P:** تبارنامه
+
+### 40. generatio aequivoca
+* **P:** تولیدِ ذو وجهین
+
+### 41. Geometrie
+* **E:** geometry
+* **F:** géométrie
+* **P:** هندسه
+
+### 42. geometrische Demonstrationen
+* **E:** geometrical demonstrations
+* **F:** démonstrations géométriques
+* **P:** برهانهای هندسی
+
+### 43. geometrische Sätze
+* **E:** geometrical propositions
+* **F:** propositions géométriques
+* **P:** گزاره‌های هندسی
+
+### 44. Gerichtsbarkeit
+* **E:** jurisdiction; tribunal
+* **F:** juridiction, ressort; tribunal
+* **P:** قلمروِ قضاوت
+
+### 45. Gerichtshof
+* **E:** tribunal
+* **F:** tribunal
+* **P:** دادگاه
+
+### 46. Geringschätzung
+* **E:** disdain, depreciation
+* **F:** mépris
+* **P:** خوارشماری
+
+### 47. das Geschehen
+* **E:** happening
+* **F:** événement
+* **P:** رخداد
+
+### 48. das Geschehene
+* **E:** the happening
+* **F:** ce qui arrive
+* **P:** رخداده
+
+### 49. Geschichte der reinen Vernunft
+* **E:** history of pure reason
+* **F:** histoire de la raison pure
+* **P:** تاریخِ خرد ناب
+
+### 50. Geschicklichkeit
+* **E:** skill, adroitness
+* **F:** savoir-faire, habileté
+* **P:** مهارت
+
+### 51. Geschmack
+* **E:** taste
+* **F:** goût, saveur
+* **P:** پسند، سلیقه؛ چشایی
+
+### 52. Geschmacksurteil
+* **E:** judgment of taste
+* **F:** jugement du goût, jugement esthétique
+* **P:** داوریِ پسند [همچنین: پسندداوری]
+
+### 53. Geschöpf
+* **E:** creature
+* **F:** création, créature
+* **P:** آفریده
+
+### 54. Gesetz
+* **E:** law
+* **F:** loi
+* **P:** قانون
+
+### 55. Gesetz der Affinität
+* **E:** law of the affinity
+* **F:** loi d'affinité
+* **P:** قانونِ قرابت
+
+### 56. Gesetz der Homogenität
+* **E:** law of homogeneity
+* **F:** loi de l'homogénéité
+* **P:** قانونِ تجانس
+
+### 57. Gesetz der kontinuierlichen Stufenleiter der Geschöpfe
+* **E:** law of the continuous gradation of created beings
+* **F:** loi de l'échelle continue des créatures
+* **P:** قانون تدرّجِ همپیوستهٔ آفریده‌ها، قانون تدرّجِ همتنیدهٔ آفریده‌ها
+
+### 58. Gesetz der Kontinuität
+* **E:** law of (the) continuity
+* **F:** loi de la continuité
+* **P:** قانون پیوستاری، قانون همتنیداری، قانون استمرار، قانون اتصال
+
+### 59. Gesetz der Natur
+* **E:** law of nature
+* **F:** loi de la nature
+* **P:** قانونِ طبیعت
+
+### 60. Gesetz der Spezifikation
+* **E:** law of specification
+* **F:** loi de la spécification
+* **P:** قانونِ تخصیص
+
+### 61. Gesetzgebung
+* **E:** law-giving, legislation
+* **F:** législation
+* **P:** قانونگذاری
+
+### 62. Gesetzlosigkeit
+* **E:** lawlessness
+* **F:** affranchissement des lois, affranchissement de toutes lois
+* **P:** بی‌قانونی
+
+### 63. Gesetzmäßigkeit
+* **E:** conformity to law
+* **F:** conformité aux lois, sousmission à des lois
+* **P:** قانونمندی
+
+### 64. Gesichtspunkt
+* **E:** point of view, standpoint
+* **F:** point de vue
+* **P:** دیدگاه
+
+### 65. Gesinnung
+* **E:** sentiment, purpose, will, mind, disposition, conviction
+* **F:** sentiment, disposition, conviction
+* **P:** نیّت، منش، واروم [پارسی میانه] [همچنین: اعتقاد]
+
+### 66. Gestalt
+* **E:** figure, shape, form, configuration
+* **F:** figure, forme
+* **P:** ریخت، کَرپ، هیئت، پیکر، شکل، صورت [عقیده]
+
+### 67. Gewalt
+* **E:** force, power
+* **F:** puissance
+* **P:** زور، تسلّط
+
+### 68. Gewicht
+* **E:** weight
+* **F:** pesanteur
+* **P:** وزن
+
+### 69. gewiß
+* **E:** certain
+* **F:** certain
+* **P:** قطعی، معیّن
+
+### 70. Gewißheit
+* **E:** certainty, certitude
+* **F:** certitude
+* **P:** قطعیت
+
+### 71. Gewohnheit
+* **E:** custom, habit
+* **F:** habitude
+* **P:** عادت
+
+### 72. gigni de nihilo nihil, in nihilum nil posse reverti
+* **P:** از عدم، هیچ چیز نزاید؛ و هیچ چیز به عدم باز نتواند گشتن [همچنین: از نیستی، هیچ چیز نزاید؛ و هیچ چیز به نیستی باز نتواند گشتن. از هیچ، هیچ چیز نزاید؛ و هیچ چیز به هیچ باز نتواند گشتن]
+
+### 73. Glaube
+* **E:** faith, belief
+* **F:** croyance, foi
+* **P:** گروش، باور [= ایمان]
+
+### 74. das Glauben
+* **E:** believing, faith, belief
+* **F:** foi
+* **P:** گرویدن [همچنین: باور کردن، باور داشتن، ایمان]
+
+### 75. das Gleichartige
+* **E:** the homogeneous
+* **F:** l'homogène
+* **P:** چیزهای همگن، همگن، همگنان، امورِ همگن
+
+### 76. Gleichartigkeit
+* **E:** homogeneity, homogeneousness
+* **F:** homogénéité
+* **P:** همگنی
+
+### 77. Gleichförmigkeit
+* **E:** uniformity
+* **F:** uniformité, conformité
+* **P:** همدیسی
+
+### 78. Gleichgewicht
+* **E:** equilibrium, balance
+* **F:** équilibre
+* **P:** ترازمندی
+
+### 79. Gleichgültigkeit
+* **E:** indifference
+* **F:** indifférence
+* **P:** بی‌تفاوتی
+
+### 80. Gleichheit
+* **E:** equality
+* **F:** égalité
+* **P:** برابری
+
+### 81. Glied
+* **E:** member
+* **F:** membre, subdivision
+* **P:** عضو
+
+### 82. Gliederbau
+* **E:** structure, organization
+* **F:** structure
+* **P:** ساختمان
+
+### 83. Glück
+* **E:** fortune, advantage, success; hazard, random
+* **F:** bonheur, succès; hasard
+* **P:** بخت، خوشبختی، موفقیت، بهروزی [در ترکیبها بیشتر به معنای «الله‌بختی»، «بختانه»، «بر بخت نهاده»، «بر پایهٔ بخت و اتفاق»، و بدینسان. معنای اخیر در کتاب به صورت aufs Geratewohl نیز بیان می‌شود]
+
+### 84. Glückseligkeit
+* **E:** felicity, happiness
+* **F:** bonheur
+* **P:** نیکبختی [همچنین: بهجت]
+
+### 85. Gnade
+* **E:** grace
+* **F:** grâce
+* **P:** مهر، مرحمت [همچنین: لطف (الهی)]
+
+### 86. Gott
+* **E:** God
+* **F:** Dieu
+* **P:** خدا، خداوند
+
+### 87. Gottheit
+* **E:** Deity
+* **F:** divinité
+* **P:** وجودِ خدایی [همچنین: خدای باوه]
+
+### 88. göttliches Wesen
+* **E:** divine being
+* **F:** être divin
+* **P:** هستومندِ خدایی
+
+### 89. Grad
+* **E:** degree
+* **F:** degré, point
+* **P:** درجه، مرتبه
+
+### 90. Gravitation
+* **E:** gravitation
+* **F:** gravitation
+* **P:** گرانش
+
+### 91. Gravitationsgesetze
+* **E:** laws of gravitation
+* **F:** lois de la gravitation
+* **P:** قانونهای گرانش
+
+### 92. Grenzbegriff
+* **E:** limiting concept
+* **F:** concept limitatif
+* **P:** مفهومِ تحدیدی
+
+### 93. Grenzbestimmung
+* **E:** determination of limits, limitation
+* **F:** détermination de limites, détermination des limites, déterminer les limites
+* **P:** تعیینِ مرزها، تعیین کردنِ مرزها، مرزگذاری
+
+### 94. Grenze
+* **E:** limit
+* **F:** limite
+* **P:** مرز، حدّ
+
+### 95. Grenzenlosigkeit
+* **E:** limitlessness
+* **F:** infini, sans limites
+* **P:** مرزناپذیری
+
+### 96. das Große
+* **E:** the great, what is great
+* **F:** le grand
+* **P:** امرِ بزرگ
+
+### 97. Größe
+* **E:** greatness; vastness, magnitude, quantity
+* **F:** grandeur, quantité
+* **P:** بزرگی، عظمت؛ چندی، اندازه، کمّیت
+
+### 98. Größenbegriff
+* **E:** concept of magnitude
+* **F:** concept de grandeur
+* **P:** مفهومِ اندازه، مفهومِ چندی
+
+### 99. Größenlehre
+* **E:** theory of magnitudes
+* **F:** théorie des grandeurs
+* **P:** چندی‌شناسی [همچنین: ریاضیات؛ ــ میکل جان و مولر: mathematics؛ ــ اویزرمن: учение о величинах]
+
+### 100. größte empirische Einheit
+* **E:** greatest empirical unity
+* **F:** la plus grande unité empirique
+* **P:** بزرگترین یگانگیِ آروینی
+
+### 101. größte Harmonie
+* **E:** greatest harmony
+* **F:** harmonie suprême
+* **P:** بزرگترین هماهنگی
+
+### 102. größtmögliche Ausbreitung
+* **E:** widest possible application
+* **F:** la plus grande extension possible
+* **P:** بزرگترین توسعهٔ ممکن
+
+### 103. größtmögliche Einheit
+* **E:** greatest possible unity
+* **F:** la plus grande unité possible
+* **P:** بزرگترین یگانگیِ ممکن
+
+### 104. größtmögliche Mannigfaltigkeit
+* **E:** greatest possible manifoldness
+* **F:** la plus grande variété possible
+* **P:** بزرگترین بسیارگانیِ ممکن
+
+### 105. größtmöglicher empirischer Gebrauch
+* **E:** greatest possible empirical employment
+* **F:** le plus grand usage empirique possible
+* **P:** بزرگترین کاربرد آروینی ممکن
+
+### 106. größtmöglicher empirischer Vernunftgebrauch
+* **E:** greatest possible empirical employment of reason
+* **F:** le plus grand usage empirique possible de la raison
+* **P:** بزرگترین کاربرد آروینی ممکن خرد
+
+### 107. Grund
+* **E:** ground; foundation; reason
+* **F:** fondement; terre; motif; principe; raison
+* **P:** بن، بنیاد، پایه، پی، مبنا؛ زمینه؛ سبب؛ استدلال؛ دلیل
+
+### 108. Grundbegriff
+* **E:** fundamental concept
+* **F:** concept fondamental, principe fondamental
+* **P:** مفهومِ بنیادین
+
+### 109. Grundeigenschaft
+* **E:** fundamental property
+* **F:** propriété fondamentale
+* **P:** خصلتِ بنیادین
+
+### 110. Grundfeste
+* **E:** foundation, basis
+* **F:** fondement, base
+* **P:** اساس
+
+### 111. Grundidee
+* **E:** fundamental idea
+* **F:** idée fondamentale
+* **P:** مینویِ بنیادین
+
+### 112. Grundkraft
+* **E:** ultimate power, fundamental power
+* **F:** faculté, faculté fondamentale
+* **P:** نیروی بنیادین
+
+### 113. Grundlage
+* **E:** foundation, basis, fundamental form
+* **F:** fondement, base, élément
+* **P:** شالوده
+
+### 114. Grundlegung
+* **E:** foundation, preparation of the ground
+* **F:** fondement
+* **P:** شالوده، شالوده‌ریزی
+
+### 115. Gründlichkeit
+* **E:** thoroughness, solidity
+* **F:** profondeur, sûreté, solidité
+* **P:** استوارکاری [«استوارکاره»: مسعود سعد سلمان: + «ـی»]، دقّت
+
+### 116. Grundmaxime
+* **E:** fundamental maxim, maxim which is fundamental
+* **F:** maxime fondamentale, maxime inviolable
+* **P:** مبدأِ حکمتیِ بنیادین
+
+### 117. Grundriß
+* **E:** ground plan
+* **F:** plan
+* **P:** طرحِ بنیادین، بنیاد
+
+### 118. Grundsatz
+* **E:** principle, fundamental proposition
+* **F:** principe, proposition fondamentale
+* **P:** آغازه
+
+### 119. Grundsatz der Ausschließung eines Mittleren
+* **E:** principle of excluded middle
+* **F:** principle of excluded middle
+* **P:** آغازهٔ طردِ شقّ وسط
+
+### 120. Grundsatz der Beharrlichkeit
+* **E:** principle of permanence
+* **F:** principe de la permanence
+* **P:** آغازهٔ پایندگی
+
+### 121. Grundsatz der Varietät
+* **E:** principle of variety
+* **F:** principe de la variété
+* **P:** آغازهٔ تنوّع
+
+### 122. Grundsatz des Nichtzuunterscheidenden
+* **E:** principle of the identity of indiscernibles
+* **F:** principe de l'indiscernable
+* **P:** آغازهٔ عدمِ تمایز
+
+### 123. Grundsätze des reinen Verstandes
+* **E:** principles of pure understanding
+* **F:** principes de l'entendement pur
+* **P:** آغازه‌های فهمِ ناب
+
+### 124. Grundursache
+* **E:** fundamental cause
+* **F:** cause première
+* **P:** علّتِ بنیادین
+
+### 125. Grundvermögen
+* **E:** fundamental faculty
+* **F:** pouvoir fondamental
+* **P:** قوهٔ بنیادین، توانشِ بنیادین
+
+### 126. Gültigkeit
+* **E:** validity
+* **F:** valeur
+* **P:** اعتبار [= ارزشمندی]
+
+### 127. das Gut / Gut
+* **E:** the good, goodness
+* **F:** le bien
+* **P:** خیر
+# واژه‌نامه سنجش خرد ناب - حرف H
+
+### 1. Haltung
+* **E:** support
+* **F:** soutien
+* **P:** حمایت
+
+### 2. das Handeln
+* **E:** action, acting
+* **F:** action
+* **P:** کنش، معامله [همچنین: کار کردن، عمل کردن، عمل، کنش؛ ــ و نیز: معامله کردن، تجارت کردن، ...]
+
+### 3. das Handelnde
+* **E:** agent, that which acts
+* **F:** agent
+* **P:** کارگر، امرِ کارگر
+
+### 4. handelndes Subject (Subjekt)
+* **E:** acting subject
+* **F:** sujet agissant
+* **P:** درون‌آختهٔ کارگر
+
+### 5. Handlung
+* **E:** action, act
+* **F:** action, acte
+* **P:** کنش، عمل
+
+### 6. Hang
+* **E:** tendency
+* **F:** penchant
+* **P:** گرایش، میل، سائق، تمایل
+
+### 7. Harmonie
+* **E:** harmony
+* **F:** harmonie
+* **P:** هماهنگی
+
+### 8. Hauptgattungen
+* **E:** main genera
+* **F:** genres principaux
+* **P:** جنسهای عمده
+
+### 9. Hauptstück
+* **E:** chapter
+* **F:** chapitre, partie principale
+* **P:** فصل، قطعهٔ عمده
+
+### 10. heilig
+* **E:** sacred
+* **F:** sacré
+* **P:** مقدّس
+
+### 11. Heiligkeit
+* **E:** sanctity, sacredness
+* **F:** sainteté
+* **P:** تقدّس
+
+### 12. heterogen
+* **E:** heterogeneous
+* **F:** hétérogène, différent
+* **P:** نامتجانس
+
+### 13. heuristisch
+* **E:** heuristic
+* **F:** heuristique
+* **P:** اکتشافی
+
+### 14. heuristische Fiktionen
+* **E:** heuristic fictions
+* **F:** fictions heuristiques
+* **P:** تخیّلهای اکتشافی
+
+### 15. heuristische Grundsätze
+* **E:** heuristic principles
+* **F:** principes heuristiques
+* **P:** آغازه‌های اکتشافی
+
+### 16. heuristischer Begriff
+* **E:** heuristic concept
+* **F:** concept heuristique
+* **P:** مفهومِ اکتشافی
+
+### 17. Himmelsbewegungen
+* **E:** movements of the heavenly bodies
+* **F:** mouvements du ciel
+* **P:** جنبشهای جرمهای آسمانی، جنبشهای اجرام سماوی
+
+### 18. hinreichend
+* **E:** sufficient, ~ly, adequate, ~ly
+* **F:** suffisant, suffisamment; assez bien
+* **P:** رسا، کافی [همچنین: بسنده، وافی؛ به سان رسا، به نحو رسا، به طور کافی، چنانکه بایست]
+
+### 19. Hirngespinst
+* **E:** phantom of the brain, fancy, fiction of the brain, figment of the brain
+* **F:** chimère, rêverie
+* **P:** خیالبافی
+
+### 20. historische Erkenntnis
+* **E:** historical knowledge
+* **F:** connaissance historique
+* **P:** شناختِ تاریخی
+
+### 21. höchste Gattung
+* **E:** highest of all genera
+* **F:** genre le plus élevé
+* **P:** برترین جنس
+
+### 22. höchste Intelligenz
+* **E:** highest intelligence, supreme intelligence
+* **F:** intelligence suprême, suprême intelligence
+* **P:** برترین هوش، برترین هوشمند
+
+### 23. höchste Kausalität
+* **E:** highest causality
+* **F:** la plus haute causalité
+* **P:** برترین علّیت
+
+### 24. höchste Realität
+* **E:** supreme reality, the highest reality
+* **F:** réalité suprême, la plus haute réalité
+* **P:** برترین واقعیت
+
+### 25. höchster Vernunftbegriff
+* **E:** highest concept of reason
+* **F:** concept rationnel suprême
+* **P:** برترین مفهوم خرد
+
+### 26. höchster Verstand
+* **E:** supreme understanding, highest understanding
+* **F:** entendement suprême
+* **P:** برترین فهم
+
+### 27. höchstes Gut
+* **E:** highest good, summum bonum
+* **F:** souverain bien
+* **P:** برترین نیکی
+
+### 28. höchstes Wesen
+* **E:** highest being, supreme being
+* **F:** être suprême, l'Etre suprême
+* **P:** برترین هستومند
+
+### 29. höchste Ursache
+* **E:** supreme cause
+* **F:** cause suprême
+* **P:** برترین علّت
+
+### 30. das höchste ursprüngliche Gut
+* **E:** supreme original good
+* **F:** souverain bien originaire
+* **P:** برترین نیکیِ نخستین
+
+### 31. höchste Vernunft
+* **E:** highest reason, supreme reason
+* **F:** raison suprême
+* **P:** برترین خرد
+
+### 32. höchste Vollkommenheit
+* **E:** highest perfection
+* **F:** la plus haute perfection
+* **P:** برترین کمال
+
+### 33. höchste Weisheit
+* **E:** supreme wisdom
+* **F:** sagesse suprême
+* **P:** برترین فرزانگی
+
+### 34. höchstmöglicher Grad
+* **E:** highest possible degree
+* **F:** le plus haut degré
+* **P:** برترین مرتبهٔ ممکن
+
+### 35. höchstweise Ursache
+* **E:** supremely wise cause
+* **F:** cause souverainement sage
+* **P:** فرزانه‌ترین علّت
+
+### 36. das Hoffen
+* **E:** hoping, hope, to hope
+* **F:** espoir, espérer
+* **P:** امید داشتن، امیدوار بودن، امید
+
+### 37. höhere Gattungen
+* **E:** higher genera
+* **F:** genres plus élevés
+* **P:** جنسهای برتر
+
+### 38. höherer Begriff
+* **E:** higher concept
+* **F:** concept supérieur
+* **P:** مفهومِ برتر
+
+### 39. Horizont
+* **E:** horizon
+* **F:** horizon
+* **P:** افق
+
+### 40. hyperbolische Kometenbahnen
+* **E:** hyperbolic paths of comets
+* **F:** marche hyperbolique des comètes
+* **P:** مسیرهای هذلولیِ دنباله‌دارها
+
+### 41. hyperphysisch
+* **E:** hyperphysical
+* **F:** hyperphysique
+* **P:** فراگیتیانه
+
+### 42. hypostasieren
+* **E:** to hypostatize, to hypostasize
+* **F:** hypostasier, faire une hypostase
+* **P:** متجسّم ساختن، تجسّم بخشیدن، تجسّم یافتن [همچنین: شخصیت بخشیدن، اندیشه‌های خود را به چیز تبدیل کردن؛ آتومی ساختن، اقنومی شدن، اقنوم گشتن، ...؛ و بدینسان]
+
+### 43. hypostatisch
+* **E:** hypostatic, hypostatal, ~ly; hypostatized
+* **F:** hypostatique, ~ment
+* **P:** متجسّم، جسمی، اقنومی
+
+### 44. hypostatische Bedingung
+* **E:** hypostatic condition, substantial condition
+* **F:** condition hypostatique
+* **P:** شرطِ جسمی، شرطِ اقنومی
+
+### 45. Hypothese
+* **E:** hypothesis
+* **F:** hypothèse
+* **P:** فرضیّه [هومن: «زیرنهاد»؛ خراسانی: «زیرنهاده»]
+
+### 46. hypothetisch
+* **E:** hypothetical, ~ly
+* **F:** hypothétique, ~ment
+* **P:** فرضی؛ فرضاً، به سان فرضیّه؛ شرطی [داوری، گزاره]، شرطیِ اتصالی [قیاس خردی]
+
+### 47. hypothetischer Gebrauch
+* **E:** hypothetical employment
+* **F:** usage hypothétique
+* **P:** کاربردِ فرضی
+
+### 48. hypothetischer Satz
+* **E:** hypothetical proposition
+* **F:** proposition hypothétique
+* **P:** گزارهٔ شرطی
+
+### 49. hypothetischer Vernunftschluß
+* **E:** hypothetical syllogism
+* **F:** raisonnement hypothétique, raisonnement hypothétique de raison
+* **P:** قیاسِ خردیِ شرطیِ اتصالی، قیاسِ خردیِ استثنایی
+
+### 50. hypothetisches Urteil
+* **E:** hypothetical judgment
+* **F:** jugement hypothétique
+* **P:** داوریِ شرطی
+# واژه‌نامه سنجش خرد ناب - حروف I و J
+
+## حرف I
+
+### 1. das Ich
+* **E:** the "I"
+* **F:** le moi
+* **P:** من
+
+### 2. Ich bin
+* **E:** I am
+* **F:** je suis
+* **P:** من هستم
+
+### 3. Ich denke
+* **E:** I think
+* **F:** je pense
+* **P:** من می‌اندیشم
+
+### 4. Ich existierende denkend
+* **E:** I exist thinking
+* **F:** j'existe pensant
+* **P:** من اندیشه‌کنان وجود دارم
+
+### 5. ideal
+* **E:** ideal
+* **F:** idéal
+* **P:** مینوگانی، مینوی، آرمانی
+
+### 6. das Ideal
+* **E:** the ideal
+* **F:** l'idéal, idéal
+* **P:** مینوگان
+
+### 7. das Ideal der reinen Vernunft
+* **E:** the ideal of pure reason
+* **F:** idéal de la raison pure
+* **P:** مینوگان خرد ناب
+
+### 8. Ideale der Sinnlichkeit
+* **E:** ideals of sensibility
+* **F:** idéaux de la sensibilité
+* **P:** مینوگانهای حسّگانی
+
+### 9. Ideal des höchsten Guts
+* **E:** ideal of the highest good, ideal of the supreme good
+* **F:** idéal du souverain bien
+* **P:** مینوگانِ برترین نیکی
+
+### 10. idealisch
+* **E:** ideal
+* **F:** idéal, idéaliste
+* **P:** مینوی
+
+### 11. das Idealische
+* **E:** the ideal character, the ideal nature
+* **F:** ce qu'il y a d'idéal
+* **P:** جنبهٔ مینوی، عنصر مینوی
+
+### 12. idealische Wesen
+* **E:** ideal beings
+* **F:** êtres idéaux
+* **P:** هستومندهای مینوی
+
+### 13. idealisierende Vernunft
+* **E:** idealizing reason
+* **F:** raison idéalisante
+* **P:** خردِ مینوتوده [mīnavande]
+
+### 14. idealism
+* **E:** idealism
+* **F:** idéalisme
+* **P:** مینوگروی
+
+### 15. Idealismus
+* **E:** idealism
+* **F:** idéalisme
+* **P:** مینوگروی
+
+### 16. Idealist
+* **E:** idealist
+* **F:** idéaliste
+* **P:** مینوگرو
+
+### 17. Idealität
+* **E:** ideality
+* **F:** idéalité
+* **P:** مینُوش [mīnaveš]
+
+### 18. Idealität äußerer Erscheinungen
+* **E:** ideality of outer appearances
+* **F:** idéalité des phénomènes extérieurs
+* **P:** مینوش پدیدارهای بیرونی
+
+### 19. Idee
+* **E:** idea
+* **F:** idée
+* **P:** مینو
+
+### 20. Idee der Menschheit
+* **E:** idea of humanity
+* **F:** idée de l'humanité
+* **P:** مینویِ انسانیت
+
+### 21. identisch
+* **E:** identical, ~ly, in the way of identity
+* **F:** identique, ~ment
+* **P:** اینهمان
+
+### 22. identische Sätze
+* **E:** identical propositions
+* **F:** propositions identiques
+* **P:** گزاره‌های اینهمان
+
+### 23. identisches Urteil
+* **E:** identical judgment, identical proposition
+* **F:** jugement identique
+* **P:** داوریِ اینهمان
+
+### 24. Identität
+* **E:** identity
+* **F:** identité
+* **P:** اینهمانی [فروغی]
+
+### 25. Identität der Art
+* **E:** identity of species
+* **F:** identité de l'espèce
+* **P:** اینهمانیِ نوع
+
+### 26. ignava ratio
+* **P:** عقل کاهل
+
+### 27. ignoratio elenchi
+* **P:** ندانستن مسئله مورد بحث، نادیده‌انگاشتن مسئله مورد بحث
+
+### 28. Illusion
+* **E:** illusion, deluding influence
+* **F:** illusion
+* **P:** پندار باطل، پندار فریب‌آمیز، توهّم، وهم
+
+### 29. Illustration
+* **E:** illustration
+* **F:** illustration
+* **P:** تصویر
+
+### 30. Imagination
+* **E:** imagination
+* **F:** imagination
+* **P:** متخیّله
+
+### 31. immanent
+* **E:** immanent
+* **F:** immanent
+* **P:** درون‌مانده [همچنین: درون‌ماندگار، درونی]
+
+### 32. immanente Erkenntnisquellen der Erfahrung
+* **E:** those sources of knowledge which are immanent in experience
+* **F:** sources immanentes de la connaissance expérimentale
+* **P:** سرچشمه‌های درون‌ماندهٔ شناختِ تجربه
+
+### 33. immanente Grundsätze
+* **E:** immanent principles
+* **F:** principes immanents
+* **P:** آغازه‌های درون‌مانده
+
+### 34. immanente Gültigkeit
+* **E:** immanent validity
+* **F:** valeur immanente
+* **P:** اعتبارِ درون‌مانده، اعتبارِ درونی
+
+### 35. immanente Physiologie
+* **E:** immanent physiology
+* **F:** physiologie immanente
+* **P:** گیتی‌شناسیِ درون‌مانده
+
+### 36. immanenter Gebrauch
+* **E:** immanent employment
+* **F:** usage immanent
+* **P:** کاربردِ درون‌مانده
+
+### 37. Immaterialität
+* **E:** immateriality
+* **F:** immatérialité
+* **P:** نامادّگی [= لاماّدیت]
+
+### 38. immateriell
+* **E:** immaterial
+* **F:** immatériel
+* **P:** نامادّی
+
+### 39. Immortalität
+* **E:** immortality
+* **F:** immortalité
+* **P:** اَمُردادی [= خلود = نامیرایی = بیمرگی]
+
+### 40. der Imperativ
+* **E:** the imperative
+* **F:** l'impératif
+* **P:** فرمودمان [همچنین: فرمان، امرِ الزامی. ــ نیز ← der kategorische Imperativ]
+
+### 41. Imputabilität
+* **E:** imputability
+* **F:** imputabilité
+* **P:** اسنادپذیری، مسئولیت‌پذیری، مسئولیتِ اخلاقی، مسئولیت‌پذیریِ اخلاقی
+
+### 42. in abstracto
+* **P:** به طور مجرّد، به طور انتزاعی
+
+### 43. in antecedentia
+* **E:** in antecedentia
+* **F:** sur les antécédents [F]
+* **P:** در سوی مقدّمها
+
+### 44. Inbegriff
+* **E:** sum, sum-total, whole, body; quintessence; inclusive of
+* **F:** ensemble; quintessence; y compris [: mit Inbegriff : ]
+* **P:** مجموعِ کلّی؛ سرمجموع [مولوی]: اسطقسّ؛ شامل
+
+### 45. Inbegriff gegebener Gegenstände
+* **E:** sum of given objects
+* **F:** ensemble des objets donnés
+* **P:** مجموعِ کلّیِ برابرایستاهای داده شده
+
+### 46. in concreto
+* **E:** in concreto, concrete
+* **P:** ملموس، به طور ملموس، ملموساً
+
+### 47. in consequentia
+* **F:** sur les conséquents [F]
+* **P:** در سوی تالیها
+
+### 48. indemonstrabilia
+* **P:** مسلّماتِ غیر قابلِ اثبات
+
+### 49. Indifferentismus
+* **E:** indifferentism
+* **F:** indifférentisme
+* **P:** یکسان‌انگاری
+
+### 50. Indifferentisten
+* **E:** indifferentists
+* **F:** indifférentistes
+* **P:** یکسان‌انگاران
+
+### 51. Individuum
+* **E:** individual
+* **F:** individu
+* **P:** فرد
+
+### 52. Induktion
+* **E:** induction
+* **F:** induction
+* **P:** استقراء
+
+### 53. infit
+* **P:** شروع می‌کند
+
+### 54. Ingredienz
+* **E:** ingredient
+* **F:** ingrédient
+* **P:** جزءِ مقوّم [همچنین: جزءِ ترکیبی]
+
+### 55. Inhalt
+* **E:** content
+* **F:** contenu, compréhension
+* **P:** گنجانیده
+
+### 56. Inhärenz
+* **E:** inherence
+* **F:** inhérence
+* **P:** التصاق
+
+### 57. inhärierend
+* **E:** inherent, inhering
+* **F:** en qualité d'accident, accident, accidentel
+* **P:** ملتصق
+
+### 58. in indefinitum
+* **P:** تا حدّ نامعیّن
+
+### 59. in individuo
+* **P:** به طور منفرد
+
+### 60. in infinitum
+* **P:** تا بینهایت
+
+### 61. in konkreto
+* **E:** in concreto
+* **F:** in concreto
+* **P:** به طور ملموس
+
+### 62. inkonsequent
+* **E:** inconsequent, ~ly
+* **F:** inconséquent, avec d'inconséquence, avec inconséquence, inconséquemment
+* **P:** ناپیگیر، ناپیگیرانه
+
+### 63. Inkorruptibilität
+* **E:** incorruptibility
+* **F:** incorruptibilité
+* **P:** فسادناپذیری
+
+### 64. in mundo non datur casus
+* **P:** در عالم صدفه وجود ندارد
+
+### 65. in mundo non datur hiatus, non datur saltus, non datur casus, non datur fatum
+* **P:** در عالم خرق وجود ندارد، طفره وجود ندارد، صدفه وجود ندارد، ضرورتِ کور وجود ندارد
+
+### 66. in mundo non datur saltus
+* **P:** در عالم طفره وجود ندارد
+
+### 67. das Innere / etwas Inneres
+* **E:** the inner, the inner properties, something that is inner
+* **F:** l'intérieur, l'interne, qq. ch. d'extérieur, ce qui est dans l'objet en soi, parties de l'intérieur
+* **P:** درونگان، چیزِ درونی [/ etwas Inneres : درونگان، چیز درونی]
+
+### 68. innere Anschauung
+* **E:** inner intuition
+* **F:** intuition intérieure
+* **P:** سهشِ درونی
+
+### 69. innere Erfahrung
+* **E:** inner experience
+* **F:** expérience interne
+* **P:** تجربهٔ درونی
+
+### 70. innere Möglichkeit
+* **E:** inner possibility
+* **F:** possibilité interne
+* **P:** امکانِ درونی [همچنین: امکان ذاتی]
+
+### 71. innere Notwendigkeit
+* **E:** inner necessity
+* **F:** nécessité interne, nécessité intrinsèque
+* **P:** ضرورتِ درونی
+
+### 72. innerer Sinn
+* **E:** inner sense
+* **F:** sens extérieur, sens interne
+* **P:** حسِّ درونی
+
+### 73. innerer Zustand
+* **E:** inner state
+* **F:** état interne, état intérieur
+* **P:** حالتِ درونی
+
+### 74. innerlich
+* **E:** inwardly
+* **F:** interne
+* **P:** از درون، درونی
+
+### 75. in sich
+* **E:** into itself, in itself, within itself
+* **F:** en lui-même, en soi
+* **P:** در خود، در درونِ خود، در گوهرِ خویش
+
+### 76. instabilis tellus, innabilis unda
+* **P:** زمینِ نانابِت، موجِ غلبه‌ناپذیر
+
+### 77. Institution
+* **E:** institution
+* **F:** institution
+* **P:** نهاد
+
+### 78. ins Unendliche
+* **E:** in infinitum, ad infinitum
+* **F:** à l'infini
+* **P:** تا بیکران
+
+### 79. intellectus archetypus
+* **P:** باستان نمونِ فکر، انموذج‌الأوائلِ فکر
+
+### 80. intellektual
+* **E:** intellectual
+* **F:** intellectuel
+* **P:** فکری
+
+### 81. Intellektualphilosoph
+* **E:** intellectual philosopher, intellectualist
+* **F:** philosophe intellectualiste
+* **P:** فیلسوفِ فکری
+
+### 82. intellektuell
+* **E:** intellectual, intelligible
+* **F:** intellectuel
+* **P:** فکری، عقلی
+
+### 83. das Intellektuelle
+* **E:** the intellectual, the intelligible, the intellectual world
+* **F:** l'intellectuel, l'Intellectuel
+* **P:** امرِ فکری
+
+### 84. intellektuelle Anschauung
+* **E:** intellectual intuition
+* **F:** intuition intellectuelle
+* **P:** سهشِ فکری
+
+### 85. intellektuelle Erkenntnis
+* **E:** intellectual knowledge
+* **F:** connaissance intellectuelle
+* **P:** شناختِ فکری
+
+### 86. intellektuelle Form
+* **E:** intellectual form
+* **F:** forme intellectuelle
+* **P:** صورتِ فکری
+
+### 87. intellektueller Begriff
+* **E:** intellectual concept
+* **F:** concept intellectuel
+* **P:** مفهومِ فکری
+
+### 88. intellektuelle Sätze
+* **E:** intellectual propositions, propositions that are intellectual
+* **F:** propositions intellectuelles
+* **P:** گزاره‌های فکری
+
+### 89. intellektuelles Bewußtsein
+* **E:** intellectual consciousness
+* **F:** conscience intellectuelle
+* **P:** آگاهیِ فکری
+
+### 90. intellektuelles System
+* **E:** intellectual system
+* **F:** système intellectuel
+* **P:** دستگاهِ فکری
+
+### 91. intellektuelle Substanz
+* **E:** intellectual substance
+* **F:** substance intellectuelle
+* **P:** جوهرِ فکری
+
+### 92. intellektuelle Synthesis
+* **E:** intellectual synthesis
+* **F:** synthèse intellectuelle
+* **P:** همنهادِ فکری
+
+### 93. intellektuelle Welt
+* **E:** intellectual world
+* **F:** monde intellectuel
+* **P:** جهانِ فکری
+
+### 94. intellektuieren
+* **E:** to intellectualize
+* **F:** intellectualiser
+* **P:** فکری ساختن
+
+### 95. intelligent
+* **E:** intelligent
+* **F:** intelligent
+* **P:** باهوش
+
+### 96. Intelligenz
+* **E:** intelligence, intelligent existence
+* **F:** intelligence
+* **P:** هوش؛ موجود هوشمند، هوشمند
+
+### 97. intelligibel
+* **E:** intelligible
+* **F:** intelligible
+* **P:** مفهومِ معقول، معقول [همچنین: متعلق به عقل، مفکور]
+
+### 98. intelligibilia / Intelligibilia
+* **P:** معقولات
+
+### 99. das Intelligible
+* **E:** the intelligible
+* **F:** l'intelligible
+* **P:** امرِ معقول
+
+### 100. intelligible Form
+* **E:** intelligible form
+* **F:** forme intelligible
+* **P:** صورتِ معقول
+
+### 101. intelligibler Charakter
+* **E:** intelligible character
+* **F:** caractère intelligible
+* **P:** سرشت ـ نشانِ معقول
+
+### 102. intelligibler Gegenstand
+* **E:** intelligible object
+* **F:** sujet intelligible, objet intelligible
+* **P:** برابرایستای معقول
+
+### 103. intelligible Substanzen
+* **E:** intelligible substances
+* **F:** intelligible substances
+* **P:** جوهرهای معقول
+
+### 104. intelligible Ursache
+* **E:** intelligible cause
+* **F:** cause intelligible
+* **P:** علّتِ معقول
+
+### 105. intelligible Welt
+* **E:** intelligible world
+* **F:** monde intelligible
+* **P:** جهانِ معقول
+
+### 106. intensiv
+* **E:** intensive
+* **F:** intensif
+* **P:** ژرفارو [خراسانی]، در تنیده [همچنین: درون‌گستر]
+
+### 107. intensive
+* **E:** intensively
+* **F:** intensivement
+* **P:** به شیوهٔ درتنیده، به شیوهٔ ژرفارو
+
+### 108. intensive Größen
+* **E:** intensive magnitudes, intensive quantities
+* **F:** grandeurs intensives
+* **P:** چندیهای ژرفارو
+
+### 109. intensive Quantität
+* **E:** intensive quantity
+* **F:** grandeur intensive, quantité intensive
+* **P:** کمّیتِ ژرفارو
+
+### 110. Interesse
+* **E:** interest
+* **F:** intérêt
+* **P:** علاقه، جالبیت، جاذبه، جاذبیت
+
+### 111. interesse der Vernunft
+* **E:** interest of reason
+* **F:** intérêt de la raison
+* **P:** علاقهٔ خرد
+
+### 112. in terminis
+* **P:** در حدود
+
+### 113. interne
+* **P:** باطناً
+
+### 114. Introduktion
+* **E:** introduction
+* **F:** introduction
+* **P:** مدخل
+
+### 115. intuitiv
+* **E:** intuitive
+* **F:** intuitif
+* **P:** شهودی
+
+### 116. intuitive (ästhetische) Deutlichkeit
+* **E:** intuitive (aesthetic) clearness, intuitive or aesthetic clearness
+* **F:** clarté intuitive (esthétique)
+* **P:** روشنیِ شهودی (حسّیک)
+
+### 117. intuitive Grundsätze
+* **E:** intuitive principles
+* **F:** principes intuitifs
+* **P:** آغازه‌های شهودی
+
+### 118. intuitus
+* **P:** شهود
+
+### 119. intuitus derivatus
+* **P:** شهودِ اشتقاقی
+
+### 120. intuitus originarius
+* **P:** شهودِ اصلی
+
+### 121. intuitus vel conceptus
+* **P:** شهود یا فرایافت
+
+### 122. Inventarium
+* **E:** inventory
+* **F:** inventaire
+* **P:** سیاهه
+
+### 123. Irrationalzahlen
+* **E:** irrational numbers
+* **F:** nombres irrationels
+* **P:** عددهای گنگ [علی افضل‌پور]، عددهای اصمّ
+
+### 124. Irrtum
+* **E:** error, falsity
+* **F:** erreur
+* **P:** خطا، بطلان [همچنین: ایرنگ. ــ پهلوی: ērang و ērangīh (یا ērangēh)]
+
+### 125. Irrung
+* **E:** error
+* **F:** erreur
+* **P:** اشتباه [همچنین: خبط، ایرنگ]
+
+### 126. ist
+* **E:** is
+* **F:** est
+* **P:** است، است / هست [همچنین: می‌باشد]
+
+---
+
+## حرف J
+
+### 1. Judicia communia
+* **F:** judicia communia
+* **P:** حکمهای عامّ
+
+### 2. judicium commune
+* **F:** judicium commune
+* **P:** حکمِ عامّ
+
+### 3. judicium singulare
+* **F:** judicium singulare
+* **P:** حکمِ شخصی
+# واژه‌نامه سنجش خرد ناب - حرف K
+
+### 1. Kampfplatz
+* **E:** battle-field, arena
+* **F:** terrain, arène, lieu du combat, théâtre du combat
+* **P:** رزمگاه
+
+### 2. Kanon
+* **E:** canon
+* **F:** canon
+* **P:** قانون، کیش ـ قانون
+
+### 3. Kanon der reinen Vernunft
+* **E:** canon of pure reason
+* **F:** canon de la raison pure
+* **P:** کیش ـ قانونِ خرد ناب
+
+### 4. Kardinalsatz
+* **E:** cardinal proposition
+* **F:** proposition cardinale
+* **P:** گزارهٔ اساسی
+
+### 5. κατ' ἀλήθειαν = kat' alétheian
+* **P:** برطبق حقیقت، از دیدگاه حقیقت
+
+### 6. κατ' ἄνθρωπον = kat' ánthrōpon
+* **P:** برطبق شخص، برطبق انسان، از دیدگاه انسان
+
+### 7. Kategorie
+* **E:** category
+* **F:** catégorie
+* **P:** مقوله
+
+### 8. kategorisch
+* **E:** categorical, ~ly
+* **F:** catégorique, ~ment
+* **P:** حملی [داوری، گزاره]، اقترانی [قیاس خردی]، مقوله‌ای، مقولی
+
+### 9. [der kategorische Imperativ]
+* **E:** categorical imperative
+* **F:** impératif catégorique
+* **P:** [فرمودمانِ فریزی، فرمودمان فریضی [«فریضی» صفت فریضی است. در ایرانی میانه واژه‌ای به صورت «فریز»: frēz وجود دارد که به معنای «وظیفه» و «فریضه» است و صفت آن در شکل دری قیاساً به شکل «فریزی» خواهد بود، با تلفظ farīzī. ما در بارهٔ رابطهٔ احتمالی «فریز» و «فریضه» به پژوهش نپرداخته‌ایم. ــ ضمناً، این اصطلاح در متن اصلی موجود نیست.]]
+
+### 10. kategorischer Vernunftschluß
+* **E:** categorical syllogism
+* **F:** raisonnement catégorique, raisonnement catégorique de raison
+* **P:** قیاس خردی اقترانی
+
+### 11. kategorische Urteile
+* **E:** categorical judgments
+* **F:** jugements catégoriques
+* **P:** داوریهای حملی
+
+### 12. Kathartikon / Katarktikon
+* **E:** cathartic
+* **F:** catharticon
+* **P:** پالاینده [تبصره: شکل "Katarktikon" در فرهنگهای آلمانی ضبط نشده است.]
+
+### 13. Kausalbestimmung
+* **E:** causal determination
+* **F:** détermination causale
+* **P:** تعیین علّی
+
+### 14. Kausalgesetz
+* **E:** law of causality, causal law
+* **F:** loi de causalité
+* **P:** قانونِ علّی
+
+### 15. Kausalität
+* **E:** causality
+* **F:** causalité
+* **P:** علّیت
+
+### 16. Kausalverbindung
+* **E:** causal connection
+* **F:** liaison causale
+* **P:** همبستگیِ علّی
+
+### 17. Kausalverhältnis
+* **E:** causal relation
+* **F:** rapport de causalité, relation de causalité
+* **P:** نسبت علّی
+
+### 18. Kausalverknüpfung
+* **E:** causal connection, causality
+* **F:** liaison causale, enchaînement causal
+* **P:** پیوستگیِ علّی
+
+### 19. Keim
+* **E:** seed
+* **F:** germe
+* **P:** نطفه
+
+### 20. das Keine / Keines
+* **E:** none
+* **F:** aucun
+* **P:** هیچ یک، هیچ کدام، نه حتی یک
+
+### 21. Kenntnis
+* **E:** knowledge
+* **F:** connaissance, connaître
+* **P:** شناسایی
+
+### 22. Kennzeichen
+* **E:** distinguishing mark, criterion
+* **F:** caractère, marque
+* **P:** شناخت ـ نشان
+
+### 23. Klarheit
+* **E:** clarity, clearness
+* **F:** clarté
+* **P:** وضوح
+
+### 24. klarst-
+* **E:** clearest
+* **F:** le plus claire
+* **P:** روشن‌ترین، واضح‌ترین
+
+### 25. Klasse
+* **E:** class, group
+* **F:** classe
+* **P:** طبقه
+
+### 26. das Kleine
+* **E:** the small, what is small
+* **F:** le petit
+* **P:** امر کوچک
+
+### 27. Klugheit
+* **E:** sagacity
+* **F:** sagesse
+* **P:** هوشمندی
+
+### 28. Koalition
+* **E:** coalition
+* **F:** coalition
+* **P:** ائتلاف
+
+### 29. Koexistenz
+* **E:** coexistence
+* **F:** coexistence
+* **P:** همزیستی
+
+### 30. kollektiv
+* **E:** collective
+* **F:** collectif
+* **P:** جمعی
+
+### 31. kollektive Einheit
+* **E:** collective unity
+* **F:** unité collective
+* **P:** یگانگی جمعی
+
+### 32. Komet
+* **E:** comet
+* **F:** comète
+* **P:** اخترِ دنباله‌دار [همچنین: دنباله‌دار]
+
+### 33. Kommerzium
+* **E:** commercium
+* **F:** commerce
+* **P:** معامله
+
+### 34. Komparation
+* **E:** comparison
+* **F:** comparaison
+* **P:** مقایسه
+
+### 35. komparative
+* **E:** comparatively, in a comparative sense, relatively
+* **F:** relativement, comparativement
+* **P:** نسبتاً
+
+### 36. komparative Allgemeinheit
+* **E:** comparative universality
+* **F:** universalité relative
+* **P:** کلیّت نسبی
+
+### 37. Komplex
+* **E:** complex
+* **F:** complexe
+* **P:** همبافته
+
+### 38. Komposition
+* **E:** composition
+* **F:** composition
+* **P:** ترکیب، تلفیق
+
+### 39. Kompositum
+* **E:** composite
+* **F:** composé
+* **P:** امر مرکّب
+
+### 40. kongruent
+* **E:** corresponding, ~ly, coinciding, adequate
+* **F:** correspondant, convenablement, de manière adéquate
+* **P:** مطابق، مطابقاً، متطابق [همچنین: همنهشت]
+
+### 41. Kongruenz
+* **E:** conformity
+* **F:** accord
+* **P:** تطابق، موافقت، دمسازی، همنهشتی
+
+### 42. konkav
+* **E:** concave
+* **F:** concave
+* **P:** مقعّر
+
+### 43. Konklusion
+* **E:** conclusion
+* **F:** conclusion
+* **P:** نتیجه
+
+### 44. Konkurrenz
+* **E:** concurrence, co-operating agency
+* **F:** concurrence, concours
+* **P:** مفعله، نیروی همکار
+
+### 45. konsequent
+* **E:** consistent, ~ly
+* **F:** conséquent, conséquemment
+* **P:** پیگیر
+
+### 46. Konsequenz
+* **E:** consequence, logical sequence
+* **F:** conséquence
+* **P:** تالی؛ تعاقب
+
+### 47. konstitutiv
+* **E:** constitutive; in a constitutive fashion
+* **F:** constitutif; d'une manière constitutive
+* **P:** بنیانگذار [مهدوی]؛ بنیانگذارانه
+
+### 48. konstitutive Grundsätze
+* **E:** constitutive principles
+* **F:** principes constitutifs
+* **P:** آغازه‌های بنیانگذار
+
+### 49. konstitutiver Gebrauch
+* **E:** constitutive employment
+* **F:** usage constitutif
+* **P:** کاربرد بنیانگذار
+
+### 50. konstitutives Prinzip
+* **E:** constitutive principle
+* **F:** principe constitutif
+* **P:** اصل بنیانگذار
+
+### 51. konstitutives Prinzipium
+* **E:** constitutive principle
+* **F:** principe constitutif
+* **P:** اصل بنیانگذار
+
+### 52. Konstruktion
+* **E:** construction
+* **F:** construction
+* **P:** ساخت
+
+### 53. kontemplative Astronomie
+* **E:** observational astronomy
+* **F:** astronomie contemplative
+* **P:** اخترشناسی مشاهدی، اخترشناسی ارصادی
+
+### 54. Kontext
+* **E:** context, texture
+* **F:** contexte
+* **P:** بافت، سیاق
+
+### 55. kontinuierlich
+* **E:** continuous, ~ly, continual, ~ly, constantly
+* **F:** continu, continûment, continuel, ~lement
+* **P:** پیوسته، همپیوسته، همتنیده، پیوستانه، مداوم، مستمر، دائمی، دائماً، متصل
+
+### 56. kontinuierliche Größen
+* **E:** continuous magnitudes
+* **F:** grandeurs continues
+* **P:** چندیهای پیوسته، چندیهای همتنیده
+
+### 57. Kontinuität
+* **E:** continuity
+* **F:** continuité
+* **P:** پیوستاری، همپیوستاری، همتنیدگی، ممتد بودن، استمرار، اتصال
+
+### 58. Kontinuum
+* **E:** continuum
+* **F:** continu
+* **P:** پیوستار
+
+### 59. kontradiktorisch
+* **E:** contradictory, contradictorily
+* **F:** contradictoire, ~ment
+* **P:** متناقض، نقض کننده، متناقضاً
+
+### 60. Kontrast
+* **E:** contrast
+* **F:** contraste
+* **P:** پادسانی
+
+### 61. Konzept
+* **E:** design, rough draft, plan(s), brouillon, projet, intention
+* **F:** draft
+* **P:** برداشت، نقشه و طرح اولیه [توجه کنید که Konzept در آلمانی مترادف با concept انگلیسی و فرانسه نیست.]
+
+### 62. koordiniert
+* **E:** coordinate, ~d
+* **F:** coordonné
+* **P:** هم‌مرتبه
+
+### 63. Kopie
+* **E:** copy
+* **F:** copie
+* **P:** رونوشت [فروغی]
+
+### 64. Körper
+* **E:** body
+* **F:** corps
+* **P:** جسم
+
+### 65. Körperlehre
+* **E:** doctrine of the body, somatology
+* **F:** somatologie
+* **P:** جسم‌شناسی
+
+### 66. körperliche Welt
+* **E:** material world, corporeal world
+* **F:** monde corporel, monde des corps
+* **P:** جهان مادی، جهان جسمانی
+
+### 67. Körperwelt
+* **E:** corporeal world
+* **F:** monde corporel
+* **P:** جهان جسمانی
+
+### 68. Korrelat
+* **E:** correlate
+* **F:** corrélatif
+* **P:** متضایف
+
+### 69. Korrelatum
+* **E:** correlate
+* **F:** corrélatif
+* **P:** متضایف
+
+### 70. Korrespondenz
+* **E:** correspondence
+* **F:** correspondance
+* **P:** تناظر
+
+### 71. korrespondierende Gegenstände
+* **E:** corresponding objects
+* **F:** objets qui correspondent, objets correspondants
+* **P:** برابرایستاهای متناظر
+
+### 72. korrespondierendes Ding
+* **E:** thing corresponding to, corresponding thing
+* **F:** chose correspondante
+* **P:** شیء متناظر، شیءِ متناظر
+
+### 73. Kosmologie
+* **E:** cosmology
+* **F:** cosmologie
+* **P:** کیهان‌شناسی
+
+### 74. kosmologische Behauptungen
+* **E:** cosmological assertions
+* **F:** assertions cosmologiques
+* **P:** حکمهای کیهان‌شناختی
+
+### 75. kosmologische Fragen
+* **E:** cosmological questions
+* **F:** questions cosmologiques
+* **P:** پرسشهای کیهان‌شناختی
+
+### 76. kosmologische Ideen
+* **E:** cosmological ideas
+* **F:** idées cosmologiques
+* **P:** مینوهای کیهان‌شناختی
+
+### 77. kosmologischer Beweis
+* **E:** cosmological proof
+* **F:** preuve cosmologique
+* **P:** برهان کیهان‌شناختی
+
+### 78. kosmologischer Vernunftschluß
+* **E:** cosmological inference, cosmological syllogism
+* **F:** syllogisme cosmologique
+* **P:** قیاس خردی کیهان‌شناختی
+
+### 79. kosmologisches Argument
+* **E:** cosmological argument
+* **F:** argument cosmologique
+* **P:** استدلال کیهان‌شناختی
+
+### 80. Kosmotheologie
+* **E:** cosmo-theology
+* **F:** cosmothéologie
+* **P:** کیهان‌ـ‌یزدان‌شناسی
+
+### 81. Kraft
+* **E:** force, power
+* **F:** force
+* **P:** نیرو
+
+### 82. Kreditiv
+* **E:** credential
+* **F:** lettre de créance
+* **P:** اعتبارنامه
+
+### 83. Kriterium
+* **E:** criterion
+* **F:** critérium, critère
+* **P:** سنجیدار
+
+### 84. Kritik
+* **E:** critique; criticism
+* **F:** critique
+* **P:** سنجش
+
+### 85. Kritik der reinen Vernunft
+* **E:** critique of pure reason, critical investigation of pure reason
+* **F:** critique de la raison pure
+* **P:** سنجش خرد ناب
+
+### 86. Kritik des Geschmacks
+* **E:** critique of taste
+* **F:** critique du goût
+* **P:** سنجش پسند
+
+### 87. kritisch
+* **E:** critical
+* **F:** critique
+* **P:** سنجشگرانه، سنجشگر، سنجشی
+
+### 88. kritische Erinnerung
+* **E:** critical reminder
+* **F:** avertissement critique
+* **P:** یادآوری سنجشگرانه
+
+### 89. kritischer Weg
+* **E:** critical path
+* **F:** route critique
+* **P:** راه سنجشگرانه
+
+### 90. kritische Untersuchung
+* **E:** critical enquiry
+* **F:** entreprise critique
+* **P:** بازجویی سنجشگرانه
+
+### 91. Kubikfuß
+* **E:** cubic foot
+* **F:** pied cube
+* **P:** پای مکعب، فوت مکعب
+
+### 92. Kultur
+* **E:** culture, fertilization
+* **F:** culture
+* **P:** پرورش، فرهنگ
+
+### 93. Kundschaft
+* **E:** information, reconnaissance, intelligence, a kind of knowledge
+* **F:** reconnaissance
+* **P:** اطلاعات، شناسندگی [همچنین: خبر]
+
+### 94. das Künftige
+* **E:** the future
+* **F:** l'avenir
+* **P:** امر آینده
+
+### 95. künftiges Leben
+* **E:** future life
+* **F:** vie future
+* **P:** زندگی آینده
+
+### 96. Kunst
+* **E:** art
+* **F:** art
+* **P:** هنر، فنّ
+
+### 97. Kunstteile
+* **E:** organized parts
+* **F:** parties organisées
+* **P:** جزءهای سازمان‌دار
+# واژه‌نامه سنجش خرد ناب - حرف L
+
+### 1. lapsus judicii
+* **P:** لغزشِ قضاوت
+
+### 2. Lauf der Welt
+* **E:** course of the world
+* **F:** cours du monde
+* **P:** جریانِ جهان
+
+### 3. lauter Begriffe
+* **E:** concepts alone, mere concepts
+* **F:** purs concepts, simples concepts
+* **P:** مفهومهای صرف
+
+### 4. Lauterkeit
+* **E:** purity
+* **F:** pureté
+* **P:** خلوص
+
+### 5. lauter reine Begriffe
+* **E:** solely pure concepts
+* **F:** simples concepts purs
+* **P:** مفهومهای نابِ خالص [همچنین: مفهومهای ناب، محض، مفهومهای صرفاً ناب]
+
+### 6. Läuterung
+* **E:** clarify
+* **F:** clarifier
+* **P:** پالایش
+
+### 7. Leben
+* **E:** life
+* **F:** vie
+* **P:** زندگی
+
+### 8. leer
+* **E:** empty
+* **F:** vide, vain
+* **P:** تهی
+
+### 9. das Leere
+* **E:** the void
+* **F:** le vide
+* **P:** تهیگی
+
+### 10. leere Anschauung
+* **E:** empty intuition
+* **F:** intuition vide
+* **P:** سهشِ تهی
+
+### 11. leere Data
+* **E:** empty data
+* **F:** données vides
+* **P:** داده‌های تهی
+
+### 12. leere Begriff
+* **E:** empty concept
+* **F:** concept vide
+* **P:** مفهومِ تهی
+
+### 13. leerer Gegenstand
+* **E:** empty object
+* **F:** objet vide
+* **P:** برابرایستای تهی
+
+### 14. leerer Raum
+* **E:** empty space
+* **F:** espace vide, le vide
+* **P:** فضای تهی، مکان تهی
+
+### 15. leere Zeit
+* **E:** empty time
+* **F:** temps vide
+* **P:** زمانِ تهی
+
+### 16. legislatorisch
+* **E:** legislative, legislatorial, of legislative authority
+* **F:** législateur, législatif
+* **P:** مقنّنه
+
+### 17. Lehrart
+* **E:** method
+* **F:** méthode
+* **P:** شیوهٔ آموزش
+
+### 18. Lehrbegriff
+* **E:** doctrine, system, teaching
+* **F:** doctrine, système, théorie
+* **P:** تعلیمات
+
+### 19. Lehre
+* **E:** doctrine, precept
+* **F:** doctrine, théorie
+* **P:** آموزه [در ترکیبها همچنین: -شناسی]
+
+### 20. Lehrmeinung
+* **E:** doctrine
+* **F:** conception
+* **P:** آموخت‌رای
+
+### 21. Lehrsatz
+* **E:** theorem; thesis, doctrine, proposition
+* **F:** théorème
+* **P:** قضیه
+
+### 22. Lehrspruch
+* **E:** doctrine
+* **F:** sentence
+* **P:** مانترا [از اوستایی mąθra- : واژهٔ «مهسرا» که بوسیلهٔ میرزا محمود آقا مجتهد شهابی تربتی خراسانی در رهبر خرد برای «منطق» بکار برده شده، همین واژه است.]، دستور
+
+### 23. das Leidende
+* **E:** the patient
+* **F:** le patient
+* **P:** کارپذیر
+
+### 24. Leitfaden
+* **E:** clue, guidance, guiding-thread
+* **F:** fil conducteur, fil, direction
+* **P:** راهنما، رشتهٔ راهنما، خطِّ راهنما، نخِ راهنما [همچنین: ← Faden]
+
+### 25. Leitschnur
+* **E:** guiding thread, leading string, leading principle
+* **F:** fil qui conduit, fil qui doit diriger
+* **P:** ریسمانِ راهنما
+
+### 26. lex continui in natura
+* **P:** قانون متّصله در طبیعت [اویزرمن: закон непрерывного чередования в чистом виде : «قانون تناوب و ترتّب لاینقطع به صورت خالص»، «... در نوع خالص»]
+
+### 27. Limitation
+* **E:** limitation
+* **F:** limitation
+* **P:** حصر
+
+### 28. Linie
+* **E:** line
+* **F:** line
+* **P:** خطّ
+
+### 29. Lizenz
+* **E:** licence, license
+* **F:** licence
+* **P:** پروانه
+
+### 30. Logik
+* **E:** logic
+* **F:** logique
+* **P:** منطق
+
+### 31. Logik der Wahrheit
+* **E:** logic of truth
+* **F:** logique de la vérité
+* **P:** منطقِ حقیقت
+
+### 32. Logik des allgemeinen Verstandesgebrauchs
+* **E:** logic of the general employment of the understanding
+* **F:** logique de l'usage général de l'entendement
+* **P:** منطقِ کاربردِ عامِّ فهم
+
+### 33. Logik des besonderen Verstandesgebrauchs
+* **E:** logic of the special employment of understanding
+* **F:** logique de l'usage particulier de l'entendement
+* **P:** منطقِ کاربردِ ویژهٔ فهم
+
+### 34. Logik des Scheins
+* **E:** logic of illusion
+* **F:** logique de l'apparence
+* **P:** منطقِ فرانمود
+
+### 35. logische Dialektik
+* **E:** logical dialectic
+* **F:** dialectique logique
+* **P:** دویچگویکِ منطقی
+
+### 36. logische Entgegensetzung
+* **E:** logical opposition
+* **F:** rapport d'opposition logique
+* **P:** برابرنهشِ منطقی
+
+### 37. logische Form
+* **E:** logical form
+* **F:** form logique
+* **P:** صورتِ منطقی
+
+### 38. logische Funktionen
+* **E:** logical functions
+* **F:** fonctions logiques
+* **P:** کارکردهای منطقی
+
+### 39. logische Möglichkeit
+* **E:** logical possibility
+* **F:** possibilité logique
+* **P:** امکانِ منطقی
+
+### 40. logische Notwendigkeit
+* **E:** logical necessity
+* **F:** necessité logique
+* **P:** ضرورتِ منطقی
+
+### 41. logische Reflexion
+* **E:** logical reflection
+* **F:** réflexion logique
+* **P:** تأمّلِ منطقی
+
+### 42. logischer Ort
+* **E:** logical location
+* **F:** lieu logique
+* **P:** حیزِ منطقی
+
+### 43. logischer Paralogismus
+* **E:** logical paralogism
+* **F:** paralogisme logique
+* **P:** پاراگوییِ منطقی
+
+### 44. logisches Merkmal
+* **E:** logical criterion, logical procedure
+* **F:** critérium logique, critère logique
+* **P:** نشانهٔ منطقی
+
+### 45. logisches Verfahren
+* **E:** logical procedure
+* **F:** procédé logique
+* **P:** فراروندِ منطقی
+
+### 46. logische Topik
+* **E:** logical topic
+* **F:** topique logique
+* **P:** طوبیقای منطقی
+
+### 47. logische Verneinung
+* **E:** logical negation
+* **F:** négation logique
+* **P:** نایشِ منطقی
+
+### 48. logische Vorstellung
+* **E:** logical representation
+* **F:** représentation logique
+* **P:** تصوّرِ منطقی
+
+### 49. logische Wirklichkeit
+* **E:** logical reality
+* **F:** réalité logique
+* **P:** بودشِ منطقی
+
+### 50. lokale Gemeinschaft
+* **E:** local community
+* **F:** communauté locale
+* **P:** مشارکتِ جایگاهی
+
+### 51. Lüge
+* **E:** lie
+* **F:** mensonge
+* **P:** دروغ
+
+### 52. Lust
+* **E:** pleasure
+* **F:** plaisir
+* **P:** رامش
+# واژه‌نامه سنجش خرد ناب - حرف M
+
+### 1. Macht
+* **E:** might, power
+* **F:** puissance, force
+* **P:** قدرت
+
+### 2. Majestät
+* **E:** majesty, authority
+* **F:** majesté
+* **P:** مِهَستی
+
+### 3. major
+* **E:** major, major premiss [E]
+* **P:** مقدمهٔ کبری، کبری
+
+### 4. Mann
+* **E:** man
+* **F:** homme
+* **P:** مرد
+
+### 5. das Mannigfaltige
+* **E:** the manifold
+* **F:** le divers
+* **P:** بسیارگان
+
+### 6. Mannigfaltigkeit
+* **E:** manifold, multiplicity, variety, diversity
+* **F:** diversité, variété
+* **P:** بسیارگانی، بسیارگان
+
+### 7. Mark
+* **E:** mark
+* **F:** marc
+* **P:** مارک
+
+### 8. Maß
+* **E:** measure, degree
+* **F:** mesure, grandeur, degré
+* **P:** اندازه، میزان، سنجه، مرتبه
+
+### 9. Maßgabe: ... nach] Maßgabe [des / der...
+* **E:** measure, proportion: according to, in proportion to, in conformity with
+* **F:** mesure: dans la mesure de, sur le plan de
+* **P:** سنجه: بر طبق سنجه، بر پایهٔ سنجه، به میزان، بر طبق، متناسب با، ... [پس از دو نقطه، شیوهٔ معمول کاربرد کلمه نشان داده شده است.]
+
+### 10. Mäßigung
+* **E:** moderation
+* **F:** modération, être modéré
+* **P:** میانه‌روی [همچنین: ملایمت، ترازمندی، اعتدال، شمردگی، ...؛ ــ ؛ تعدیل]
+
+### 11. material
+* **E:** material
+* **F:** matériel
+* **P:** مادّی
+
+### 12. materiale Notwendigkeit
+* **E:** material necessity
+* **F:** necessité matérielle
+* **P:** ضرورتِ مادّی
+
+### 13. materialer Idealismus
+* **E:** material idealism
+* **F:** idéalisme matériel
+* **P:** مینوگرویِ مادّی
+
+### 14. materiale und hypostatische Bedingung
+* **E:** material and hypostatic condition, material and substantial condition
+* **F:** condition materielle et hypostatique
+* **P:** شرطِ مادّی و شرطِ جسمی، شرطِ مادّی و شرطِ اقنومی، شرطِ مادّی و متجسّم، شرطِ مادّی و اقنومی [تبصره: این عبارت در A620/B648 واقع می‌شود، و در آنجا فقط جزء hypostatische Bedingung آن در پانوشت ترجمه ضبط شده و در واژه‌نامه هم در ردیف الفبایی خود قرار گرفته است. ضبط آن به این صورت استثنائاً انجام می‌گیرد.]
+
+### 15. Materialien
+* **E:** materials
+* **F:** matériaux
+* **P:** مادّه‌های نخستین
+
+### 16. Materialism
+* **E:** materialism
+* **F:** matérialisme
+* **P:** مادّه‌گروی
+
+### 17. Materialismus
+* **E:** materialism
+* **F:** matérialisme
+* **P:** مادّه‌گروی
+
+### 18. Materialist
+* **E:** materialist
+* **F:** matérialiste
+* **P:** مادّه‌گرو
+
+### 19. materialiter
+* **P:** مادّتاً
+
+### 20. Materie
+* **E:** matter; subject-matter, material
+* **F:** matière
+* **P:** مادّه؛ مادّهٔ نخستین
+
+### 21. Materie der Erscheinung
+* **E:** matter of the appearance
+* **F:** matière dans le phénomène, matière de l'apparence
+* **P:** مادّهٔ پدیدار
+
+### 22. materiell
+* **E:** material
+* **F:** matériel
+* **P:** مادّی
+
+### 23. das Materielle
+* **E:** the material
+* **F:** le matériel
+* **P:** امرِ مادّی
+
+### 24. materielle Welt
+* **E:** material world
+* **F:** monde matériel
+* **P:** جهانِ مادّی
+
+### 25. Mathema [pl. : Mathemata]
+* **E:** mathema
+* **F:** mathema
+* **P:** ریاضیّه
+
+### 26. Mathematik
+* **E:** mathematics
+* **F:** mathématique, ~s
+* **P:** ریاضیّات
+
+### 27. mathematisch
+* **E:** mathematical, ~ly
+* **F:** mathématique, ~ment
+* **P:** ریاضی [همچنین: ریاضیانه]
+
+### 28. mathematische Antinomie
+* **E:** mathematical antinomy
+* **F:** antinomie mathématique
+* **P:** ناموسان‌بیکاریِ ریاضی
+
+### 29. mathematische Axiome
+* **E:** mathematical axioms
+* **F:** axiomes mathématiques
+* **P:** اصلهای متعارفِ ریاضی [همچنین: ارزآغازه‌های ریاضی]
+
+### 30. mathematische Definitionen
+* **E:** mathematical definitions
+* **F:** définitions mathématiques
+* **P:** تعریفهای ریاضی
+
+### 31. mathematische Erkenntnis
+* **E:** mathematical knowledge
+* **F:** mathematical knowledge
+* **P:** شناختِ ریاضی
+
+### 32. mathematische Grundsätze
+* **E:** mathematical principles
+* **F:** principes mathématiques
+* **P:** آغازه‌های ریاضی
+
+### 33. mathematical Kategorien (mathematische Kategorien)
+* **E:** mathematical categories
+* **F:** catégories mathématiques
+* **P:** مقوله‌های ریاضی
+
+### 34. mathematische Methode
+* **E:** mathematical method
+* **F:** méthode mathématique
+* **P:** روشِ ریاضی
+
+### 35. mathematischer Punkt
+* **E:** mathematical point
+* **F:** point mathématique
+* **P:** نقطهٔ ریاضی
+
+### 36. mathematischer Regressus
+* **E:** mathematical regress
+* **F:** régression mathématique
+* **P:** سیرِ قهقراییِ ریاضی
+
+### 37. mathematische Synthesis
+* **E:** mathematical synthesis
+* **F:** synthèse mathématique
+* **P:** همنهادِ ریاضی
+
+### 38. mathematisch-transzendental
+* **E:** mathematical-transcendental
+* **F:** transcendantal-mathématique, mathématique-transcendantal
+* **P:** ریاضی ـ ترافرازنده
+
+### 39. Maxime
+* **E:** maxim
+* **F:** maxime
+* **P:** مبدأِ حکمتی [همچنین: اصلِ ذهنی، قانونِ عقلی، سرآغازه]
+
+### 40. Maximen der Vernunft
+* **E:** maxims of reason
+* **F:** maximes de la raison
+* **P:** مبدأهای حکمتیِ خرد
+
+### 41. Maximum
+* **E:** maximum
+* **F:** maximum
+* **P:** بیشینه
+
+### 42. Mechanik
+* **E:** mechanics
+* **F:** mécanique
+* **P:** مکانیک
+
+### 43. mechanisch
+* **E:** mechanical, ~ly
+* **F:** mécanique, ~ment
+* **P:** مکانیکی
+
+### 44. Mechanismus
+* **E:** mechanism
+* **F:** mécanisme
+* **P:** مکانیسم [همچنین: ساز و کار]
+
+### 45. Medium
+* **E:** medium
+* **F:** médium
+* **P:** واسطه
+
+### 46. Mehrheit
+* **E:** plurality
+* **F:** pluralité
+* **P:** تکثّر [همچنین: بسیاری]
+
+### 47. meinen
+* **E:** to opine, opinion
+* **F:** opiner, opinion
+* **P:** عقیده داشتن
+
+### 48. das Meinen
+* **E:** opining, opinion
+* **F:** opinion
+* **P:** عقیده داشتن، عقیده
+
+### 49. Meinung
+* **E:** opinion, view
+* **F:** opinion
+* **P:** عقیده
+
+### 50. melior est conditio possidentis
+* **P:** بهتر است وضعِ کسی که مالک است
+
+### 51. Menge
+* **E:** amount, plurality, multiplicity, number, complex, sum, total, set; series; mass of men
+* **F:** multitude, nombre, pluralité, ensemble; foule
+* **P:** مجموعه، مقدار، توده، انبوه، کثرت؛ تعداد
+
+### 52. Mensch
+* **E:** human being, man, human
+* **F:** homme
+* **P:** انسان، آدمی
+
+### 53. Menschensinn
+* **E:** human sense, understanding
+* **F:** sens humain, sens commun
+* **P:** شعورِ انسانی
+
+### 54. Menschheit
+* **E:** humanity, mankind
+* **F:** humanité
+* **P:** بشریّت
+
+### 55. merito fortunae
+* **P:** به سبب بخت نیکو [اویزرمن: «از بخت نیکو»، «از حسن تصادف»: по счастливому случаю]
+
+### 56. Merkmal
+* **E:** character, criterion
+* **F:** caractère, critérium, signe
+* **P:** نشانه
+
+### 57. Meßkunst
+* **E:** mathematics, geometry
+* **F:** géométrie, mathématiques
+* **P:** هندسه ـ ریاضیّات [همچنین: هندسهٔ عملی، زمین‌پیمایی]
+
+### 58. μετάβασις εἰς ἄλλο γένος = metabasis eis allo genos
+* **P:** گذر به جنس دیگر استدلال [اویزرمن: «گذر به حیطهٔ دیگر {استدلال}»: переход в другую область [рассуждения]]
+
+### 59. metaphysica naturalis
+* **P:** متاگیتیگِ طبیعی
+
+### 60. Metaphysik
+* **E:** metaphysics, metaphysic
+* **F:** métaphysique
+* **P:** متاگیتیگ، مابعدالطبیعه [برگرفته از matay- اوستایی هم‌ریشه با من در هند و اروپایی نخستین: ۱) برجستن، والا بودن، قلّه ۲) اندیشیدن؛ ــ محمود حسابی، مقدمهٔ فیزیک حالت جامد: «مت»:: «متاپایدار»: metastable]
+
+### 61. Metaphysik der Natur
+* **E:** metaphysics of nature
+* **F:** métaphysique de la nature
+* **P:** متاگیتیگ طبیعت
+
+### 62. Metaphysik der Sitten
+* **E:** metaphysics of morals
+* **F:** métaphysique des mœurs
+* **P:** متاگیتیگِ آیینهای اخلاقی
+
+### 63. Metaphysiker
+* **E:** metaphysician
+* **F:** métaphysicien
+* **P:** متاگیتی‌گرو
+
+### 64. metaphysisch
+* **E:** metaphysical
+* **F:** métaphysique
+* **P:** متاگیتیانه
+
+### 65. metaphysische Aufgabe
+* **E:** metaphysical problem
+* **F:** problème de métaphysique
+* **P:** مسئلهٔ متاگیتیانه
+
+### 66. metaphysische Behauptungen
+* **E:** metaphysical assertions, metaphysical declarations
+* **F:** affirmations métaphysiques
+* **P:** حکمهای متاگیتیانه
+
+### 67. metaphysische Bestimmung
+* **E:** metaphysical determination
+* **F:** détermination métaphysique
+* **P:** تعیین متاگیتیانه، تعیّن متاگیتیانه
+
+### 68. metaphysische Deduktion
+* **E:** metaphysical deduction
+* **F:** déduction métaphysique
+* **P:** تنقیح مناطِ متاگیتیانه
+
+### 69. metaphysische Erörterung
+* **E:** metaphysical exposition
+* **F:** exposition métaphysique
+* **P:** شرحِ متاگیتیانه
+
+### 70. metaphysische Naturlehrer
+* **E:** metaphysical students of nature
+* **F:** physiciens métaphysiciens
+* **P:** طبیعی‌دانانِ متاگیتی‌گرو
+
+### 71. metaphysische Zeitbestimmung
+* **E:** metaphysical determination of time
+* **F:** détermination métaphysique du temps
+* **P:** تعیین متاگیتیانه زمان، تعیّن متاگیتیانه زمان
+
+### 72. Methode
+* **E:** method
+* **F:** méthode
+* **P:** روش
+
+### 73. Methodenlehre
+* **E:** doctrine of the method, methodology
+* **F:** théorie de la méthode, méthodologie
+* **P:** روش‌شناسی [منوچهر بزرگمهر]
+
+### 74. methodisch
+* **E:** methodical, ~ly
+* **F:** méthodique, ~ment
+* **P:** روشمندانه
+
+### 75. minor
+* **E:** minor, minor premiss [E]
+* **P:** مقدمهٔ صغری، صغری
+
+### 76. Misologie
+* **E:** misology
+* **F:** misologie
+* **P:** کلام‌بیزاری [همچنین: سخن‌بیزاری]
+
+### 77. Mißbrauch
+* **E:** misemployment, misuse
+* **F:** abus
+* **P:** دژکاربُرد
+
+### 78. Mißdeutung
+* **E:** false interpretation, misunderstanding, misinterpretation, misrepresentation
+* **F:** fausse interpretation, malentendu, confusion
+* **P:** دژگزاری
+
+### 79. Mißfallen
+* **E:** displeasure, dissatisfaction
+* **F:** peine, aversion
+* **P:** ناخشنودی، ناخرسندی، نارضامندی، حالِ بد
+
+### 80. Mißtrauen
+* **E:** mistrust
+* **F:** méfiance
+* **P:** بی‌اعتمادی
+
+### 81. Mißverstand
+* **E:** misunderstanding
+* **F:** malentendu
+* **P:** دژفهمی، دژاندریفت
+
+### 82. mit Recht
+* **E:** rightly
+* **F:** à bon droit, [être] bien fondé
+* **P:** بحقّ
+
+### 83. Mittel
+* **E:** means, way
+* **F:** moyen
+* **P:** واسطه، میانجی [ناصرخسرو]، وسیله
+
+### 84. mittelbar
+* **E:** mediate
+* **F:** médiat
+* **P:** به میانجی، با میانجی، از راه
+
+### 85. Mittelding
+* **E:** intermediate mode of existence, tertium quid
+* **F:** intermédiaire, chose intermédiaire
+* **P:** شیءِ میانی
+
+### 86. Mittelpunkt
+* **E:** centre, common centre
+* **F:** centre, point central
+* **P:** کانون، مرکز
+
+### 87. Modalität
+* **E:** modality
+* **F:** modalité
+* **P:** جهت
+
+### 88. Modifikation
+* **E:** modification
+* **F:** modification
+* **P:** چگونگی‌یابی، چگونگی‌پذیری [همچنین: کیفیت‌پذیری، حالت‌پذیری؛ ــ در معنای فاعلی: چگونگی‌سازی، چگونگی‌بخشی، کیفیت‌بخشی، حالت‌دادن. ــ شیبانی: «تکییف»]
+
+### 89. ... Modo maxima rerum, Tot generis natisque potens ... Nunc trahor exul, inops, ...
+* **P:** ... دی بر اوج قدرت، و خدایگان با فرزندان و دامادان بسیار... ولی اکنون، رانده شده و بینوا... [همچنین: ... تبعید شده...] [Ovidus, Metamorphosis, xiii, 508-510]
+
+### 90. modus
+* **E:** mode
+* **F:** mode
+* **P:** صیغه، وجه، حالت [به مفهوم «ضرب» در این کتاب ملاحظه نشد.]
+
+### 91. modus ponens
+* **P:** وجه وضعی، وجه وضعِ مقدّم ــ تالی در قیاس استثنایی، وجه وضعی در قیاس استثنایی [این اصطلاح باحتمال در متن به مفهوم «وجه وضع تالی ــ مقدّم در قیاس استثنایی» بکار رفته است.]
+
+### 92. modus tollens
+* **P:** وجه رفعی، وجه رفعِ تالی ــ مقدّم در قیاس استثنایی، وجه رفعی در قیاس استثنایی
+
+### 93. das Mögliche
+* **E:** the possible
+* **F:** le possible
+* **P:** امر ممکن
+
+### 94. mögliche Erfahrung
+* **E:** possible experience
+* **F:** expérience possible
+* **P:** تجربهٔ ممکن
+
+### 95. Möglichkeit
+* **E:** possibility
+* **F:** possibilité
+* **P:** امکان
+
+### 96. moleculae
+* **P:** مولکولها [nom. pl. ; - gen. pl.: molecularum]
+
+### 97. das Moment
+* **E:** moment, component, factor, momentum
+* **F:** moment
+* **P:** عامل
+
+### 98. der Moment
+* **E:** moment
+* **F:** moment
+* **P:** وهله [همچنین: لحظه]
+
+### 99. Monade
+* **E:** monad
+* **F:** monade
+* **P:** جوهر فرد [حافظ؛ ــ فروغی]، موناد
+
+### 100. Monadisten
+* **E:** monadists
+* **F:** monadistes
+* **P:** مونادگروان
+
+### 101. Monadologie
+* **E:** monadology
+* **F:** monadologie
+* **P:** مونادشناسی
+
+### 102. Monas
+* **E:** monas
+* **F:** monade
+* **P:** جوهر فرد [حافظ؛ ــ فروغی]
+
+### 103. Monogramm
+* **E:** monogram
+* **F:** monogramme
+* **P:** طغرا
+
+### 104. monogramma
+* **P:** طغرا
+
+### 105. Monotheismus
+* **E:** monotheism
+* **F:** monothéisme
+* **P:** یکخداگروی، یکخدایی، یکتاپرستی، توحید
+
+### 106. die Moral
+* **E:** the moral, morality
+* **F:** la morale
+* **P:** اخلاق
+
+### 107. moralisch
+* **E:** moral, ~ly
+* **F:** moral, ~ement
+* **P:** اخلاقی
+
+### 108. moralische Gesinnung
+* **E:** moral sentiment, moral disposition
+* **F:** disposition morale, intention morale
+* **P:** نیّت اخلاقی، منش اخلاقی، اعتقاد اخلاقی، وارومِ اخلاقی
+
+### 109. moralisches Gesetz
+* **E:** moral law
+* **F:** loi morale
+* **P:** قانون اخلاقی
+
+### 110. moralisches Glauben / moralischer Glaube
+* **E:** moral belief
+* **F:** foi morale
+* **P:** گرویدن اخلاقی
+
+### 111. moralische Vernunftprinzipien
+* **E:** moral principles of reason
+* **F:** principes moraux de la raison
+* **P:** اصلهای اخلاقی خرد، اصلهای خردی اخلاقی
+
+### 112. moralische Vollkommenheit
+* **E:** moral perfection
+* **F:** perfection morale
+* **P:** کمالِ اخلاقی
+
+### 113. moralische Welt
+* **E:** moral world
+* **F:** monde moral
+* **P:** جهانِ اخلاقی
+
+### 114. Moralisten
+* **E:** moralists
+* **F:** moralistes
+* **P:** اخلاق‌گروان
+
+### 115. Moralität
+* **E:** morality
+* **F:** moralité
+* **P:** اخلاق
+
+### 116. Moralphilosophie
+* **E:** moral philosophy
+* **F:** philosophie morale
+* **P:** فلسفهٔ اخلاقی
+
+### 117. Moraltheologie
+* **E:** moral theology, ethico-theology
+* **F:** théologie morale
+* **P:** یزدانشناسیِ اخلاقی
+
+### 118. motus
+* **P:** حرکت [همچنین: جنبش] [G: κίνησις = kīnēsis]
+
+### 119. mundus intelligibilis
+* **F:** monde intelligible [F]
+* **P:** عالمِ معقول
+
+### 120. mundus phaenomenon
+* **P:** عالمِ پدیده‌ها
+
+### 121. mundus sensibilis
+* **F:** monde sensible [F]
+* **P:** عالمِ محسوس
+
+### 122. mundus sensibilis et monde intelligible
+* **F:** monde sensible et monde intelligible [F]
+* **P:** عالمِ محسوس و عالمِ معقول
+
+### 123. muriatische Erden
+* **F:** terres muriatiques
+* **P:** خاکهای موریاتی [= کلرورها]
+
+### 124. Muster
+* **E:** pattern
+* **F:** modèle, type
+* **P:** الگو
+# واژه‌نامه سنجش خرد ناب - حرف N
+
+### 1. Nachbild
+* **E:** copy, image
+* **F:** copie, image
+* **P:** پی‌انگاره
+
+### 2. Nacheinandersein
+* **E:** succession
+* **F:** succession
+* **P:** پی‌درپی‌آمد
+
+### 3. das Nachfolgende
+* **E:** that that follows, that which follows
+* **F:** le parti qui suive
+* **P:** امر پسین [= امر مؤخرّ]، امر بعدی
+
+### 4. Nachforschung
+* **E:** enquiry, investigation
+* **F:** recherche, investigation
+* **P:** پژوهش
+
+### 5. Nachlassung
+* **E:** loss, remission
+* **F:** déperdition
+* **P:** واهلش
+
+### 6. Nachsinnen
+* **E:** reflection
+* **F:** réflexion
+* **P:** ژرف‌اندیشی
+
+### 7. Natur
+* **E:** nature
+* **F:** nature
+* **P:** طبیعت، چیستی، ماهیت
+
+### 8. natura formaliter spectata
+* **P:** طبیعت صورتاً ملحوظ
+
+### 9. Naturalist
+* **E:** naturalist
+* **F:** naturalist
+* **P:** طبیعت‌گرو
+
+### 10. naturalistisch
+* **E:** naturalistic, ~ally
+* **F:** naturaliste, d'une manière naturaliste
+* **P:** طبیعت‌گروانه
+
+### 11. natura materialiter spectata
+* **P:** طبیعت مادّتاً ملحوظ
+
+### 12. Naturanlage
+* **E:** natural endowment, natural disposition
+* **F:** disposition de (sa) nature, disposition naturelle
+* **P:** استعداد طبیعی
+
+### 13. Naturbedingungen
+* **E:** natural conditions
+* **F:** conditions naturelles
+* **P:** شرطهای طبیعی
+
+### 14. Naturbegebenheiten
+* **E:** natural events
+* **F:** événements naturels
+* **P:** رویدادهای طبیعی
+
+### 15. Naturbegriffe
+* **E:** concepts of nature
+* **F:** concepts physiques
+* **P:** مفهومهای طبیعی
+
+### 16. Naturbestimmung
+* **E:** natural constitution
+* **F:** destination naturelle
+* **P:** سرشت طبیعی
+
+### 17. Natur der Dinge
+* **E:** nature of things, nature of the things
+* **F:** nature des choses
+* **P:** طبیعت شیء‌ها؛ چیستی شیء‌ها، چیستی امرها، طبیعت امور
+
+### 18. Natur der Vernunft
+* **E:** nature of reason
+* **F:** nature de la raison
+* **P:** طبیعتِ خرد
+
+### 19. Natureinheit
+* **E:** unity of nature, unity in nature
+* **F:** unité de la nature
+* **P:** یگانگی طبیعت
+
+### 20. Naturell
+* **E:** disposition, natural disposition
+* **F:** naturel
+* **P:** سرشت طبیعی
+
+### 21. Naturerkenntnis
+* **E:** knowledge of nature
+* **F:** connaissance physique, connaissance de la nature
+* **P:** شناختِ طبیعت
+
+### 22. Naturerklärung
+* **E:** explanation of natural appearances, explanation of nature
+* **F:** explication physique, explication naturelle
+* **P:** توضیحِ طبیعی
+
+### 23. Naturforschung
+* **E:** investigation of nature
+* **F:** investigation de la nature
+* **P:** پژوهشِ طبیعت
+
+### 24. Naturgabe
+* **E:** natural gift
+* **F:** don naturel
+* **P:** دهشِ طبیعی
+
+### 25. Naturgesetze
+* **E:** laws of nature, natural laws
+* **F:** lois de la nature, lois physiques
+* **P:** قانونهای طبیعی
+
+### 26. Naturkunde
+* **E:** natural science
+* **F:** physique
+* **P:** طبیعت‌شناسی
+
+### 27. Naturlehre
+* **E:** physics, physical science, doctrine of nature
+* **F:** physique
+* **P:** طبیعت‌شناسی
+
+### 28. Naturlehrer
+* **E:** natural philosopher
+* **F:** physicien
+* **P:** طبیعت‌شناس
+
+### 29. natürliche Theologie
+* **E:** natural theology
+* **F:** théologie naturelle
+* **P:** یزدانشناسیِ طبیعی
+
+### 30. Naturmannigfaltigkeit
+* **E:** manifoldness in nature
+* **F:** diversité de la nature
+* **P:** بسیارگانیِ طبیعت
+
+### 31. Naturmechanismus
+* **E:** mechanism of nature
+* **F:** mécanisme de la nature, mécanisme naturel
+* **P:** مکانیسمِ طبیعت
+
+### 32. Naturnotwendigkeit
+* **E:** natural necessity
+* **F:** nécessité naturelle, nécessité physique
+* **P:** ضرورتِ طبیعی
+
+### 33. Naturuntersuchung
+* **E:** empirical investigation, investigation into nature
+* **F:** recherche naturelle, investigation de la nature
+* **P:** بازجوییِ طبیعت
+
+### 34. Naturwissenschaft
+* **E:** natural science
+* **F:** science de la nature, physique
+* **P:** دانش طبیعی
+
+### 35. Naturzwang
+* **E:** compulsion of nature
+* **F:** contrainte de la nature
+* **P:** جبرِ طبیعت
+
+### 36. negatio
+* **F:** négation [F]
+* **P:** سلب [= نفی = نایش = نقض]
+
+### 37. Negation
+* **E:** negation
+* **F:** négation
+* **P:** سلب [= نفی = نایش = نقض]
+
+### 38. negativ
+* **E:** negative
+* **F:** négatif
+* **P:** منفی، سلبی
+
+### 39. negativer Glaube
+* **E:** negative belief
+* **F:** foi négative
+* **P:** گروشِ منفی
+
+### 40. negative Urteile
+* **E:** negative judgments
+* **F:** jugements qui sont négatifs, jugements négatifs
+* **P:** داوریهای سلبی
+
+### 41. Neigung
+* **E:** inclination, tendency
+* **F:** tendence, penchant, inclination
+* **P:** گرایش، میل و هوس
+
+### 42. nervus probandi
+* **P:** دلیل عمده
+
+### 43. Neuerung
+* **E:** innovation
+* **F:** innovation
+* **P:** نوآوری
+
+### 44. Neutralität
+* **E:** neutrality
+* **F:** neutralité
+* **P:** بی‌یکسویی [احمد کسروی]
+
+### 45. nexus
+* **P:** اتصال
+
+### 46. nexus effectivus
+* **P:** اتصالِ مؤثّر، اتصالِ عملی
+
+### 47. nexus finalis
+* **P:** اتصالِ نهایی، اتصال غایی
+
+### 48. Nichtbewußtsein
+* **E:** non-consciousness
+* **F:** n'avoir pas conscience, *non-conscience
+* **P:** ناآگاهی
+
+### 49. nichtig
+* **E:** null, void, groundless
+* **F:** nul, inutile
+* **P:** پوچ [و نیز: هیچ]
+
+### 50. Nichtigkeit
+* **E:** nullity, futility
+* **F:** le néant, nullité, vanité
+* **P:** بطلان، پوچی
+
+### 51. das Nichts
+* **E:** nothing, nothingness
+* **F:** rien, le néant [: aus Nichts: ex nihilo]
+* **P:** هیچ [= هیچی]، نیستی
+
+### 52. das Nichtsein
+* **E:** not-being, non-being, non-existence, nonexistence
+* **F:** non-existance
+* **P:** نیستی
+
+### 53. nichtsinnlich / nicht-sinnlich
+* **E:** non-sensible
+* **F:** non sensible, non-sensible
+* **P:** ناحسّی
+
+### 54. nicht-sinnliche Anschauung
+* **E:** non-sensible intuition
+* **F:** intuition non sensible
+* **P:** سهشِ ناحسّی
+
+### 55. das Nicht-Wissen
+* **E:** not to know, not knowing
+* **F:** ignorance
+* **P:** ندانستن
+
+### 56. niedere Begriffe
+* **E:** lower concepts
+* **F:** concepts inférieurs
+* **P:** مفهومهای پایین‌تر
+
+### 57. nihil
+* **P:** عدم، هیچ
+
+### 58. nihil negativum
+* **P:** عدمِ ناقض
+
+### 59. nihil privativum
+* **P:** عدمِ سالب
+
+### 60. nihil ulterius
+* **P:** فراتر، هیچ!
+
+### 61. Nil actum reputans, si quid superesset agendum
+* **P:** تا زمانی که کاری باقی مانده که می‌بایست انجام گیرد، هیچ کاری را انجام شده نمی‌داند
+
+### 62. Nomothetik
+* **E:** legislation
+* **F:** nomothétique
+* **P:** ناموس‌نهادیک، قانونگذاری
+
+### 63. non datur fatum
+* **P:** ضرورتِ کور وجود ندارد
+
+### 64. non datur hiatus
+* **P:** خرق [= شکاف اندر میان چیزها] وجود ندارد
+
+### 65. non datur vacuum formarum
+* **P:** خلاً در صورتها یافته نمی‌شود
+
+### 66. non defensoribus istis tempus eget
+* **P:** اوضاع به اینگونه مدافعان [= پدافندگان] نیاز ندارد
+
+### 67. non entis nulla sunt praedicata
+* **P:** بر اله هیچ کائنتی، هیچ‌گونه محمولهایی وجود ندارند
+
+### 68. non est infinitus
+* **P:** نامتناهی نیست
+
+### 69. non liquet
+* **P:** روشن نیست
+
+### 70. Nonsens
+* **E:** nonsense
+* **F:** non-sens
+* **P:** یاوگی
+
+### 71. Noogonie
+* **E:** noogony
+* **F:** noogonie
+* **P:** عقل‌زایی
+
+### 72. Noologisten
+* **E:** noologists
+* **F:** noologistes
+* **P:** عقل‌گروان
+
+### 73. Norm
+* **E:** norm
+* **F:** norme
+* **P:** هنجار
+
+### 74. Nötigung
+* **E:** coercion, compulsion
+* **F:** contrainte
+* **P:** الزام
+
+### 75. Notio / notio
+* **E:** notion
+* **F:** notion
+* **P:** پنداره [فرهنگ معین]
+
+### 76. Notion
+* **E:** notion
+* **F:** notion
+* **P:** پنداره [معین]
+
+### 77. das Notwendige / ein Notwendiges
+* **E:** the necessary, what is necessary
+* **F:** le nécessaire, qq. ch. de necessaire
+* **P:** امر ضروری
+
+### 78. notwendige Einheit
+* **E:** necessary unity
+* **F:** unité nécessaire
+* **P:** یگانگیِ ضروری
+
+### 79. notwendiges Urteil
+* **E:** necessary judgment
+* **F:** jugement nécessaire
+* **P:** داوریِ ضروری
+
+### 80. notwendiges Wesen
+* **E:** necessary being, necessary existence
+* **F:** être nécessaire, existence nécessaire
+* **P:** هستومندِ ضروری [همچنین: واجب الوجود]
+
+### 81. Notwendigkeit
+* **E:** necessity
+* **F:** nécessité
+* **P:** ضرورت
+# واژه‌نامه سنجش خرد ناب - حرف O
+
+### 1. Obersatz
+* **E:** major premiss, major
+* **F:** majeure
+* **P:** مقدمهٔ مهین [ابن‌سینا]
+
+### 2. oberste Bedingung
+* **E:** highest condition
+* **F:** condition suprême
+* **P:** والاترین شرط
+
+### 3. oberste Intelligenz
+* **E:** supreme intelligence, highest intelligence
+* **F:** intelligence suprême, suprême intelligence
+* **P:** والاترین هوش، والاترین هوشمند
+
+### 4. oberste Kausalität
+* **E:** ultimate causality
+* **F:** causalité suprême
+* **P:** والاترین علّیت
+
+### 5. oberster Grund
+* **E:** ultimate ground
+* **F:** raison suprême, principe suprême
+* **P:** والاترین بنیاد
+
+### 6. oberstes empirisches Prinzipium
+* **E:** supreme empirical principle
+* **F:** principe empirique suprême
+* **P:** والاترین اصلِ آروینی
+
+### 7. oberstes Prinzip
+* **E:** supreme principle
+* **F:** principe suprême
+* **P:** والاترین اصل
+
+### 8. oberste Ursache
+* **E:** supreme cause, Supreme Cause
+* **F:** cause suprême
+* **P:** والاترین علّت
+
+### 9. Objekt
+* **E:** object
+* **F:** objet
+* **P:** برون‌آخته [بکار رفته به جای Objekt به معنای «شیء»، «چیز»، «عین»، «موضوع»، «مصداق» و غیره، مترادف با Gegenstand (برابرایستا)؛ در لاتین: objectum، ستاک نعتی مجهول خنثای مصدر ob-jacere: خود از ob: «برابر»، «پیش»، و jacere: «انداختن»، «افکندن»، «آویختن». ــ «برون‌آخته» از: «برون» + «ـآخته» از «آختن» (≈ «آهیختن»، «آهنجیدن»): «کشیدن»، «برکشیدن»؛ «برون برکشیده در برابر ذهن». ذهن ایستاده»، «برابرایستنا»؛ ملهم از پیشنهاد بزرگمهر: «برون یاخته». ضمناً بسنجید با توالی دو واژه در جامع الحکمتین، اثر ناصر خسرو، ص ۵۴: «مردم را بیافریدم از گِلی بیرون‌آخته از جایی».]
+
+### 10. Objekt an sich
+* **E:** object in itself
+* **F:** objet en soi
+* **P:** برون‌آختهٔ فی نفسه
+
+### 11. Objekt der Erfahrung
+* **E:** object of experience
+* **F:** objet de l'expérience
+* **P:** برون‌آختهٔ تجربه
+
+### 12. Objekt der Sinne
+* **E:** object of senses
+* **F:** objet des sens
+* **P:** برون‌آختهٔ حسها
+
+### 13. objektiv
+* **E:** objective, ~ly
+* **F:** objectif, objectivement
+* **P:** عینی، برون‌آختی [فقط در پیشگفتار مترجم بکار رفته است.]
+
+### 14. objektive Bedeutung
+* **E:** objective meaning
+* **F:** signification objective, valeur objective
+* **P:** معنای عینی
+
+### 15. objective Begriffe
+* **E:** objective concepts
+* **F:** concepts objectifs
+* **P:** مفهومهای عینی
+
+### 16. objektive Beharrlichkeit
+* **E:** objective permanence
+* **F:** permanence objective
+* **P:** پایندگیِ عینی
+
+### 17. objektive Deduktion
+* **E:** objective deduction
+* **F:** déduction objective
+* **P:** تنقیح مناطِ عینی
+
+### 18. objektive Einheit
+* **E:** objective unity
+* **F:** unité objective
+* **P:** یگانگیِ عینی
+
+### 19. objektive Folge
+* **E:** objective succession
+* **F:** succession objective
+* **P:** توالیِ عینی
+
+### 20. objektive Gesetze
+* **E:** objective laws
+* **F:** lois objectives
+* **P:** قانونهای عینی
+
+### 21. objektive Gültigkeit
+* **E:** objective validity
+* **F:** valeur objective
+* **P:** اعتبارِ عینی
+
+### 22. objektive Komparation
+* **E:** objective comparison
+* **F:** comparaison objective
+* **P:** مقایسهٔ عینی
+
+### 23. objektive Möglichkeit
+* **E:** objective possibility
+* **F:** possibilité objective
+* **P:** امکانِ عینی
+
+### 24. objektive Realität
+* **E:** objective reality
+* **F:** réalité objective
+* **P:** واقعیتِ عینی
+
+### 25. objektiver Gebrauch
+* **E:** objective employment, objective use
+* **F:** usage objectif
+* **P:** کاربردِ عینی
+
+### 26. objektiver Grund
+* **E:** objective ground
+* **F:** raison objective, principe objectif
+* **P:** بنیادِ عینی
+
+### 27. objektiv synthetisch
+* **E:** objectively synthetic
+* **F:** objectivement synthétique
+* **P:** عیناً همنهادانه
+
+### 28. Obrigkeit
+* **E:** authority
+* **F:** autorité supérieure
+* **P:** مقامِ غیر قضایی
+
+### 29. Offenbarung
+* **E:** revelation
+* **F:** révélation
+* **P:** مکاشفه
+
+### 30. ökonomischer Grundsatz der Vernunft
+* **E:** economical requirement of reason
+* **F:** principe d'économie de la raison
+* **P:** آغازهٔ اقتصاد خرد
+
+### 31. omnitudo realitatis
+* **P:** همگیِ واقعیت
+
+### 32. ontologia
+* **P:** هستی‌شناسی [بزرگمهر]
+
+### 33. Ontologie
+* **E:** ontology
+* **F:** ontologie
+* **P:** هستی‌شناسی [بزرگمهر]
+
+### 34. ontologisch
+* **E:** ontological
+* **F:** ontologique
+* **P:** هستی‌شناسانه، هستی‌شناختی، ـِ هستی‌شناسی
+
+### 35. ontologischer Beweis
+* **E:** ontological proof
+* **F:** preuve ontologique
+* **P:** برهان هستی‌شناختی
+
+### 36. Ontotheologie
+* **E:** onto-theology
+* **F:** ontothéologie
+* **P:** هستی‌ـ‌یزدانشناسی
+
+### 37. optischer Schein
+* **E:** optical illusion
+* **F:** illusion d'optique, illusion optique
+* **P:** خطای باصره
+
+### 38. Ordnung
+* **E:** order
+* **F:** ordre
+* **P:** نظم
+
+### 39. Organ
+* **E:** organ
+* **F:** organe, instrument
+* **P:** افزار، اندام، اندام حسّی
+
+### 40. Organisation
+* **E:** constitution of the sense organs, organization, structure
+* **F:** organisation
+* **P:** اندامهای حسّی، اندامش [از: *اندامیدن]، اندام‌وندی [همچنین: سازمان، سازمانِ آلی]
+
+### 41. organisch
+* **E:** organic, organized
+* **F:** organique, organisé
+* **P:** اندام‌وند [همچنین: اندام‌مند]، آلی
+
+### 42. organisiert
+* **E:** organized
+* **F:** organisé
+* **P:** اندامیده [از: *اندامیدن]
+
+### 43. Organisierung
+* **E:** organization
+* **F:** organisation
+* **P:** انداموارگی، سازمان، سازمانِ آلی
+
+### 44. Organon
+* **E:** organon
+* **F:** organon
+* **P:** ارغنون
+
+### 45. das Original
+* **E:** the original
+* **F:** l'original
+* **P:** اصل
+
+### 46. Ort
+* **E:** location, place, region
+* **F:** lieu
+* **P:** حیز [بزرگمهر]، جا
+
+### 47. [orthodox]
+* **E:** orthodox
+* **F:** orthodoxe
+* **P:** [اَرْتاددُخش، اَرْتادخشانه [برساخته از: «اَرتا» (پهلوی و اوستایی: arta- به معنای «قانون»، «راستی») که در پیشوند «اردشیر» دیده می‌شود، و «دخش» (پهلوی: daxš- به معنای آموزاندن و تعلیم دادن). به معنای راست کیش. این واژه در متن اصلی موجود نیست. همچنین ← Paradoxe]]
+
+### 48. ostensiv
+* **E:** ostensive
+* **F:** ostensif
+* **P:** نمایاننده [بزرگمهر: «اشاری»]
+
+### 49. ostensiver Begriff
+* **E:** ostensive concept
+* **F:** concept ostensif
+* **P:** مفهوم نمایاننده
+
+### 50. ostensiver Beweis
+* **E:** ostensive proof
+* **F:** preuve ostensive
+* **P:** برهان نمایاننده
+# واژه‌نامه سنجش خرد ناب - حرف P
+
+### 1. Palingenesie
+* **E:** palingenesis
+* **F:** palingénésie
+* **P:** باززایی [= تناسخ]
+
+### 2. parabolischer Lauf
+* **E:** parabolic course
+* **F:** cours parabolique
+* **P:** مسیرِ سهمی [= شلجمی]
+
+### 3. paradox
+* **E:** paradoxical, ~ly
+* **F:** paradoxal, ~ement
+* **P:** پارادُخسانه
+
+### 4. das Paradoxe
+* **E:** paradox
+* **F:** paradoxe
+* **P:** پارادُخسانه [برادُخس [با تلفظ pǎrādaxš]، از parā اوستایی و پارسی باستان، هم‌معنا و هم‌ریشه با παρά یونانی، + «دخش» از -daxš اوستایی به معنای «آموزاندن»، «تعلیم دادن»؛ ــ واژهٔ یونانی δόξα به معنای «عقیده» هم‌ریشه است با doctor لاتین به معنای «معلّم».]
+
+### 5. Paralogism
+* **E:** paralogism
+* **P:** پی‌راگویی [در یونانی παραλογισμός و παραλογίζεσθαι: «بارا + گویی» (بسنجید با «برت‌گویی»). توجه کنید که اصل یونانی به معنای «استدلال غلط، گاه با تعمّد» است، حال آنکه معنای کنونی پارالوژیسم «استدلال غلط، ولی معمولاً با حسن نیت» است.]
+
+### 6. Paralogismus
+* **E:** paralogism
+* **F:** paralogisme
+* **P:** پی‌راگویی
+
+### 7. Partei
+* **E:** party
+* **F:** parti
+* **P:** طرف
+
+### 8. partikularer Satz
+* **E:** particular proposition
+* **F:** proposition particulière
+* **P:** گزارهٔ جزئی
+
+### 9. passio
+* **P:** انفعال، آن یفعل [همچنین: واکنش، پذیرفتن، کشیدن] [G: πάσχειν = páschein]
+
+### 10. passiv
+* **E:** passive
+* **F:** passif
+* **P:** انفعالی
+
+### 11. passives Subjekt
+* **E:** passive subject
+* **F:** sujet passif
+* **P:** درون‌آختهٔ انفعالی
+
+### 12. pathologisch
+* **E:** pathological, ~ly
+* **F:** pathologique, ~ment, de pathologie
+* **P:** بیماری‌شناسی؛ به سان انفعالی
+
+### 13. per appositionem
+* **P:** از راه نزدهم‌گذاری
+
+### 14. perceptio
+* **P:** ادراکِ حسّی
+
+### 15. Perception
+* **E:** perception
+* **F:** perception
+* **P:** ادراکِ حسّی
+
+### 16. per disparata
+* **P:** طیّ تباین و تقسیم، طیّ تقسیم و تباین [اویزرمن: делением]
+
+### 17. per episyllogismos
+* **P:** طیّ قیاسهای مؤخّر
+
+### 18. per hypothesin
+* **P:** از راه فرضیّه، از راه زیرنهاده
+
+### 19. per intus susceptionem
+* **P:** از راه عملِ داخلی
+
+### 20. per prosyllogismos
+* **P:** طیّ قیاسهای مقدّم
+
+### 21. Person
+* **E:** person
+* **F:** personne
+* **P:** شخص
+
+### 22. Personalität
+* **E:** personality
+* **F:** personnalité
+* **P:** شخصیّت
+
+### 23. personifizieren
+* **E:** to personify
+* **F:** personnifier
+* **P:** شخصیت پذیرفتن [همچنین: شخصیت یافتن؛ شخصیت بخشیدن، شخصیت دادن]
+
+### 24. Persönlichkeit
+* **E:** personality
+* **F:** personnalité
+* **P:** شخصیّت
+
+### 25. per sophisma figurae dictionis
+* **P:** طیّ مغالطه به سبب ابهام در حدّ میانگین
+
+### 26. per thesin
+* **P:** از راه برنهاد
+
+### 27. perversa ratio
+* **P:** عقلِ معکوس
+
+### 28. Perzeption
+* **E:** perception
+* **F:** perception
+* **P:** ادراکِ حسّی
+
+### 29. Petition
+* **E:** assumption
+* **F:** pétition
+* **P:** افتراض، مصادره
+
+### 30. Pflicht
+* **E:** duty
+* **F:** devoir
+* **P:** فریضه، فریزه، وظیفه [از frēz، به معنای «فریضه» و «وظیفه»]
+
+### 31. Phaenomena und Noumena
+* **E:** phenomena and noumena
+* **F:** phénomènes et noumènes
+* **P:** پدیده‌ها و ذاتهای معقول
+
+### 32. Phaenomenon
+* **E:** phenomenon
+* **F:** phénomène, phaenomenon
+* **P:** پدیده
+
+### 33. Phänomen
+* **P:** پدیده
+
+### 34. Philodoxie
+* **E:** philodoxy
+* **F:** philodoxie
+* **P:** عقیده‌دوستی
+
+### 35. Philosoph
+* **E:** philosopher
+* **F:** philosophe
+* **P:** فیلسوف
+
+### 36. Philosophie
+* **E:** philosophy
+* **F:** philosophie
+* **P:** فلسفه، فرزانش‌دوستی
+
+### 37. Philosophie der Natur
+* **E:** philosophy of nature
+* **F:** philosophie de la nature
+* **P:** فلسفهٔ طبیعت
+
+### 38. Philosophie der reinen Vernunft
+* **E:** philosophy of pure reason
+* **F:** philosophie de la raison pure
+* **P:** فلسفهٔ خرد ناب
+
+### 39. Philosophie der Sitten
+* **E:** philosophy of morals
+* **F:** philosophie des mœurs
+* **P:** فلسفهٔ آیینهای اخلاقی
+
+### 40. philosophieren
+* **E:** to philosophize
+* **F:** philosopher
+* **P:** فلسفه ورزیدن، فلسفیدن
+
+### 41. philosophisch
+* **E:** philosophical
+* **F:** philosophique
+* **P:** فلسفی
+
+### 42. philosophische Definitionen
+* **E:** philosophical definitions
+* **F:** définitions philosophiques
+* **P:** تعریفهای فلسفی
+
+### 43. philosophische Erkenntnis
+* **E:** philosophical knowledge
+* **F:** connaissance philosophique
+* **P:** شناختِ فلسفی
+
+### 44. philosophische Grundsätze
+* **E:** philosophical principles
+* **F:** principes philosophiques
+* **P:** آغازه‌های فلسفی
+
+### 45. Physica / physica
+* **E:** physics
+* **P:** فیزیک
+
+### 46. physica generalis
+* **P:** فیزیکِ عمومی
+
+### 47. physica pura (oder rationalis)
+* **P:** فیزیکِ مجرّد (یا تعقّلی) [nom. ; - acc.: physicam puram (oder rationalem)]
+
+### 48. physica rationalis
+* **P:** فیزیکِ تعقّلی
+
+### 49. Physik
+* **E:** physics
+* **F:** physique
+* **P:** فیزیک
+
+### 50. Physikotheologie
+* **E:** physico-theology
+* **F:** théologie physique
+* **P:** گیتی‌ـ‌یزدانشناسی
+
+### 51. physikotheologischer Beweis
+* **E:** physico-theological proof
+* **F:** preuve physico-théologique
+* **P:** برهانِ گیتی‌ـ‌یزدانشناختی
+
+### 52. Physiologie
+* **E:** physiology
+* **F:** physiologie
+* **P:** فیزیولوژی؛ گیتی‌شناسی، بیکرانشناسی
+
+### 53. Physiologie des menschlichen Verstandes
+* **E:** physiology of the human understanding
+* **F:** physiologie de l'entendement humain
+* **P:** گیتی‌شناسیِ فهمِ آدمی
+
+### 54. physiologisch
+* **E:** physiological, ~ly
+* **F:** physiologique, ~ment
+* **P:** پیکرشناسانه، بیکرانشناختی، گیتی‌شناسانه، گیتی‌شناختی، از نظر علم وظایف‌الاعضاء، فیزیولوژیک، فیزیولوژیانه
+
+### 55. physisch
+* **E:** physical
+* **F:** physique
+* **P:** فیزیکی، مادّی
+
+### 56. physische Hypothesen
+* **E:** physical hypotheses
+* **F:** hypothèses physiques
+* **P:** فرضیه‌های فیزیکی
+
+### 57. physische Punkte
+* **E:** physical points
+* **F:** points physiques
+* **P:** نقطه‌های فیزیکی
+
+### 58. physischer Einfluß
+* **E:** physical influence
+* **F:** influence physique
+* **P:** نفوذ فیزیکی
+
+### 59. physischmechanische Verknüpfung
+* **E:** physico-mechanical connection
+* **F:** liaison physico-mécanique
+* **P:** پیوستگیِ فیزیکی‌ـ‌مکانیکی
+
+### 60. physischtheologischer Beweis
+* **E:** physico-theological proof
+* **F:** preuve physico-théologique
+* **P:** برهانِ گیتی‌ـ‌یزدانشناختی
+
+### 61. Planet
+* **E:** planet
+* **F:** planète
+* **P:** سیّاره
+
+### 62. platonische Republik
+* **E:** Republic of Plato
+* **F:** République de Platon
+* **P:** جمهوریتِ افلاطونی
+
+### 63. Platonism
+* **E:** teaching of Plato
+* **F:** Platonisme
+* **P:** بلاتون‌گروی، آیینِ افلاطون
+
+### 64. Pneumatismus
+* **E:** pneumatism
+* **F:** pneumatisme
+* **P:** نفخه‌گروی [علی‌مراد داودی: «نفخه» برای pneuma]
+
+### 65. Polemik
+* **E:** polemic, polemics
+* **F:** polémique
+* **P:** پادـ‌آرتیک [از «پاد» + «آرتیک» (artik) در پارسی میانه به معنای جنگ و ستیزه و جدال]
+
+### 66. polemisch
+* **E:** polemisch
+* **F:** polemisch
+* **P:** پادستیهیک، پاد رزمیک، جدال، جدل [همچنین: جدل‌ورزیک] / پادـ‌آرتیکانه، پادـ‌آرتیک‌گرانه، پادستیهی، پادستیهانه، پادرزمی، پادرزمانه، جدالی، جدلی، جدل‌ورزانه [همچنین: دفاعی ـ جدلی]
+
+### 67. das Polemisieren
+* **E:** polemic, polemize, polemicize
+* **F:** polémique, polémiquer
+* **P:** پادـ‌آرتیکیدن، پادستیهیدن، پادرزمیدن، جدال کردن، جدل ورزیدن [همچنین: دفاع و جدال کردن]
+
+### 68. populär
+* **E:** popular
+* **F:** populaire
+* **P:** مردم‌پسند، مردمی
+
+### 69. Popularität
+* **E:** popularity
+* **F:** popularité
+* **P:** مردم‌پسندی
+
+### 70. Position
+* **E:** positing, position
+* **F:** position
+* **P:** وضع
+
+### 71. positiv
+* **E:** positive
+* **F:** positif
+* **P:** مثبت
+
+### 72. das Positive / etwas Positives
+* **E:** the positive, what is positive
+* **F:** le positif, donnée positive
+* **P:** امر مثبت، امور مثبت
+
+### 73. Postprädikamente
+* **E:** post-predicaments
+* **F:** post-médicaments
+* **P:** سیاقهای تالیه
+
+### 74. postulieren
+* **E:** to postulate
+* **F:** postuler
+* **P:** وضع کردن، فرض کردن، طلب کردن، مصادره
+
+### 75. Postulat
+* **E:** postulate
+* **F:** postulat
+* **P:** اصلِ موضوعه [اصلِ موضوع؛ افزایش «ـه» به‌خاطر بهتر خوانده شدن و روشن ساختن جنبهٔ صفتی «موضوع» است؛ ــ هومن: «اصل گزارده»]
+
+### 76. Postulate des empirischen Denkens überhaupt
+* **E:** postulates of empirical thought in general
+* **F:** postulats de la pensée empirique en général
+* **P:** اصلهای موضوعهٔ اندیشیدنِ آروینی عموماً
+
+### 77. potential
+* **E:** potential, ~ly
+* **F:** virtuel, ~lement, potentiel, ~lement
+* **P:** بالقوّه
+
+### 78. potentialiter
+* **E:** potentially
+* **F:** virtuellement, potentiellement
+* **P:** بالقوّه
+
+### 79. Prädikabilien
+* **E:** predicables
+* **F:** prédicables
+* **P:** اسنادیه‌ها
+
+### 80. Prädikamente
+* **E:** predicaments
+* **F:** prédicaments, prédicats
+* **P:** سیاقها
+
+### 81. Prädikat
+* **E:** predicate
+* **F:** prédicat
+* **P:** محمول [همچنین: خبر]
+
+### 82. prädizieren
+* **E:** to predicate
+* **F:** affirmer, se servir de prédicat
+* **P:** محمول قرار دادن، اسناد کردن، خبر دادن، اطلاق کردن
+
+### 83. Präformationssystem der reinen Vernunft
+* **E:** preformation-system of pure reason
+* **F:** système de préformation de la raison pure
+* **P:** دستگاهِ تشکیلِ قبلیِ خرد ناب
+
+### 84. pragmatisch
+* **E:** pragmatic
+* **F:** pragmatique
+* **P:** ورزگرانه
+
+### 85. pragmatische Gesetze
+* **E:** pragmatic laws
+* **F:** lois pragmatiques
+* **P:** قانونهای ورزگرانه
+
+### 86. pragmatischer Glaube
+* **E:** pragmatic belief
+* **F:** foi pragmatique
+* **P:** گروشِ ورزگرانه
+
+### 87. praktisch
+* **E:** practical
+* **F:** pratique
+* **P:** عملی
+
+### 88. das Praktische
+* **E:** the practical, sphere of the practical, practical field
+* **F:** la pratique, intérêt pratique, ordre pratique, domaine pratique, point de vue pratique
+* **P:** امرِ عملی، زمینهٔ عملی، جنبهٔ عملی
+
+### 89. praktische Beziehung
+* **E:** practical point of view
+* **F:** point de vue pratique
+* **P:** رابطهٔ عملی؛ نگرگاهِ عملی، نقطهٔ نظرِ عملی
+
+### 90. praktische Erkenntnis
+* **E:** practical knowledge
+* **F:** connaissance pratique
+* **P:** شناختِ عملی
+
+### 91. praktische Freiheit
+* **E:** practical freedom
+* **F:** liberté pratique
+* **P:** آزادیِ عملی
+
+### 92. praktische Logik
+* **E:** practical logic
+* **F:** logique pratique
+* **P:** منطقِ عملی
+
+### 93. praktische Prinzipien
+* **E:** practical principles
+* **F:** principes pratiques
+* **P:** اصلهای عملی
+
+### 94. praktischer Gebrauch
+* **E:** practical employment, practical use
+* **F:** usage pratique
+* **P:** کاربردِ عملی
+
+### 95. praktisches Interesse
+* **E:** practical interest
+* **F:** intérêt pratique
+* **P:** علاقهٔ عملی
+
+### 96. praktische Vernunft
+* **E:** practical reason
+* **F:** raison pratique
+* **P:** خردِ عملی
+
+### 97. Prämisse
+* **E:** premiss, premise
+* **F:** prémisse
+* **P:** مقدمه
+
+### 98. Prätension
+* **E:** pretension
+* **F:** prétension
+* **P:** ادّعا، مدّعا
+
+### 99. Präzision
+* **E:** precision
+* **F:** précision
+* **P:** دقّت
+
+### 100. primitiv
+* **E:** primitive
+* **F:** primitif
+* **P:** ابتدایی، بدوی
+
+### 101. Principium
+* **E:** principle, foundation, principium
+* **F:** principe, fondement, principium
+* **P:** اصل
+
+### 102. principium causalitatis
+* **P:** اصلِ علّیت
+
+### 103. principium identitatis indiscernibilium
+* **P:** اصلِ وحدتِ تشخیص‌ناپذیرها
+
+### 104. principium vagum
+* **P:** اصلِ مبهم
+
+### 105. Prinzip
+* **E:** principle, foundation
+* **F:** principe
+* **P:** اصل
+
+### 106. Prinzip der Aggregation
+* **E:** principle of aggregation
+* **F:** principe de l'agrégation
+* **P:** اصلِ تجمّع
+
+### 107. Prinzip der Gleichartigkeit
+* **E:** principle of homogeneity
+* **F:** principe de l'homogénéité
+* **P:** اصلِ همگنی
+
+### 108. Prinzip der Homogenität
+* **E:** principle of homogeneity
+* **F:** principe de l'homogénéité
+* **P:** اصلِ تجانس
+
+### 109. Prinzip der Kontinuität der Formen
+* **E:** principle of continuity of forms
+* **F:** principe de la continuité des formes
+* **P:** اصلِ پیوستاریِ صورتها، اصلِ همتنیداریِ صورتها [همچنین: اصلِ استمرارِ صورتها، اصلِ اتصالِ صورتها]
+
+### 110. Prinzip der Spezifikation
+* **E:** principle of specification
+* **F:** principe de la spécification
+* **P:** اصلِ تخصیص
+
+### 111. Prinzipien a priori
+* **E:** a priori principles
+* **F:** principes a priori
+* **P:** اصلهای برتوم
+
+### 112. Prinzipium
+* **E:** principle
+* **F:** principe
+* **P:** اصل
+
+### 113. Prinzipium der Sinnlichkeit
+* **E:** principle of sensibility
+* **F:** principe de la sensibilité
+* **P:** اصلِ حسّگانی
+
+### 114. prius
+* **P:** تقدّم [همچنین: پیشی] [G: πρότερον = próteron]
+
+### 115. Probierstein
+* **E:** touchstone, test
+* **F:** pierre de touche
+* **P:** محک
+
+### 116. Problem
+* **E:** problem
+* **F:** problème
+* **P:** مشکل، مسئله
+
+### 117. Problema
+* **E:** problem
+* **F:** problème
+* **P:** مسئله
+
+### 118. problematisch
+* **E:** problematic
+* **F:** problématique
+* **P:** اشکالی، احتمالی
+
+### 119. problematischer Begriff
+* **E:** problematic concept
+* **F:** concept problématique
+* **P:** مفهومِ اشکالی، مفهومِ احتمالی
+
+### 120. problematischer Idealismus
+* **E:** problematic idealism
+* **F:** idéalisme problématique
+* **P:** مینوگرویِ احتمالی، مینوگرویِ اشکالی
+
+### 121. problematischer Satz
+* **E:** problematic proposition
+* **F:** proposition problématique
+* **P:** گزارهٔ احتمالی، گزارهٔ اشکالی
+
+### 122. problematische transzendentale Theologie
+* **E:** problematic transcendental theology, transcendental theology [being]
+* **F:** théologie transcendantale problématique
+* **P:** یزدانشناسیِ ترافرازندهٔ اشکالی، یزدانشناسیِ ترافرازندهٔ احتمالی
+
+### 123. problematische Urteile
+* **E:** problematic judgments
+* **F:** jugements problématiques
+* **P:** داوریهای احتمالی، داوریهای اشکالی
+
+### 124. Produkt
+* **E:** product
+* **F:** produit
+* **P:** محصول
+
+### 125. produktiv
+* **E:** productive
+* **F:** productif
+* **P:** تولیدی
+
+### 126. produktive Einbildungskraft
+* **E:** productive imagination
+* **F:** imagination productrice
+* **P:** نیروی انگارشِ تولیدی
+
+### 127. produktive Synthesis der Einbildungskraft
+* **E:** productive synthesis of the imagination
+* **F:** synthèse productive de l'imagination
+* **P:** همنهادِ تولیدیِ نیروی انگارش
+
+### 128. progressive Synthesis
+* **E:** progressive synthesis
+* **F:** synthèse progressive
+* **P:** همنهادِ مترقّی
+
+### 129. progressus
+* **E:** progress, progressus
+* **F:** progression, progressus
+* **P:** سیرِ مترقّی تا حدّ نامعیّن [= دور رو]
+
+### 130. Projekt
+* **E:** project
+* **F:** projet
+* **P:** فرآخته [«فرا» + «آخته»؛ ← همین واژه‌نامه]، طرح، نقشه [در Subjekt و Object]
+
+### 131. πρόληψις = prólepsis
+* **P:** توقّع، پیش‌اندرگیری، پیش‌نگرش [بزرگ نادرزاد: «زمینهٔ پیشین»]
+
+### 132. Propädeutik
+* **E:** propaedeutic
+* **F:** propédeutique
+* **P:** پیش‌آموزیک
+
+### 133. propädeutisch
+* **E:** propaedeutic
+* **F:** propédeutique
+* **P:** پیش‌آموزانه
+
+### 134. Proportion
+* **E:** proportion
+* **F:** proportion
+* **P:** تناسب
+
+### 135. Prosyllogismus
+* **E:** prosyllogism
+* **F:** prosyllogisme
+* **P:** قیاسِ مقدّم
+
+### 136. protensive
+* **E:** protensively, protensievement
+* **P:** به شیوهٔ فرتنیده
+
+### 137. πρῶτον ψεῦδος = prôton pseûdos
+* **P:** اشتباهِ اولیه
+
+### 138. prototypon
+* **P:** بیش‌نمون
+
+### 139. prototypon transscendentale
+* **P:** بیش‌نمونِ ترافرازنده
+
+### 140. provisorisch
+* **E:** provisional, ~ly
+* **F:** provisoire, ~ment
+* **P:** موقتاً
+
+### 141. Prozeß
+* **E:** legal action, lawsuit
+* **F:** procès
+* **P:** محاکمه
+
+### 142. Prüfung
+* **E:** examination
+* **F:** examen
+* **P:** آزمون
+
+### 143. psychologia rationalis
+* **P:** روانشناسیِ تعقّلی
+
+### 144. Psychologie
+* **E:** psychology
+* **F:** psychologie
+* **P:** روانشناسی
+
+### 145. psychologisch
+* **E:** psychological, ~ly
+* **F:** psychologique, ~ment
+* **P:** روانشناسانه، روانشناختی
+
+### 146. psychologische Idee
+* **E:** psychological idea
+* **F:** idée psychologique
+* **P:** مینویِ روانشناختی
+
+### 147. psychologischer Grundbegriff
+* **E:** fundamental psychological concept
+* **F:** concept fondamental psychologique
+* **P:** مفهومِ بنیادینِ روانشناختی
+
+### 148. psychologischer Idealismus
+* **E:** psychological idealism
+* **F:** idélisme psychologique
+* **P:** مینوگرویِ روانشناختی
+
+### 149. Punkt
+* **E:** point
+* **F:** point
+* **P:** نقطه، نکته
+# واژه‌نامه سنجش خرد ناب - حروف Q و R
+
+## حرف Q
+
+### 1. quaestio facti [nom.]
+* **P:** مسئلهٔ امرِ واقع
+
+### 2. quaestionem facti [acc.]
+* **P:** مسئلهٔ امرِ واقع
+
+### 3. quaestiones domesticae
+* **P:** سؤالهای داخلی [همچنین: مسئله‌های داخلی]
+
+### 4. qualitas et quantitas
+* **P:** کیفیّت و کمّیت
+
+### 5. Qualität
+* **E:** quality, character
+* **F:** qualité
+* **P:** کیفیّت
+
+### 6. qualitativ
+* **E:** qualitative
+* **F:** qualitatif
+* **P:** کیفی
+
+### 7. qualitative Einheit
+* **E:** qualitative unity
+* **F:** unité qualitative
+* **P:** یگانگیِ کیفی
+
+### 8. qualitative Vielheit
+* **E:** qualitative plurality
+* **F:** pluralité qualitative
+* **P:** بسیاریِ کیفی
+
+### 9. qualitative Vollständigkeit (Totalität)
+* **E:** qualitative completeness (totality)
+* **F:** intégrité qualitative (totalité), intégralité qualitative (la totalité)
+* **P:** فراراستگیِ کیفی (تمامیت)
+
+### 10. quando [G: πότε = póte]
+* **P:** متىٰ [همچنین: هنگام، زمان، کی]
+
+### 11. quanta continua
+* **P:** کمهای متّصل [همچنین: اکمامِ متّصله، کموم متّصله]
+
+### 12. quantitas
+* **P:** کمّیت
+
+### 13. Quantität
+* **E:** quantity
+* **F:** quantité
+* **P:** کمّیت
+
+### 14. Quantität der Urteile
+* **E:** quantity of judgments
+* **F:** quantité des jugements
+* **P:** کمّیتِ داوریها
+
+### 15. quantitatem [acc. - nom.: quantitas]
+* **P:** کمّیت
+
+### 16. quantitatis [gen. - nom.: quantitas]
+* **P:** کمّیت
+
+### 17. quantitativ
+* **E:** quantitative
+* **F:** quantitatif
+* **P:** کمّی
+
+### 18. quantorum [gen. pl.]
+* **P:** کمها [همچنین: اکمام، کموم]
+
+### 19. quantum / Quantum
+* **E:** quantum, quantity
+* **F:** quantum, quantité [F]
+* **P:** کمّ، کمّیت، مقدار
+
+### 20. quantum continuum
+* **P:** کمّ متّصل [خواجه نصیرالدین طوسی]
+
+### 21. quantum discretum
+* **P:** کمّ منفصل [خواجه نصیرالدین طوسی]
+
+### 22. Quelle / Quell
+* **E:** source
+* **F:** source
+* **P:** سرچشمه
+
+### 23. quid facti
+* **P:** جنبهٔ واقعی چیست؟ [اویزرمن: «جنبهٔ واقعیِ امر»: фактическая сторона дела]
+
+### 24. quid juris
+* **P:** جنبهٔ حقوقی چیست؟ جنبهٔ قانونی چیست؟ [اویزرمن: «جنبهٔ حقوقیِ امر»، «جنبهٔ قانونیِ امر»: правовая сторона дела]
+
+### 25. quodlibet ens est unum, verum, bonum
+* **P:** هر کائنِ دلخواه واحد است، حقیقی است، خیر است
+
+### 26. quod mecum nescit, solus vult scire videri
+* **P:** آنچه را که همراه با من نمی‌داند، می‌خواهد چنین نماید که بتنهایی بدان آگاه است
+
+### 27. Quod sapio, satis est mihi; non ego curo, Esse quod Arcesilas aerumnosique Solones [Persius, Satirae, iii, 78-79]
+* **P:** آنچه می‌دانم مرا بس است؛ من دوست نمی‌دارم آن باشم که آرکه‌سیلاوس یا سولونِ نگون‌بخت بود
+
+---
+
+## حرف R
+
+### 1. das Radikale
+* **E:** the radical
+* **F:** le radical
+* **P:** اساسی، امرِ اساسی
+
+### 2. Radikalvermögen
+* **E:** radical faculty
+* **F:** pouvoir radical
+* **P:** توانشِ اساسی، قوّهٔ اساسی
+
+### 3. ratiocinatio polysyllogistica
+* **P:** استنتاجِ عقلی طیّ قیاساتِ مرکّب
+
+### 4. das Rationale
+* **E:** the rational
+* **F:** le rationnel
+* **P:** عنصرِ تعقّلی
+
+### 5. rationale Erkenntnis
+* **E:** rational knowledge
+* **F:** connaissance rationnelle
+* **P:** شناختِ تعقّلی
+
+### 6. rationale Kosmologie
+* **E:** rational cosmology
+* **F:** cosmologie rationnelle
+* **P:** کیهان‌شناسیِ تعقّلی
+
+### 7. rationale Physik
+* **E:** rational physics
+* **F:** physique rationnelle
+* **P:** فیزیکِ تعقّلی
+
+### 8. rationale Physiologie
+* **E:** rational physiology
+* **F:** physiologie rationnelle
+* **P:** گیتی‌شناسیِ تعقّلی
+
+### 9. rationaler Psychologe
+* **E:** rational psychologist
+* **F:** psychologue rationnel
+* **P:** روانشناسِ تعقّلی
+
+### 10. rationale Psychologie
+* **E:** rational psychology
+* **F:** psychologie rationnelle
+* **P:** روانشناسیِ تعقّلی
+
+### 11. rationale Reinigkeit
+* **E:** rational purity
+* **F:** pureté rationnelle
+* **P:** خلوصِ تعقّلی [همچنین: نابیِ تعقّلی]
+
+### 12. rationale Seelenlehre
+* **E:** rational doctrine of the soul, rational psychology
+* **F:** science rationnelle de l'âme, psychologie rationnelle
+* **P:** روح‌شناسیِ تعقّلی
+
+### 13. rationale Theologie
+* **E:** rational theology
+* **F:** théologie rationnelle
+* **P:** یزدانشناسیِ تعقّلی
+
+### 14. rationalis
+* **P:** تعقّلی
+
+### 15. Rationalist
+* **E:** rationalist
+* **F:** rationaliste
+* **P:** عقل‌گرو
+
+### 16. rationalistisches System
+* **E:** rationalist system
+* **F:** système rationaliste
+* **P:** دستگاهِ عقل‌گروانه
+
+### 17. Rationalzahlen
+* **E:** rational numbers
+* **F:** nombres rationnelles
+* **P:** عددهای گویا [افضل‌پور]، عددهای منطَق
+
+### 18. Raum
+* **E:** space; extension
+* **F:** espace
+* **P:** مکان، فضا
+
+### 19. Raum und Zeit
+* **E:** space and time
+* **F:** espace et le temps
+* **P:** مکان و زمان
+
+### 20. real
+* **E:** real
+* **F:** réel
+* **P:** واقعی
+
+### 21. Realdefinition
+* **E:** real definition
+* **F:** définition réelle
+* **P:** تعریفِ واقعی
+
+### 22. das Reale
+* **E:** the real
+* **F:** le réel, qq. ch. de réel
+* **P:** عنصرِ واقعی، امر واقعی، امورِ واقعی
+
+### 23. reale Erkenntnisse
+* **E:** real modes of knowledge, real cognitions
+* **F:** connaissances réelles
+* **P:** شناختهای واقعی
+
+### 24. reale Möglichkeit
+* **E:** real possibility
+* **F:** réelle possibilité, possibilité réelle
+* **P:** امکانِ واقعی
+
+### 25. Realerklärung
+* **E:** real explanation
+* **F:** explication réelle
+* **P:** توضیحِ واقعی
+
+### 26. ein reales Zusammengesetztes / das reale Zusammengesetzte
+* **E:** real composite
+* **F:** composé réel
+* **P:** امرِ مرکّبِ واقعی
+
+### 27. Realgrund
+* **E:** real ground
+* **F:** principe réel
+* **P:** بنیادِ واقعی
+
+### 28. realisieren
+* **E:** to realize
+* **F:** réaliser
+* **P:** تحقّق بخشیدن، شیئیت بخشیدن، شیئیت یافتن
+
+### 29. Realism / Realismus
+* **E:** realism
+* **F:** réalisme
+* **P:** واقعیت‌گروی
+
+### 30. Realist
+* **E:** realist
+* **F:** réaliste
+* **P:** واقع‌گرو، واقعیت‌گرو
+
+### 31. realitas noumenon
+* **P:** واقعیتِ معقول، واقعیتِ معقولات، واقعیتِ ذاتهای معقول
+
+### 32. realitas phaenomenon
+* **P:** واقعیتِ پدیده‌ها
+
+### 33. Realität
+* **E:** reality, actuality
+* **F:** réalité
+* **P:** واقعیت، شیئیت
+
+### 34. realitates noumena
+* **P:** واقعیتهای معقول، واقعیتهای معقولات، واقعیتهای ذاتهای معقول
+
+### 35. realitates phaenomena
+* **P:** واقعیتهای پدیده‌ها
+
+### 36. realiter
+* **F:** réellement
+* **P:** به طور واقعی
+
+### 37. Rechenkunst
+* **E:** arithmetic
+* **F:** arithmétique
+* **P:** حساب
+
+### 38. Rechenschaft
+* **E:** justification, to give an account of, to call to account, to account for
+* **F:** rendre compte, compte rendu
+* **P:** توجیه
+
+### 39. Recht
+* **E:** right, justice
+* **F:** droit, raison
+* **P:** حقّ، حقانیت
+
+### 40. Rechtfertigung
+* **E:** justification
+* **F:** justification, justifier
+* **P:** توجیه
+
+### 41. Rechtmäßigkeit
+* **E:** legitimacy, rights, justifying
+* **F:** légitimité, légitimer
+* **P:** مشروعیت، حقانیت
+
+### 42. Rechtschaffenheit
+* **E:** righteousness, uprightness, honesty, correctness
+* **F:** honnêteté
+* **P:** درستی
+
+### 43. Reduktion
+* **E:** reduction
+* **F:** réduction
+* **P:** تحویل؛ کاهش؛ احیا
+
+### 44. reflexio
+* **P:** تأمّل
+
+### 45. [reduktiv]
+* **E:** reductive
+* **F:** reductif
+* **P:** [تحویلی؛ کاهشی [این واژه در متن اصلی موجود نیست.]]
+
+### 46. Reflexion
+* **E:** reflection, reflexion
+* **F:** réflexion
+* **P:** تأمّل
+
+### 47. Reflexionsbegriffe
+* **E:** concepts of reflection
+* **F:** concepts de la réflexion
+* **P:** مفهومهای تأمّل
+
+### 48. Regel
+* **E:** rule, law, principle
+* **F:** règle
+* **P:** قاعده، اصل [«اصل» فقط در مادهٔ زیرین]
+
+### 49. Regel der Identität
+* **E:** law of identity, principle of identity
+* **F:** règle d'identité, règle de l'identité
+* **P:** اصلِ اینهمانی [= اصلِ هوهویت]
+
+### 50. Regierung
+* **E:** government
+* **F:** gouvernement
+* **P:** دولت، حکومت [همچنین: فرمانروایی]
+
+### 51. regnum gratiae
+* **P:** مملکتِ مرحمت
+
+### 52. regressiv
+* **E:** regressive, ~ly
+* **F:** régressif, régressivement
+* **P:** قهقرایی، به سانِ قهقرایی
+
+### 53. regressive Synthesis
+* **E:** regressive synthesis
+* **F:** synthèse régressive
+* **P:** همنهادِ قهقرایی
+
+### 54. Regressus
+* **E:** regress, regressus
+* **F:** régression
+* **P:** سیرِ قهقرایی
+
+### 55. regressus in indefinitum
+* **P:** سیرِ قهقرایی تا حدّ نامعیّن
+
+### 56. regressus in infinitum
+* **P:** سیرِ قهقرایی تا بینهایت
+
+### 57. regulativ
+* **E:** regulative
+* **F:** régulateur
+* **P:** تنظیمی [همچنین: منظّم‌کننده، رایاننده]
+
+### 58. regulative Einheit
+* **E:** regulative unity
+* **F:** unité régulatrice
+* **P:** یگانگیِ تنظیمی
+
+### 59. regulative Grundsätze
+* **E:** regulative principles
+* **F:** principes régulateurs
+* **P:** آغازه‌های تنظیمی
+
+### 60. regulative Prinzipien
+* **E:** regulative principles
+* **F:** principes régulateurs
+* **P:** اصلهای تنظیمی
+
+### 61. regulativer Begriff
+* **E:** regulative concept
+* **F:** concept régulateur
+* **P:** مفهومِ تنظیمی
+
+### 62. regulativer Vernunftgebrauch
+* **E:** regulative employment of reason
+* **F:** usage régulateur de la raison
+* **P:** کاربردِ تنظیمیِ خرد
+
+### 63. regulatives Gesetz
+* **E:** regulative law
+* **F:** principe régulateur
+* **P:** قانونِ تنظیمی
+
+### 64. Reich der Gnaden
+* **E:** kingdom of grace
+* **F:** règne de la grâce
+* **P:** پادشاهیِ مهر
+
+### 65. Reich der Natur
+* **E:** kingdom of nature
+* **F:** règne de la nature
+* **P:** پادشاهیِ طبیعت
+
+### 66. Reihe
+* **E:** series
+* **F:** série
+* **P:** سلسله، رشته، ردیف
+
+### 67. rein
+* **E:** pure, purely
+* **F:** pure, purement
+* **P:** ناب، منزّه، پاک، تمیز، خالص
+
+### 68. reine Anschauung
+* **E:** pure intuition
+* **F:** intuition pure
+* **P:** سهشِ ناب
+
+### 69. reine Apperzeption
+* **E:** pure apperception
+* **F:** aperception pure
+* **P:** خوداندریفتِ ناب
+
+### 70. reine Einbildungskraft
+* **E:** pure imagination
+* **F:** imagination pure
+* **P:** نیروی انگارشِ ناب
+
+### 71. reine Erkenntnis
+* **E:** pure knowledge
+* **F:** connaissance pure
+* **P:** شناختِ ناب
+
+### 72. reine Erkenntnisse a priori
+* **E:** pure a priori knowledge, pure a priori cognitions
+* **F:** connaissances pures a priori
+* **P:** شناختهای نابِ برتوم
+
+### 73. reine Form
+* **E:** pure form
+* **F:** forme pure
+* **P:** صورتِ ناب
+
+### 74. reine Intelligenz
+* **E:** pure intelligence
+* **F:** intelligence pure
+* **P:** هوشِ ناب
+
+### 75. reine Kategorie
+* **E:** pure category
+* **F:** catégorie pure
+* **P:** مقولهٔ ناب
+
+### 76. reine Logik
+* **E:** pure logic
+* **F:** logique pure
+* **P:** منطقِ ناب
+
+### 77. reine Mathematik
+* **E:** pure mathematics
+* **F:** mathématique pure, mathématiques pures
+* **P:** ریاضیّاتِ ناب
+
+### 78. reine Moral
+* **E:** pure ethics
+* **F:** morale pure
+* **P:** اخلاقِ ناب
+
+### 79. reine Philosophie
+* **E:** pure philosophy
+* **F:** philosophie pure
+* **P:** فلسفهٔ ناب
+
+### 80. reine Psychologie
+* **E:** pure psychology
+* **F:** psychologie pure
+* **P:** روان‌شناسیِ ناب
+
+### 81. reiner Begriff
+* **E:** pure concept
+* **F:** concept pur
+* **P:** مفهومِ ناب
+
+### 82. reiner Empirismus
+* **E:** pure empiricism
+* **F:** empirisme pur
+* **P:** آروین‌گرویِ ناب
+
+### 83. reiner Sinn
+* **E:** strict meaning, pure sense
+* **F:** sens pur
+* **P:** معنای ناب
+
+### 84. reiner Vernunftbegriff
+* **E:** pure concept of reason, concept of pure reason
+* **F:** concept pur de la raison, concept rationnel pur
+* **P:** مفهومِ نابِ خرد، مفهومِ خردیِ ناب
+
+### 85. reiner Vernunftgebrauch
+* **E:** employment of pure reason, pure employment of reason
+* **F:** usage pure de la raison, usage de la raison pure
+* **P:** کاربردِ نابِ خرد
+
+### 86. reiner Verstand
+* **E:** pure understanding
+* **F:** entendement pur
+* **P:** فهمِ ناب
+
+### 87. reiner Verstandesbegriff
+* **E:** pure concept of understanding
+* **F:** concept pur de l'entendement
+* **P:** مفهومِ نابِ فهم
+
+### 88. reines Denken
+* **E:** pure thought, pure thinking
+* **F:** pensée pure
+* **P:** اندیشیدنِ ناب
+
+### 89. reine Seelenlehre
+* **E:** pure psychology
+* **F:** psychologie pure
+* **P:** روان‌شناسیِ ناب
+
+### 90. reines intellektuelles Vermögen
+* **E:** pure intellectual faculty
+* **F:** pouvoir intellectuel pur
+* **P:** قوّهٔ فکریِ ناب
+
+### 91. reines Schema
+* **E:** pure schema
+* **F:** schème pur
+* **P:** دیسه‌نمای ناب
+
+### 92. reines Selbstbewußtsein
+* **E:** pure self-consciousness
+* **F:** conscience pure
+* **P:** خودآگاهیِ ناب
+
+### 93. reine Synthesis
+* **E:** pure synthesis
+* **F:** synthèse pure
+* **P:** همنهادِ ناب
+
+### 94. reine Vernunft
+* **E:** pure reason
+* **F:** raison pure
+* **P:** خردِ ناب
+
+### 95. reine Vernunfterkenntnisse
+* **E:** pure knowledge of reason, pure cognitions of reason
+* **F:** connaissances pures de la raison, connaissances rationnelles pures
+* **P:** شناختهای خردیِ ناب، شناختهای نابِ خرد
+
+### 96. reine Verstandeserkenntnis
+* **E:** pure knowledge yielded by understanding, pure knowledge of the understanding
+* **F:** connaissance pure de l'entendement
+* **P:** شناختِ نابِ فهم
+
+### 97. reine Wirkung
+* **E:** pure effect
+* **F:** effet pur
+* **P:** معلولِ ناب
+
+### 98. Reinigkeit
+* **E:** purity
+* **F:** pureté
+* **P:** نایی، خلوص [همچنین: پاکی]
+
+### 99. Rekognition
+* **E:** recognition
+* **F:** récognition
+* **P:** بازشناخت
+
+### 100. Relation
+* **E:** relation
+* **F:** relation
+* **P:** اضافت [= نسبت]
+
+### 101. relativ
+* **E:** relative, ~ly
+* **F:** relatif, relativement
+* **P:** نسبی، در نسبت با
+
+### 102. relativisch [auf]
+* **E:** relatively, relative [to]
+* **F:** par rapport [à], relativement [à]
+* **P:** نسبت به
+
+### 103. Religion
+* **E:** religion
+* **F:** religion
+* **P:** دین
+
+### 104. remissio
+* **P:** تخفیف
+
+### 105. repraesentatio
+* **P:** ارتسام [همچنین: تصوّر، برنمود]
+
+### 106. Reproduktion
+* **E:** reproduction
+* **F:** reproduction
+* **P:** بازسازی
+
+### 107. reproduktiv
+* **E:** reproductive
+* **F:** reproductif
+* **P:** بازسازانه
+
+### 108. reproduktiv (reproduktive Einbildungskraft)
+* **E:** reproductive imagination
+* **F:** imagintion reproductrice
+* **P:** نیروی انگارشِ بازسازانه
+
+### 109. Reproduzibilität
+* **E:** reproducibility
+* **F:** faculté de se reproduire, reproductibilité
+* **P:** بازساخت‌پذیری، بازساخت‌توانی
+
+### 110. das Reproduzierte
+* **E:** the reproduced
+* **F:** le reproduit
+* **P:** بازساخته
+
+### 111. requisita
+* **P:** شرایطِ لازم [«شرایط» جمع «شریطه»]
+
+### 112. Requisite[n]
+* **E:** requisites, what is required
+* **F:** conditions requises
+* **P:** ملزومات [همچنین: شریطه‌های لازم، شرایطِ لازم، احتیاجات، مقتضیات]
+
+### 113. Restriktion
+* **E:** restriction
+* **F:** restriction, être restreint
+* **P:** قید
+
+### 114. Resultat
+* **E:** consequence, result, outcome
+* **F:** résultat
+* **P:** نتیجه
+
+### 115. Retorsion
+* **E:** retort, retortion, turning upon, turning back, retaliation
+* **F:** rétorquer, rétorsion
+* **P:** دلیلِ تلافی‌جویانه
+
+### 116. Revolution
+* **E:** revolution
+* **F:** révolution
+* **P:** انقلاب
+
+### 117. Rezension
+* **E:** analysis, critical review
+* **F:** recensement, examen
+* **P:** نقد
+
+### 118. Rezeptivität
+* **E:** receptivity
+* **F:** réceptivité
+* **P:** قوّهٔ اندرپذیرندگی، اندرپذیرندگی
+
+### 119. Rezeptivität der Eindrücke
+* **E:** receptivity for impressions, receptivity of impressions
+* **F:** réceptivité des impressions
+* **P:** اندرپذیرندگیِ تأثّرها
+
+### 120. Reziprokabilität [= Reziprozität]
+* **E:** coincidence, reciprocity, *reciprocability
+* **F:** réciprocité, *réciprocabilité
+* **P:** اندرهم‌کارگری
+
+### 121. Rhapsodie
+* **E:** rhapsody
+* **F:** rhapsodie, rapsodie
+* **P:** آمیختهٔ درهم [«خليط مشوّش»]
+
+### 122. Richter
+* **E:** judge, critic, one who is sitting in judgment
+* **F:** juge, critique
+* **P:** داور، قاضی
+
+### 123. richtig geschlossene Begriffe
+* **E:** rightly inferred concepts
+* **F:** concepts exactement conclus
+* **P:** مفهومهای درست نتیجه‌گیری شده
+
+### 124. Richtigkeit
+* **E:** correctness, rightness, being just, validity
+* **F:** exactitude, légitimité, être juste, valeur
+* **P:** درستی، صحّت، راستی
+
+### 125. Richtmaß
+* **E:** standard, measure
+* **F:** règle, unité de mesure
+* **P:** سنجه
+
+### 126. Richtschnur
+* **E:** plumb-line; guidance, guide, norm, rule, rule of conduct
+* **F:** cordeau, fil à plomb; direction, norme, règle, règle de conduite
+* **P:** ریسمانِ کار [ریسمان شاغول، مطمار، رژه، رِژهٔ پهنا، و نیز: ریسمان درودگران (در آلمانی فزون بر اینها همچنین: ریسمان باغبانان). به مفهوم مجازی: قاعده و راهنما، راهنما، راهنمای رفتار و کردار]
+
+### 127. Richtung
+* **E:** direction
+* **F:** direction
+* **P:** راستا، جهت
+
+### 128. Richtungslinie
+* **E:** line of direction, guiding line, line, route
+* **F:** ligne de direction, ligne
+* **P:** خطِّ راست‌نما، خطِّ راهنما
+
+### 129. Rückgang
+* **E:** regress, proceeding reverse-wise
+* **F:** régression
+* **P:** بازگشت، پسرفت
+
+### 130. Rückgang in indefinitum
+* **E:** regress in indefinitum
+* **F:** régression in indefinitum
+* **P:** بازگشت تا حدّ نامعیّن
+
+### 131. Rückgang ins Unendliche
+* **E:** regress in infinitum
+* **F:** régression infinie
+* **P:** بازگشت تا بیکران
+
+### 132. Ruhe
+* **E:** quiescence, rest, immobility, standstill
+* **F:** repos, immobilité
+* **P:** ایستش، سکون، آرامش
+
+### 133. Rute
+* **E:** rood
+* **F:** perche
+* **P:** روته [یکان درازا در آلمان قدیم؛ بزرگتر از «ساژن»]
+
+# واژه‌نامه سنجش خرد ناب - حرف S
+
+### 1. Sache
+* **E:** thing; matter, subject-matter
+* **F:** chose; sujet
+* **P:** چیز؛ امر، موضوع
+
+### 2. Sache an sich / Sache an sich selbst
+* **E:** thing in itself
+* **F:** chose en soi
+* **P:** چیزِ فی نفسه
+
+### 3. Sachheit
+* **E:** thinghood, reality
+* **F:** choséité
+* **P:** جیزیکی [= شیئیت]
+
+### 4. Satz
+* **E:** proposition, assertion, principle
+* **F:** proposition, thèse; principe
+* **P:** گزاره [مصاحب، شهابی]؛ اصل
+
+### 5. Satz des Nichtzuunterscheidenden
+* **E:** principle of identity of indiscernibles
+* **F:** principe des indiscernables
+* **P:** اصل عدم تمایز
+
+### 6. Satz des Widerspruchs
+* **E:** principle of contradiction, law of contradiction
+* **F:** principe de contradiction, principe de non-contradiction
+* **P:** اصل آختنیج‌ناپذیری [فروغی: «اصل امتناع تناقض»، «اصل امتناع جمع متقابلان»، «اصل بطلان تناقض»]
+
+### 7. Satz vom zureichenden Grunde
+* **E:** principle of sufficient reason
+* **F:** principe de raison suffisante
+* **P:** اصل سبب کافی
+
+### 8. Scharfsichtigkeit
+* **E:** acuteness
+* **F:** pénétration
+* **P:** تیزبینی
+
+### 9. Scharfsinnigkeit
+* **E:** acuteness, discriminative observation
+* **F:** pénétration
+* **P:** تندذهنی، تیزهوشی ریزبینانه
+
+### 10. Schattenbilder
+* **E:** shadowy images
+* **F:** fantômes
+* **P:** انگاره‌های شبح گون، انگاره‌های مبهم
+
+### 11. Schattenriß
+* **E:** outline, sketch
+* **F:** esquisse, esquisse rapide
+* **P:** طرح گرته‌وار
+
+### 12. Schätzung
+* **E:** appraising
+* **F:** apprécier, appréciation
+* **P:** ارزیابی
+
+### 13. Schein
+* **E:** illusion, illusory semblance
+* **F:** apparence, illusion; mirage
+* **P:** فرانمود [جهانگشای جوینی: «... و غنچه در حسرت غنچان از دلتنگی خون در شیشه می‌کرد و فرا می‌نمود که خنده است....»]
+
+### 14. Scheinwissen
+* **E:** illusory knowledge
+* **F:** apparence de savoir
+* **P:** دانستن فرانمودی
+
+### 15. Schema [pl.: Schemata]
+* **E:** schema
+* **F:** schème
+* **P:** دیسه‌نمای [پهلوی: «دیسگ»:: شکل، صورت، ایده]
+
+### 16. Schematismus
+* **E:** schematism
+* **F:** schématisme
+* **P:** دیسه‌نمایی
+
+### 17. Schematismus der reinen Verstandesbegriffe
+* **E:** schematism of the pure concepts of understanding
+* **F:** schématisme des concepts purs de l'entendement
+* **P:** دیسه‌نمایی مفهومهای ناب فهم
+
+### 18. das Schlechthininnere
+* **E:** the absolutely inner element
+* **F:** qq. ch. d'absolument interne
+* **P:** امر مطلقاً درونی
+
+### 19. schlechthin notwendiges Wesen / schlechthannotwendiges Wesen
+* **E:** absolutely necessary being
+* **F:** être absolument nécessaire
+* **P:** هستومند مطلقاً ضروری
+
+### 20. das Schlechthinunbedingte
+* **E:** the completely unconditioned
+* **F:** l'inconditionnel absolu, l'absolument inconditionné
+* **P:** امر مطلقاً نامشروط
+
+### 21. das Schließen
+* **E:** inference, inferring, concluding
+* **F:** raisonner, raisonnement
+* **P:** نتیجه‌گیری، نتیجه گرفتن
+
+### 22. Schluß
+* **E:** conclusion, inference, syllogism, reasoning, process of reasoning
+* **F:** conclusion, conclure, raisonnement, inférence, conséquence, syllogisme
+* **P:** نتیجه قیاسی، استدلال قیاسی، قیاس، نتیجه‌گیری
+
+### 23. Schlußart
+* **E:** kind of inference, mode of reasoning, reasoning, kind of argument
+* **F:** espèce de raisonnement, raisonnement
+* **P:** نوع قیاس، نوع استدلال
+
+### 24. Schlüssel
+* **E:** key
+* **F:** clef
+* **P:** کلید
+
+### 25. Schlußfolge
+* **E:** conclusion, inference, reasoning
+* **F:** preuve, déduction, argumentation, conclure
+* **P:** نتیجه قیاسی
+
+### 26. Schlußsatz
+* **E:** conclusion
+* **F:** conclusion, conséquence
+* **P:** نتیجهٔ قیاس، نتیجهٔ قیاسی
+
+### 27. Schmerz
+* **E:** pain
+* **F:** douleur
+* **P:** درد، الم
+
+### 28. Scholastiker
+* **E:** schoolmen
+* **F:** (les) scolastiques
+* **P:** فیلسوفان مدرسی
+
+### 29. scholastisch
+* **E:** scholastic
+* **F:** scolastique
+* **P:** مدرسی
+
+### 30. das Schöne
+* **E:** the beautiful
+* **F:** le beau
+* **P:** آنچه زیباست، زیبایی [همچنین: امر زیبا]
+
+### 31. Schönheit
+* **E:** beauty
+* **F:** beauté
+* **P:** زیبایی
+
+### 32. Schöpfung
+* **E:** creation
+* **F:** création
+* **P:** آفرینش
+
+### 33. Schranke
+* **E:** limitation, limit, boundary
+* **F:** limite, borne
+* **P:** کرانه، حدّ
+
+### 34. Schulbegriff
+* **E:** scholastic concept
+* **F:** concept scolastique
+* **P:** مفهوم مدرسی
+
+### 35. Schuld
+* **E:** fault
+* **F:** faute
+* **P:** گناه
+
+### 36. die Schulen
+* **E:** the schools
+* **F:** les écoles
+* **P:** فلسفه مدرسی [همچنین: مدارس فلسفی]
+
+### 37. schulgerecht
+* **E:** methodical, ~ly, scholastic, ~ally, academic
+* **F:** scolaire, forme scolaire, scolastique, savamment, scientifique
+* **P:** مدرسی
+
+### 38. schulgerechte Beweise
+* **E:** formal arguments
+* **F:** arguments scolastiques
+* **P:** برهانهای مدرسی
+
+### 39. Schulsprache
+* **E:** language of the schools
+* **F:** termes de l'école
+* **P:** زبان فلسفهٔ مدرسی
+
+### 40. Schwärmerei
+* **E:** fanaticism
+* **F:** fanatisme, illumination extravagante
+* **P:** تعصّب
+
+### 41. die Schwere
+* **E:** gravity, weight
+* **F:** pesanteur
+* **P:** وزن، سنگینی
+
+### 42. das Scientifische
+* **E:** the scientific
+* **F:** de scientifique, le scientifique
+* **P:** عنصر علمی
+
+### 43. secunda Petri
+* **P:** دوم بطرس [بخشِ دومّ کتاب پی‌یر دولا رامه: «نیروی داوری درست»، «قوّهٔ قضاوت صحیح»]
+
+### 44. Seele
+* **E:** soul
+* **F:** âme
+* **P:** روح، نفس
+
+### 45. Seeleneigenschaften
+* **E:** properties of the soul
+* **F:** propriétés de l'âme
+* **P:** خاصیتهای روح
+
+### 46. Seelenlehre
+* **E:** doctrine of the soul, psychology
+* **F:** psychologie, science de l'âme
+* **P:** روح‌شناسی [= روانشناسی]
+
+### 47. das Sein
+* **E:** being
+* **F:** existence, l'être
+* **P:** هستی
+
+### 48. das Selbst
+* **E:** the self
+* **F:** le moi
+* **P:** خود، خویشتن [همچنین: نفس]
+
+### 49. selbständig
+* **E:** independent, self-subsistent
+* **F:** indépendant
+* **P:** خودایستا
+
+### 50. Selbständigkeit
+* **E:** self-sufficiency, independence
+* **F:** substantialité, indépendance, autonomie
+* **P:** خودایستایی
+
+### 51. Selbstanschauung
+* **E:** self-intuition
+* **F:** intuition de soi-même, intuition par soi-même
+* **P:** خودسهی
+
+### 52. Selbstbeherrschung
+* **E:** self-control
+* **F:** domination de soi-même
+* **P:** خویشتنداری
+
+### 53. Selbstbewußtsein
+* **E:** self-consciousness
+* **F:** conscience de soi, conscience de soi-même
+* **P:** خودآگاهی
+
+### 54. Selbsterkenntnis
+* **E:** self-knowledge, self-examination
+* **F:** connaissance de soi-même
+* **P:** خودشناسی
+
+### 55. Selbstgebärung
+* **E:** spontaneous generation
+* **F:** enfantement spontané
+* **P:** خودزایی
+
+### 56. Selbsttätigkeit
+* **E:** self-activity
+* **F:** spontanéité
+* **P:** خودکاری
+
+### 57. Selbstverleugnung
+* **E:** self-denial, self-abnegation, abnegation
+* **F:** abnégation
+* **P:** ازخودگذشتگی
+
+### 58. Seligkeit
+* **E:** blessedness
+* **F:** félicité
+* **P:** سعادت ابدی، سعادت سرمدی، رحمت ایزدی
+
+### 59. sensatio
+* **P:** احساس
+
+### 60. sensibel
+* **E:** sensible
+* **F:** sensible
+* **P:** محسوس
+
+### 61. sensifizieren
+* **E:** to sensualize
+* **F:** sensualiser
+* **P:** حسّی گرداندن
+
+### 62. sensitiv
+* **E:** sensuous
+* **F:** sensitif
+* **P:** حسّی
+
+### 63. Sensualphilosophen
+* **E:** sensualists
+* **F:** philosophes sensualistes
+* **P:** فیلسوفان حسّ‌گرو
+
+### 64. Sentenz
+* **E:** judicial sentence
+* **F:** sentence
+* **P:** حکم دادگاه
+
+### 65. Simplizität
+* **E:** simplicity
+* **F:** simplicité
+* **P:** بساطت [= سادگی؛ ــ شیبانی: «مفردية»، «بساطة»]
+
+### 66. simul [G: ἅμα = háma]
+* **P:** مقارن [همچنین: با هم]
+
+### 67. Simultaneität
+* **E:** simultaneity
+* **F:** simultanéité
+* **P:** مقارنه [فروغی]
+
+### 68. ein Singular
+* **E:** one, a / the singular
+* **F:** qq. ch. de singulier
+* **P:** امر مفرد
+
+### 69. Sinn
+* **E:** sense; meaning; mind
+* **F:** sens; esprit, tête
+* **P:** حسّ؛ معنا، مفهوم؛ شعور، مخیّله
+
+### 70. Sinnenlehre
+* **E:** doctrine of sensibility
+* **F:** théorie de la sensibilité
+* **P:** حس‌شناسی
+
+### 71. Sinnenwelt
+* **E:** sensible world, world of senses
+* **F:** monde sensible, monde des sens
+* **P:** جهان حسّی
+
+### 72. Sinnenwesen
+* **E:** sensible entity
+* **F:** être des sens
+* **P:** هستومند حسّی
+
+### 73. das Sinnleere / Sinnleeres
+* **E:** nonsense, empty of sense
+* **F:** non-sens
+* **P:** بیمعنایی
+
+### 74. sinnlich
+* **E:** sensible, sensuous, sensory, sense-...
+* **F:** sensible
+* **P:** حسّی
+
+### 75. sinnliche Anschauung
+* **E:** sensible intuition
+* **F:** intuition sensible
+* **P:** سهش حسّی
+
+### 76. sinnliche Eindrücke
+* **E:** sensible impressions
+* **F:** impressions sensibles
+* **P:** تأثّرهای حسّی
+
+### 77. sinnliche Empfindungen
+* **E:** sensible impressions
+* **F:** impressions sensibles, sensations
+* **P:** یافته‌های حسّی
+
+### 78. sinnliche Erkenntnis
+* **E:** sensible knowledge
+* **F:** connaissance sensible
+* **P:** شناخت حسّی
+
+### 79. Sinnlichkeit
+* **E:** sensibility
+* **F:** sensibilité
+* **P:** حسّگانی
+
+### 80. Sitten
+* **E:** morals
+* **F:** mœurs, morale
+* **P:** آیینهای اخلاقی، اخلاق [فقط در پیشگفتار مترجم]
+
+### 81. Sittengesetz
+* **E:** moral law, law of morality
+* **F:** loi morale, loi des mœurs
+* **P:** قانون اخلاقی، قانون اخلاق
+
+### 82. Sittenlehre
+* **E:** moral philosophy, ethics
+* **F:** morale, éthique
+* **P:** قانون آیینهای اخلاقی، اخلاق‌شناسی
+
+### 83. sittlich
+* **E:** moral
+* **F:** moral
+* **P:** اخلاقی
+
+### 84. das Sittliche
+* **E:** the moral sphere
+* **F:** le domaine moral
+* **P:** امر اخلاقی
+
+### 85. sittliche Gesetze
+* **E:** moral laws
+* **F:** lois morales
+* **P:** قانونهای اخلاقی
+
+### 86. Sittlichkeit
+* **E:** morality
+* **F:** moralité, principes de la morale
+* **P:** اخلاق ـ آیینی
+
+### 87. situ [G: κεῖσθαι = keîsthai]
+* **P:** وضع [همچنین: نهش، نهاد]
+
+### 88. Sitz
+* **E:** seat, native home
+* **F:** siège, terrain, empire
+* **P:** هدیش [اوستایی و پارسی باستان: نشست، جایگاه، خانه، کاخ، کوشک، کانون؛ هم‌معنا با Sitz و seat و siège و z(- ش‌ــ‌ــت). دهخدا: «هدش»، «هدیش» (زیر مادّهٔ «تخت جمشید»)! ابراهیم پورداود (در ویسپرد): «هدیش»؛ برطبق او، واژهٔ زنده در گویش یزدی به معنای محل تابستانی که همان هدیش اوستایی و پارسی باستان است)، نشست، جایگاه]
+
+### 89. Skandal der Philosophie
+* **E:** scandal to philosophy
+* **F:** scandale pour la philosophie
+* **P:** رسوایی فلسفه
+
+### 90. Skeptiker
+* **E:** sceptic
+* **F:** sceptique
+* **P:** شک‌گرا
+
+### 91. skeptisch
+* **E:** sceptical
+* **F:** sceptique
+* **P:** شک‌گرا، شک‌گرایانه
+
+### 92. skeptische Methode
+* **E:** sceptical method
+* **F:** méthode sceptique
+* **P:** روش شک‌گرایانه
+
+### 93. skeptischer Idealismus
+* **E:** sceptical idealism
+* **F:** idéalisme sceptique
+* **P:** مینوگروی شک‌گرایانه
+
+### 94. skeptischer Idealist
+* **E:** sceptical idealist
+* **F:** idéaliste sceptique
+* **P:** مینوگرو شک‌گرا
+
+### 95. skeptische Vorstellung
+* **E:** sceptical representation
+* **F:** représentation sceptique
+* **P:** تصویر شک‌گرایانه
+
+### 96. Skeptizism
+* **E:** scepticism
+* **F:** scepticisme
+* **P:** شک‌گرایی [امیرحسین آریان‌پور]
+
+### 97. Skeptizismus
+* **E:** scepticism
+* **F:** scepticisme
+* **P:** شک‌گرایی [امیرحسین آریان‌پور]
+
+### 98. das Sollen
+* **E:** ought
+* **F:** devoir
+* **P:** بایستن [= بایستن وظیفه‌وار و اخلاقی]
+
+### 99. Sonnenwelt
+* **E:** solar system
+* **F:** monde solaire
+* **P:** منظومهٔ خورشیدی
+
+### 100. sophisma figurae dictionis
+* **P:** مغالطه به سبب ابهام در حدّ میانگین [معنای تحت لفظی: مغالطه در شکل بیان]
+
+### 101. Sophist
+* **E:** sophist
+* **F:** sophiste
+* **P:** سوفسطایی
+
+### 102. Sophistikation
+* **E:** sophistication
+* **F:** sophistication
+* **P:** سفسطه، سفسطه‌ورزی
+
+### 103. sophistisch
+* **E:** sophistical
+* **F:** sophistique
+* **P:** سوفسطایی، سفسطه‌آمیز
+
+### 104. sophistische Sätze
+* **E:** sophistical proposition
+* **F:** propositions sophistiques
+* **P:** گزاره‌های سوفسطایی
+
+### 105. Sparsamkeit
+* **E:** parsimony
+* **F:** économie
+* **P:** صرفه‌جویی
+
+### 106. Spekulation
+* **E:** speculation
+* **F:** spéculation
+* **P:** نگرورزی
+
+### 107. spekulativ
+* **E:** speculative
+* **F:** spéculatif
+* **P:** نگرورزانه، نگرورز
+
+### 108. spekulative Erkenntnis
+* **E:** speculative knowledge
+* **F:** connaissance spéculative
+* **P:** شناخت نگرورزانه
+
+### 109. spekulative Vernunft
+* **E:** speculative reason
+* **F:** raison spéculative
+* **P:** خرد نگرورز
+
+### 110. Spezies
+* **E:** species
+* **F:** espèce
+* **P:** نوع
+
+### 111. spezifisch
+* **E:** specific, ~ally
+* **F:** spécifique, ~ment
+* **P:** اختصاصی، اختصاصاً
+
+### 112. das Spezifische
+* **E:** specific quality
+* **F:** marque spécifique
+* **P:** جنبهٔ خاصّ
+
+### 113. spezifischer Unterschied
+* **E:** specific difference
+* **F:** différence spécifique
+* **P:** تفاوت اختصاصی
+
+### 114. spezifische Schwere
+* **E:** specific gravity
+* **F:** pesanteur spécifique
+* **P:** وزن مخصوص
+
+### 115. Sphäroid
+* **E:** spheroidal
+* **F:** sphéroïde
+* **P:** شبه کره [همچنین: کره واره، سپهرواره]
+
+### 116. Spiritualism
+* **E:** spiritualism
+* **F:** spiritualisme
+* **P:** روح‌گروی
+
+### 117. Spiritualist
+* **E:** spiritualist
+* **F:** spiritualiste
+* **P:** روح‌گرو
+
+### 118. Spiritualität
+* **E:** spirituality
+* **F:** spiritualité
+* **P:** روحانیت
+
+### 119. spirituell
+* **E:** spiritual
+* **F:** spirituel
+* **P:** معنوی، روحانی
+
+### 120. Spontaneität
+* **E:** spontaneity
+* **F:** spontanéité
+* **P:** خودانگیختگی [عزت‌الله فولادوند]
+
+### 121. Spontaneität der Begriffe
+* **E:** spontaneity of concepts
+* **F:** spontanéité des concepts
+* **P:** خودانگیختگی مفهومها
+
+### 122. Sprache
+* **E:** language
+* **F:** langue, langage
+* **P:** زبان
+
+### 123. Sprung
+* **E:** leap, saltus
+* **F:** saut, sauter
+* **P:** جهش
+
+### 124. Stammbaum
+* **E:** family tree
+* **F:** arbre généalogique
+* **P:** شجره‌نامه
+
+### 125. Stammbegriff
+* **E:** fundamental concept, elementary concept
+* **F:** concept primitif, concept fondamental
+* **P:** مفهوم بنلادی
+
+### 126. Standhaftigkeit
+* **E:** firmness
+* **F:** fermeté
+* **P:** ثبات
+
+### 127. Standpunkt
+* **E:** standpoint
+* **F:** point de vue
+* **P:** ایستگاه
+
+### 128. das Stehende
+* **E:** something fixed, the abiding
+* **F:** qq. ch. de fixe, ce qui subsiste
+* **P:** ایستندگار
+
+### 129. Steigerung
+* **E:** extension, advancement, progression, elevation, development, ascension
+* **F:** élévation, ascension
+* **P:** صعود، ارتقاء
+
+### 130. Stelle
+* **E:** position
+* **F:** place, endroit, poser
+* **P:** موضع، جا
+
+### 131. Stellung
+* **E:** standpoint, position
+* **F:** disposition, position
+* **P:** موضع
+
+### 132. Stoff
+* **E:** material, matter, stuff
+* **F:** matière
+* **P:** مایه، مصالح
+
+### 133. Stoiker
+* **E:** Stoic
+* **F:** stoïcien, stoïque
+* **P:** رواقی [اسم؛ شکل فارسی صفت نیز هست.]
+
+### 134. streng
+* **E:** strict, severe, pressing, rigorous
+* **F:** stricte, sévère, de manière stricte, rigoureuse
+* **P:** دقیق، شدید، فرسخت، فرسختانه [«فرسخت» از «فر»، پیشوند، از جمله به معنای: زیاد، بسیار، تمام (بسنجید با «فرزانه»، «فرسوده»، «فرجام»)، و «سخت»]
+
+### 135. strenge
+* **E:** strictly, rigorously
+* **F:** strictement, rigoureusement
+* **P:** فرسختانه
+
+### 136. Strenge
+* **E:** strictness, stringency, rigour
+* **F:** sévérité, rigueur
+* **P:** فرسختی
+
+### 137. strenge Allgemeinheit
+* **E:** strict universality
+* **F:** stricte universalité
+* **P:** کلیّت فرسخت
+
+### 138. Studium
+* **E:** study
+* **F:** étude
+* **P:** مطالعه
+
+### 139. subaltern
+* **E:** subaltern, subordinate, subsidiary, relative
+* **F:** subalterne
+* **P:** متداخل [خوانساری، مصاحب، خواجه نصیرالدین طوسی]، مادون
+
+### 140. Subalterne
+* **E:** subalterne
+* **F:** subalterne
+* **P:** تقسیم فرعی
+
+### 141. subdivisio
+* **P:** تقسیم فرعی
+
+### 142. Subdivision
+* **E:** subdivision, subdiviser
+* **F:** subdivision, subdiviser
+* **P:** تقسیم فرعی
+
+### 143. Subjekt
+* **E:** subject
+* **F:** sujet
+* **P:** درون‌آخته [از «درون» + «ـآخته»، به قرینهٔ Objekt: «برون‌آخته» (و با توجه به اصطلاح «درون‌ذهن»): موضوع، مبتدا در همین واژه‌نامه]
+
+### 144. subjektiv
+* **E:** subjective
+* **F:** subjectif
+* **P:** ذهنی، درون‌آختی [فقط در پیشگفتار مترجم، ــ نه در ترجمه]
+
+### 145. das Subjektive
+* **E:** the subjective
+* **F:** qq. ch. de subjectif
+* **P:** امر ذهنی
+
+### 146. subjektive Bedeutung
+* **E:** subjective meaning
+* **F:** valeur subjective
+* **P:** معنای ذهنی
+
+### 147. subjektive Bedingung
+* **E:** subjective condition
+* **F:** condition subjective
+* **P:** شرط ذهنی
+
+### 148. subjektive Beschaffenheit
+* **E:** subjective constitution
+* **F:** nature subjective, constitution subjective
+* **P:** سرشت ذهنی
+
+### 149. subjektive Beziehung
+* **E:** subjective aspect
+* **F:** point de vue subjectif
+* **P:** رابطهٔ ذهنی
+
+### 150. subjektive Deduktion
+* **E:** subjective deduction
+* **F:** déduction subjective
+* **P:** تنقیح مناط ذهنی
+
+### 151. subjektive Einheit
+* **E:** subjective unity
+* **F:** unité subjective
+* **P:** یگانگی ذهنی
+
+### 152. subjektive Folge
+* **E:** subjective succession
+* **F:** succession subjective
+* **P:** توالی ذهنی
+
+### 153. subjektive Notwendigkeit
+* **E:** subjective necessity
+* **F:** nécessité subjective
+* **P:** ضرورت ذهنی
+
+### 154. subjektive Prinzipien
+* **E:** subjective principles
+* **F:** principes subjectifs
+* **P:** اصلهای ذهنی
+
+### 155. subjektive Realität
+* **E:** subjective reality
+* **F:** réalité subjective
+* **P:** واقعیت ذهنی
+
+### 156. subjektive Ursachen
+* **E:** subjective causes
+* **F:** causes subjectives
+* **P:** علّتهای ذهنی
+
+### 157. subordiniert
+* **E:** subordinate, ~d
+* **F:** subordonné
+* **P:** تابع، تبعی
+
+### 158. Subreption
+* **E:** subreption
+* **F:** subreption
+* **P:** ترافریفتگاری [= اختراع، قبول نامشروع]
+
+### 159. Subreption des hypostasierten Bewußtseins
+* **E:** subreption of the hypostatized consciousness
+* **F:** subreption de la conscience hypostasiée
+* **P:** قبول نامشروع آگاهی متجسّم
+
+### 160. Subsistenz
+* **E:** subsistence
+* **F:** subsistance
+* **P:** قوام ذاتی
+
+### 161. subsistierend
+* **E:** subsistence, subsistent, to subsist, subsisting
+* **F:** subsistant, subsister, en qualité de substance
+* **P:** مقرّر
+
+### 162. substantia
+* **E:** substance
+* **F:** substance
+* **P:** جوهر
+
+### 163. substantiae noumena
+* **P:** جوهرهای معقول، جوهرهای ذاتهای معقول
+
+### 164. substantia et accidens
+* **P:** جوهر و عرض
+
+### 165. das Substantiale
+* **E:** what is substantial
+* **F:** ce qu'il y a de substantiel
+* **P:** امر جوهری
+
+### 166. Substantialität
+* **E:** substantiality
+* **F:** substantialité
+* **P:** ذاتیت، جوهریت
+
+### 167. substantia phaenomenon
+* **P:** جوهر پدیده‌ها
+
+### 168. das substantielle Ganze
+* **E:** the substantial whole
+* **F:** le tout substantiel
+* **P:** کلّ جوهری
+
+### 169. das substantielle Zusammengesetzte
+* **E:** the composite of substances
+* **F:** le composé substantiel
+* **P:** امر مرکب جوهری
+
+### 170. substantive
+* **P:** به طور ذاتی [اویزرمن: по существу]
+
+### 171. Substanz
+* **E:** substance
+* **F:** substance
+* **P:** جوهر
+
+### 172. Substrat
+* **E:** substrate, substratum
+* **F:** substrat
+* **P:** فرولایه [عنایت]
+
+### 173. Substratum
+* **E:** substrate, substratum
+* **F:** substrat, substratum
+* **P:** فرولایه [عنایت]
+
+### 174. Subsum[p]tion
+* **E:** subsumption
+* **F:** subsomption
+* **P:** تابعیت، تابع‌سازی
+
+### 175. subtil
+* **E:** subtle
+* **F:** subtil
+* **P:** زیرکانه، ظریف، باریک، باریک‌بین
+
+### 176. Subtilität
+* **E:** subtlety
+* **F:** subtilité
+* **P:** نازک‌کاری زیرکانه، موشکافی
+
+### 177. Subtraktion
+* **E:** subtraction
+* **F:** soustraction
+* **P:** تفریق
+
+### 178. Sukzession
+* **E:** succession
+* **F:** succession
+* **P:** توالی
+
+### 179. sukzessiv
+* **E:** successive
+* **F:** successif
+* **P:** متوالی
+
+### 180. sukzessiver Regressus
+* **E:** successive regress
+* **F:** régression successive
+* **P:** سیر قهقرایی متوالی
+
+### 181. sukzessive Synthesis (Systhesis)
+* **E:** successive synthesis
+* **F:** synthèse successive
+* **P:** همنهاد متوالی
+
+### 182. sum cogitans
+* **P:** هستم فکرکننده، هستم متفکر
+
+### 183. summa intelligentia
+* **P:** عالیترین هوش، عالیترین هوشمند [nom. ; - acc. : summam intelligentiam]
+
+### 184. Summe
+* **E:** sum, as a whole
+* **F:** somme, ensemble
+* **P:** حاصل جمع؛ ماحصل
+
+### 185. supponieren
+* **E:** to suppose, to assume
+* **F:** supposer
+* **P:** فرض کردن [همچنین: انگاشتن، پنداشتن، زیرنهادن]
+
+### 186. suppositio absoluta
+* **P:** فرض مطلق
+
+### 187. Supposition
+* **E:** supposition
+* **F:** supposition
+* **P:** فرض
+
+### 188. suppositio relativa
+* **P:** فرض نسبی
+
+### 189. symbolisch
+* **E:** symbolic
+* **F:** symbolique
+* **P:** نمادین
+
+### 190. synonymisch
+* **E:** synonymous
+* **F:** comme synonyme, synonymique
+* **P:** مترادف
+
+### 191. Synopsis
+* **E:** synopsis
+* **F:** synopsis
+* **P:** همدید [خراسانی: «همبینی»]
+
+### 192. Synthesis
+* **E:** synthesis
+* **F:** synthèse
+* **P:** همنهاد، ترکیب
+
+### 193. synthesis der Apprehension
+* **E:** synthesis of apprehension
+* **F:** synthèse de l'appréhension
+* **P:** همنهاد ادراک ساده
+
+### 194. Synthesis der Begriffe
+* **E:** synthesis of the concepts
+* **F:** synthèse des concepts
+* **P:** همنهاد مفهومها
+
+### 195. synthesis intellectualis
+* **P:** ترکیب فکری
+
+### 196. synthesis speciosa
+* **P:** ترکیب مجازی
+
+### 197. synthetisch
+* **E:** synthetic, ~ally
+* **F:** synthétique, ~ment
+* **P:** همنهادی، همنهادانه، ترکیبی
+
+### 198. synthetische Einheit
+* **E:** synthetic unity
+* **F:** unité synthétique
+* **P:** یگانگی همنهادی
+
+### 199. synthetische Einheit der Apperzeption
+* **E:** synthetic unity of apperception
+* **F:** unité synthétique de l'aperception
+* **P:** یگانگی همنهادی خوداندریفت
+
+### 200. synthetische Erkenntnis
+* **E:** synthetic knowledge
+* **F:** connaissance synthétique
+* **P:** شناخت همنهادی
+
+### 201. synthetische Erkenntnisse a priori
+* **E:** a priori synthetic knowledge, synthetical cognitions a priori
+* **F:** connaissances synthétiques a priori
+* **P:** شناختهای همنهادی برتوم
+
+### 202. synthetische Grundbeschaffenheiten
+* **E:** fundamental synthetic properties
+* **F:** propriétés fondamentales synthétiques
+* **P:** چگونگیهای بنیادین همنهادی
+
+### 203. synthetischer Begriff
+* **E:** synthetic concept
+* **F:** concept synthétique
+* **P:** مفهوم همنهادی
+
+### 204. synthetischer Satz
+* **E:** synthetic proposition
+* **F:** proposition synthétique
+* **P:** گزارهٔ همنهادی
+
+### 205. synthetisches Urteil
+* **E:** synthetic judgment
+* **F:** jugement synthétique
+* **P:** داوری همنهادی
+
+### 206. synthetisches Verfahren
+* **E:** synthetic process
+* **F:** procédé synthétique
+* **P:** فراروند ترکیبی
+
+### 207. System
+* **E:** system
+* **F:** system
+* **P:** دستگاه
+
+### 208. systema assistentiae
+* **P:** نظام مساعدتی، نظام تعاونی، نظام معین [mo'in]
+
+### 209. systematisch
+* **E:** systematic, ~al, ~ally, in (a) systematic fashion
+* **F:** systématique, ~ment
+* **P:** دستگاه‌مند، دستگاه‌مندانه
+
+### 210. das Systematische
+* **E:** systematization, all that is systematic, what is systematic, the systematizing, the systematical character
+* **F:** le systématique, qq. ch. de systématique
+* **P:** جنبه دستگاه‌مندانه، عنصر دستگاه‌مندانه
+
+### 211. systematische Einheit
+* **E:** systematic unity
+* **F:** unité systématique
+* **P:** یگانگی دستگاه‌مندانه
+
+### 212. System der Epigenesis der reinen Vernunft
+* **E:** system of the epigenesis of pure reason
+* **F:** système de l'épigénèse de la raison pure
+* **P:** دستگاه آبی‌زایش خرد ناب، دستگاه تکوین متعاقب خرد ناب، دستگاه تکوین تدریجی خرد ناب
+
+### 213. System der sich selbst lohnende Moralität
+* **E:** system of self-rewarding morality
+* **F:** système de la moralité qui se récompense elle-même
+* **P:** اخلاق خودـ‌پاداش‌یابنده
+
+### 214. szientifisch
+* **E:** scientific
+* **F:** scientifique
+* **P:** علمی
+
+# واژه‌نامه سنجش خرد ناب - حرف T
+
+### 1. Tafel
+* **E:** table, tabular form
+* **F:** table, tableau
+* **P:** جدول
+
+### 2. Talent
+* **E:** talent
+* **F:** talent, don, disposition
+* **P:** موهبت، استعداد
+
+### 3. Taler / Thaler
+* **E:** thaler
+* **F:** thaler
+* **P:** تالر
+
+### 4. Tätigkeit
+* **E:** activity
+* **F:** activité
+* **P:** فعالیت
+
+### 5. Tatsache
+* **E:** fact
+* **F:** fait
+* **P:** بوده [معین]
+
+### 6. Täuschung
+* **E:** illusion, deception, fallacy
+* **F:** illusion
+* **P:** توهّم، پندارِ فریبنده، وهم فریبنده، پندار، وهم‌اندازی، وهم‌انگیزی
+
+### 7. Tautologie
+* **E:** tautology
+* **F:** tautologie
+* **P:** همانگویی
+
+### 8. tautologisch
+* **E:** tautological
+* **F:** tautologique
+* **P:** همانگویانه
+
+### 9. Technik
+* **E:** technique, technicality
+* **F:** technique
+* **P:** تشنیگ، اسلوب، فنّ
+
+### 10. technisch
+* **E:** technical, ~ly, technical fashion, in a technical fashion, in a technical manner
+* **F:** technique, ~ment, façon technique, de façon technique
+* **P:** فنّی، تشنیگی، تشنیگانه، تکنیکی
+
+### 11. Tecum habita et noris, quam sit tibi curta supellex.
+* **P:** در خانهٔ خویشتن می‌باش و بنگر، تا دریابی که اثاثه‌ات چه ساده است [Persius, Satirae, iv, 52.]
+
+### 12. Teil
+* **E:** part, detail, side; members
+* **F:** partie, détail; parti
+* **P:** بخش، جزء؛ طرف؛ زمره
+
+### 13. das Teilbare
+* **E:** the divisible
+* **F:** le divisible
+* **P:** امرِ بخش‌پذیر
+
+### 14. Teilbarkeit
+* **E:** divisibility
+* **F:** divisibilité
+* **P:** بخش‌پذیری
+
+### 15. Teilbegriff
+* **E:** constituent concept
+* **F:** concept partiel
+* **P:** مفهومِ فرعی
+
+### 16. Teile [MZ. ; - EZ. -> Teil]
+* **E:** details; parts
+* **F:** détails; parties
+* **P:** جزئیّات؛ جزءها، بخشها
+
+### 17. Teilung
+* **E:** division, divisibility
+* **F:** division
+* **P:** بخش کردن، بخشش، تقسیم
+
+### 18. teleologia rationis humanae
+* **P:** غایت‌شناسیِ عقلِ انسانی
+
+### 19. Teleologie
+* **E:** teleology
+* **F:** téléologie
+* **P:** غایت‌شناسی
+
+### 20. teleologische Absicht
+* **E:** teleological relation, teleological character
+* **F:** but téléologique
+* **P:** نگرگاهِ غایت‌شناختی
+
+### 21. teleologische Gesetze
+* **E:** teleological laws
+* **F:** lois téléologiques
+* **P:** قانونهای غایت‌شناختی
+
+### 22. teleologischer Zusammenhang
+* **E:** teleological connection
+* **F:** lien téléologique
+* **P:** همدوششِ غایت‌شناختی
+
+### 23. teleologische Verknüpfung
+* **E:** teleological connection
+* **F:** liaison téléologique
+* **P:** پیوستگیِ غایت‌شناختی
+
+### 24. Temperament
+* **E:** temperament
+* **F:** tempérament
+* **P:** خوی
+
+### 25. Theist
+* **E:** theist
+* **F:** théiste
+* **P:** خداپرستِ تشرّعی، خداگروِ تشرّعی، خداپرستِ ایمانی، خداپرستِ اَرْتادُخش، خداپرستِ اَرْتادَخش [ارتی‌دخش]
+
+### 26. theistisch
+* **E:** theistical, ~ly
+* **F:** théiste
+* **P:** خداگروانه، خداپرستانه، خداشناسانه
+
+### 27. Thema
+* **E:** theme
+* **F:** thème
+* **P:** نهشته [لوائی]، موضوع
+
+### 28. theologia rationalis
+* **P:** یزدانشناسیِ تعقّلی
+
+### 29. theologia revelata
+* **P:** یزدانشناسیِ مبتنی بر وحیِ مُنْزَل، یزدانشناسیِ وحیانی [بهاءالدین خرمشاهی: «وحیانی» برای revealed و revelatory]
+
+### 30. theologia transscendentalis
+* **P:** یزدانشناسیِ ترافرازنده
+
+### 31. Theologie
+* **E:** theology
+* **F:** théologie
+* **P:** یزدانشناسی [مقدّم]
+
+### 32. theologische Idee
+* **E:** theological idea
+* **F:** idée théologique
+* **P:** مینویِ یزدانشناختی
+
+### 33. theologische Moral
+* **E:** theological ethics
+* **F:** morale théologique
+* **P:** اخلاقِ یزدانشناختی
+
+### 34. theologisches Ideal
+* **E:** theological ideal
+* **F:** idéal théologique
+* **P:** مینوگانِ یزدانشناختی
+
+### 35. theoretisch
+* **E:** theoretical, ~ly
+* **F:** théorique, théoriquement
+* **P:** نظری، نظراً
+
+### 36. theoretische Astronomie
+* **E:** theoretical astronomy
+* **F:** astronomie théorique
+* **P:** اخترشناسیِ نظری
+
+### 37. theoretische Erkenntnis
+* **E:** theoretical knowledge
+* **F:** connaissance théorique
+* **P:** شناختِ نظری
+
+### 38. theoretische Erkenntnisquellen
+* **E:** theoretical sources of knowledge
+* **F:** sources théoriques de la connaissance
+* **P:** سرچشمه‌های نظریِ شناخت
+
+### 39. theoretisches Fürwahrhalten
+* **E:** theorical holding of a belief
+* **F:** croyance théorique
+* **P:** راست‌شماردنِ نظری
+
+### 40. theoretische Weltkenntnis
+* **E:** theoretical knowledge of the world
+* **F:** connaissance théorique du monde
+* **P:** جهان‌شناسیِ نظری
+
+### 41. Theorie
+* **E:** theory
+* **F:** théorie
+* **P:** نظریه
+
+### 42. Thesis
+* **E:** thesis
+* **F:** thèse
+* **P:** برنهاد [فروغی]
+
+### 43. thesis cum antithesi
+* **P:** برنهاد و پادنهاد
+
+### 44. Thetik
+* **E:** thetic
+* **F:** thétique
+* **P:** برنهادیک [همچنین: نهادیک]
+
+### 45. tierisch
+* **E:** animal
+* **F:** animal
+* **P:** جانوری
+
+### 46. Titel
+* **E:** title; title-deed; ground
+* **F:** titre
+* **P:** عنوان، نام؛ سند مالکیت، سند و عنوان
+
+### 47. Topik
+* **E:** topic
+* **F:** topique
+* **P:** طوبیقا
+
+### 48. Totalität
+* **E:** totality
+* **F:** totalité
+* **P:** تمامیت
+
+### 49. Totum / totum
+* **E:** totum
+* **F:** tout
+* **P:** تمامی
+
+### 50. tituliert
+* **E:** titled
+* **F:** régulier, avec le titre, titré, intitulé
+* **P:** مستند و با عنوان
+
+### 51. totum substantiale phaenomenon
+* **P:** تمامیِ جوهریِ پدیده‌ها
+
+### 52. Trägheit
+* **E:** inertia
+* **F:** inertie
+* **P:** لختی
+
+### 53. Traktat
+* **E:** treatise
+* **F:** traité
+* **P:** رساله
+
+### 54. transzendent
+* **E:** transcendent
+* **F:** transcendant
+* **P:** تراگذرنده
+
+### 55. transzendental
+* **E:** transcendental
+* **F:** transcendental
+* **P:** ترافرازنده
+
+### 56. das Transzendentale
+* **E:** the transcendental
+* **F:** le transcendantal
+* **P:** ترافرازندگار
+
+### 57. transzendentale Abzogenheit [sic]
+* **E:** transcendental abstractness
+* **F:** abstraction transcendantale
+* **P:** آهنجشِ ترافرازنده
+
+### 58. transzendentale Absicht
+* **E:** transcendental reference
+* **F:** point de vue transcendantal
+* **P:** نگرگاهِ ترافرازنده
+
+### 59. transzendentale Amphibolie
+* **E:** transcendental amphiboly
+* **F:** amphibolie transcendantale
+* **P:** ایهامِ ترافرازنده
+
+### 60. transzendentale Analytik
+* **E:** transcendental analytic
+* **F:** analytique transcendantale
+* **P:** آناکاویکِ ترافرازنده
+
+### 61. transzendentale Antithetik
+* **E:** transcendental antithetic
+* **F:** antithétique transcendantale
+* **P:** پادنهادیکِ ترافرازنده
+
+### 62. transzendentale Apperzeption
+* **E:** transcendental apperception
+* **F:** aperception transcendantale
+* **P:** خوداندریفتِ ترافرازنده
+
+### 63. transzendentale Ästhetik
+* **E:** transcendental aesthetic
+* **F:** esthétique transcendantale
+* **P:** حسّیکِ ترافرازنده
+
+### 64. transzendentale Atomistik
+* **E:** transcendental atomistic
+* **F:** atomistique transcendantale
+* **P:** اتمیستیکِ ترافرازنده [= ذرّه‌گراییِ ترافرازنده؛ مهدوی]
+
+### 65. transzendentale Aufgaben
+* **E:** transcendental problems
+* **F:** problèmes transcendantaux
+* **P:** مسئله‌های ترافرازنده
+
+### 66. transzendentale Bedeutung
+* **E:** transcendental meaning
+* **F:** sens transcendantal, signification transcendantale
+* **P:** معنای ترافرازنده
+
+### 67. transzendentale Bejahung
+* **E:** transcendental affirmation
+* **F:** affirmation transcendantale
+* **P:** هایشِ ترافرازنده
+
+### 68. transzendentale Deduktion
+* **E:** transcendental deduction
+* **F:** déduction transcendantale
+* **P:** تنقیحِ مناطِ ترافرازنده
+
+### 69. transzendentale Deduktion der reinen Verstandesbegriffe
+* **E:** transcendental deduction of the pure concepts of the understanding
+* **F:** déduction transcendantale des concepts purs de l'entendement
+* **P:** تنقیحِ مناطِ ترافرازنده مفهومهای ناب فهم
+
+### 70. transzendentale Dialektik
+* **E:** transcendental dialectic
+* **F:** dialectique transcendantale
+* **P:** دویچگویکِ ترافرازنده
+
+### 71. transzendentale Dogmatik
+* **E:** transcendental dogmatism
+* **F:** la dogmatique transcendantale
+* **P:** جزمیتِ ترافرازنده
+
+### 72. transzendentale Doktrin
+* **E:** transcendental doctrine
+* **F:** doctrine transcendantale
+* **P:** آفراهِ ترافرازنده
+
+### 73. transzendentale Doktrin der Urteilskraft
+* **E:** transcendental doctrine of judgment
+* **F:** doctrine transcendantale du jugement
+* **P:** افراهِ ترافرازندهٔ نیروی داوری
+
+### 74. transzendentale Einheit
+* **E:** transcendental unity
+* **F:** unité transcendantale
+* **P:** یگانگیِ ترافرازنده
+
+### 75. transzendentale Einheit der Apperzeption
+* **E:** transcendental unity of apperception
+* **F:** unité transcendantale de l'aperception
+* **P:** یگانگیِ ترافرازندهٔ خوداندریفت
+
+### 76. transzendentale Einsichten
+* **E:** transcendental insights
+* **F:** transcendental insights, vues transcendantales
+* **P:** بینشهای ترافرازنده
+
+### 77. transzendentale Elementارlehre (Elementarlehre)
+* **E:** transcendental doctrine of elements
+* **F:** théorie transcendantale des éléments
+* **P:** بن‌پارشناسیِ ترافرازنده
+
+### 78. transzendentale Erkenntnis
+* **E:** transcendental knowledge
+* **F:** connaissance transcendantale
+* **P:** شناختِ ترافرازنده
+
+### 79. transzendentale Erörterung
+* **E:** transcendental exposition
+* **F:** exposition transcendantale
+* **P:** شرحِ ترافرازنده
+
+### 80. transzendentale Fragen
+* **E:** transcendental questions
+* **F:** questions transcendantales
+* **P:** پرسشهای ترافرازنده
+
+### 81. transzendentale Freiheit
+* **E:** transcendental freedom
+* **F:** liberté transcendantale
+* **P:** آزادیِ ترافرازنده
+
+### 82. transzendentale Funktion
+* **E:** transcendental function
+* **F:** fonction transcendantale
+* **P:** کارکردِ ترافرازنده
+
+### 83. transzendentale Gotteserkenntnis
+* **E:** transcendental knowledge of God
+* **F:** théeologie transcendantale
+* **P:** خداشناسیِ ترافرازنده
+
+### 84. transzendentale Grundsätze
+* **E:** transcendental principles
+* **F:** principes transcendantaux
+* **P:** آغازه‌های ترافرازنده
+
+### 85. transzendentale Hypothese
+* **E:** transcendental hypothesis
+* **F:** hypothèse transcendantale
+* **P:** فرضیّهٔ ترافرازنده
+
+### 86. transzendentale Idealität
+* **E:** transcendental ideality
+* **F:** idéalité transcendantale
+* **P:** مینوشِ ترافرازنده
+
+### 87. transzendentale Ideen
+* **E:** transcendental ideas
+* **F:** idées transcendantales
+* **P:** مینوهای ترافرازنده
+
+### 88. transzendentale Illusion
+* **E:** transcendental illusion
+* **F:** illusion transcendantale
+* **P:** پندارِ باطلِ ترافرازنده
+
+### 89. transzendentale Kosmologie
+* **E:** transcendental cosmology
+* **F:** cosmologie transcendantale
+* **P:** کیهان‌شناسیِ ترافرازنده
+
+### 90. transzendentale Kritik
+* **E:** transcendental critique
+* **F:** critique transcendantale
+* **P:** سنجشِ ترافرازنده
+
+### 91. transzendentale Logik
+* **E:** transcendental logic
+* **F:** logique transcendantale
+* **P:** منطقِ ترافرازنده
+
+### 92. transzendentale Materie
+* **E:** transcendental matter
+* **F:** matière transcendantale
+* **P:** مادّهٔ ترافرازنده
+
+### 93. transzendentale Methodenlehre
+* **E:** transcendental doctrine of method
+* **F:** théorie transcendantale de la méthode
+* **P:** روش‌شناسیِ ترافرازنده
+
+### 94. transzendentale Möglichkeit
+* **E:** transcendental possibility
+* **F:** possibilité transcendantale
+* **P:** امکانِ ترافرازنده
+
+### 95. transzendentale Nachforschung
+* **E:** transcendental investigation
+* **F:** investigation transcendantale
+* **P:** پژوهشِ ترافرازنده
+
+### 96. transzendentale Naturgesetze
+* **E:** transcendental laws of nature
+* **F:** lois transcendantales de la nature
+* **P:** قانونهای ترافرازندهٔ طبیعت
+
+### 97. transzendentale Physiokratie
+* **E:** transcendental physiocracy
+* **F:** physiocratie transcendantale
+* **P:** گیتی‌سالاریِ ترافرازنده
+
+### 98. transzendentale Prädikate
+* **E:** transcendental predicates
+* **F:** prédicats transcendantaux
+* **P:** محمولهای ترافرازنده
+
+### 99. transzendentale Psychologie
+* **E:** transcendental psychology
+* **F:** psychologie transcendantale
+* **P:** روانشناسیِ ترافرازنده
+
+### 100. transzendentaler Begriff
+* **E:** transcendental concept
+* **F:** concept transcendantal
+* **P:** مفهومِ ترافرازنده
+
+### 101. transzendentaler Beweis
+* **E:** transcendental proof
+* **F:** preuve transcendantale
+* **P:** برهانِ ترافرازنده
+
+### 102. transzendentaler Dualism
+* **E:** transcendental dualism
+* **F:** dualisme transcendantal
+* **P:** دوگرویِ ترافرازنده
+
+### 103. transzendentale Realität
+* **E:** transcendental reality
+* **F:** réalité transcendantale
+* **P:** واقعیتِ ترافرازنده
+
+### 104. transzendentale Reflexion
+* **E:** transcendental reflection
+* **F:** réflexion transcendantale
+* **P:** تأمّلِ ترافرازنده
+
+### 105. transzendentaler Gebrauch
+* **E:** transcendental employment
+* **F:** usage transcendantal
+* **P:** کاربردِ ترافرازنده
+
+### 106. transzendentaler Gegenstand
+* **E:** transcendental object
+* **F:** objet transcendantal
+* **P:** برابرایستایِ ترافرازنده
+
+### 107. transzendentaler Gesichtspunkt
+* **E:** transcendental point of view
+* **F:** point de vue transcendantal
+* **P:** دیدگاهِ ترافرازنده
+
+### 108. transzendentaler Grund
+* **E:** transcendental ground
+* **F:** principe transcendantal
+* **P:** بنیادِ ترافرازنده
+
+### 109. transzendentaler Idealism
+* **E:** transcendental idealism
+* **F:** idéalisme transcendantal
+* **P:** مینوگرویِ ترافرازنده
+
+### 110. transzendentaler Idealist
+* **E:** transcendental idealist
+* **F:** idéaliste transcendantal
+* **P:** مینوگروِ ترافرازنده
+
+### 111. transzendentaler Obersatz
+* **E:** transcendental major premiss
+* **F:** majeure transcendantale
+* **P:** مقدمهٔ مهینِ ترافرازنده
+
+### 112. transzendentaler Ort
+* **E:** transcendental location
+* **F:** lieu transcendantal
+* **P:** حیزِ ترافرازنده
+
+### 113. transzendentaler Paralogismus
+* **E:** transcendental paralogism
+* **F:** paralogisme transcendantal
+* **P:** پاراگوییِ ترافرازنده
+
+### 114. transzendentaler Realism
+* **E:** transcendental realism
+* **F:** réalisme transcendantal
+* **P:** واقعیت‌گرویِ ترافرازنده
+
+### 115. transzendentaler Realismus
+* **E:** transcendental realism
+* **F:** réalisme transcendantal
+* **P:** واقعیت‌گرویِ ترافرازنده
+
+### 116. transzendentaler Realist
+* **E:** transcendental realist
+* **F:** réaliste transcendantal
+* **P:** واقعیت‌گروِ ترافرازنده
+
+### 117. transzendentaler Schein
+* **E:** transcendental illusion, transcendental illusory appearance
+* **F:** apparence transcendantale
+* **P:** فرانمودِ ترافرازنده
+
+### 118. transzendentaler Sinn
+* **E:** transcendental sense
+* **F:** sens transcendantal
+* **P:** معنایِ ترافرازنده
+
+### 119. transzendentaler Unterschied
+* **E:** transcendental distinction
+* **F:** distinction transcendantale
+* **P:** فرقِ ترافرازنده
+
+### 120. transzendentaler Vernunftbegriff
+* **E:** transcendental concept of reason, concept of pure reason
+* **F:** concept rationnel transcendantal, concept transcendantal de la raison
+* **P:** مفهومِ ترافرازندهٔ خرد
+
+### 121. transzendentaler Verstand
+* **E:** transcendental sense
+* **F:** sens transcendantal
+* **P:** مفهومِ ترافرازنده
+
+### 122. transzendentale Sätze
+* **E:** transcendental propositions
+* **F:** propositions transcendantales
+* **P:** گزاره‌های ترافرازنده
+
+### 123. transzendentales Bewußtsein
+* **E:** transcendental consciousness
+* **F:** conscience transcendantale
+* **P:** آگاهیِ ترافرازنده
+
+### 124. transzendentales Ding
+* **E:** transcendental thing
+* **F:** chose transcendantale
+* **P:** شیءِ ترافرازنده
+
+### 125. transzendentale Seelenlehre
+* **E:** transcendental doctrine of the soul, transcendental psychology
+* **F:** psychologie transcendantale
+* **P:** روح‌شناسیِ ترافرازنده
+
+### 126. transzendentale Seite
+* **E:** transcendental side
+* **F:** côté transcendantal
+* **P:** جنبهٔ ترافرازنده
+
+### 127. transzendentales Gesetz der Spezifikation
+* **E:** transcendental law of specification
+* **F:** loi transcendantale de la spécification
+* **P:** قانونِ ترافرازندهٔ تخصیص
+
+### 128. transzendentales Ideal / das transzendentale Ideal
+* **E:** the transcendental ideal
+* **F:** l'idéal transcendantal
+* **P:** مینوگانِ ترافرازنده
+
+### 129. transzendentales Naturgesetz der Kausalität
+* **E:** transcendental law of natural causality, transcendental law of causality in nature
+* **F:** loi naturelle transcendantale de la causalité
+* **P:** قانونِ طبیعیِ ترافرازندهٔ علّیت، قانونِ ترافرازندهٔ علّیت در طبیعت
+
+### 130. transzendentales Objekt
+* **E:** transcendental object
+* **F:** objet transcendantal
+* **P:** برون‌آختهٔ ترافرازنده
+
+### 131. transzendentales Prinzip
+* **E:** transcendental principle
+* **F:** principe transcendantal
+* **P:** اصلِ ترافرازنده
+
+### 132. transzendentales Prinzipium
+* **E:** transcendental principle
+* **F:** principe transcendantal
+* **P:** اصلِ ترافرازنده
+
+### 133. transzendentales Richtmaß
+* **E:** transcendental criterion
+* **F:** règle transcendantale, mesure transcendantale
+* **P:** سنجهٔ ترافرازنده
+
+### 134. transzendentales Schema
+* **E:** transcendental schema
+* **F:** schème transcendantal
+* **P:** دیسه‌نمایِ ترافرازنده
+
+### 135. transzendentales Subjekt
+* **E:** transcendental subject
+* **F:** sujet transcendantal
+* **P:** درون‌آختهٔ ترافرازنده؛ موضوعِ ترافرازنده
+
+### 136. transzendentale Steigerung
+* **E:** transcendental enlargement, transcendental development
+* **F:** élévation transcendantale
+* **P:** ارتقاء ترافرازنده
+
+### 137. transzendentale (subjektive) Realität
+* **E:** transcendental (subjective) reality
+* **F:** réalité transcendantale (subjective)
+* **P:** واقعیتِ ترافرازنده (ذهنی)
+
+### 138. transzendentale Subreption
+* **E:** transcendental subreption
+* **F:** subreption transcendantale
+* **P:** ترافریفتگاریِ ترافرازنده
+
+### 139. transzendentales Verfahren
+* **E:** transcendental procedure
+* **F:** méthode transcendantale, procédé transcendantal
+* **P:** فراروند ترافرازنده
+
+### 140. transzendentales Vermögen der Einbildungskraft
+* **E:** transcendental faculty of imagination
+* **F:** faculté transcendantale de l'imagination
+* **P:** قوّهٔ ترافرازندهٔ نیروی انگارش
+
+### 141. transzendentale Synthesis
+* **E:** transcendental synthesis
+* **F:** synthèse transcendantale
+* **P:** همنهادِ ترافرازنده
+
+### 142. transzendentale Synthesis der Einbildungskraft
+* **E:** transcendental synthesis of imagination
+* **F:** synthèse transcendantale de l'imagination
+* **P:** همنهادِ ترافرازندهٔ نیروی انگارش
+
+### 143. transzendentale tafel der Kategorien [sic]
+* **E:** transcendental table of the categories
+* **F:** table transcendantale des catégories
+* **P:** جدول ترافرازندهٔ مقوله‌ها
+
+### 144. transzendentale Theologie
+* **E:** transcendental theology
+* **F:** théologie transcendantale
+* **P:** یزدانشناسیِ ترافرازنده
+
+### 145. transzendentale Topik
+* **E:** transcendental topic
+* **F:** topique transcendantale
+* **P:** طوبیقای ترافرازنده
+
+### 146. transzendentale Überlegung
+* **E:** transcendental reflection
+* **F:** réflexion transcendantale
+* **P:** سگالش ترافرازنده
+
+### 147. transzendentale Urteilskraft
+* **E:** transcendental judgment, transcendental faculty of judgment
+* **F:** jugement transcendantal, faculté de jugement transcendantal, faculté transcendantale de jugement
+* **P:** نیروی داوریِ ترافرازنده
+
+### 148. transzendentale Verneinung
+* **E:** transcendental negation
+* **F:** négation transcendantale
+* **P:** نایشِ ترافرازنده
+
+### 149. transzendentale Vernunft
+* **E:** transcendental reason
+* **F:** raison transcendantale
+* **P:** خردِ ترافرازنده
+
+### 150. transzendentale Vernunftaufgaben
+* **E:** transcendental problems of reason
+* **F:** problèmes rationnels transcendantaux
+* **P:** مسئله‌های ترافرازنده خرد
+
+### 151. transzendentale Versuche
+* **E:** transcendental enterprises
+* **F:** tentatives transcendantales
+* **P:** کوششهای ترافرازنده
+
+### 152. transzendentale Voraussetzung
+* **E:** transcendental presupposition, transcendental precondition
+* **F:** supposition transcendantale, présupposition transcendantale
+* **P:** فرضِ پیشینِ ترافرازنده
+
+### 153. transzendentale Vorstellung
+* **E:** transcendental representation
+* **F:** représentation transcendantale
+* **P:** تصوّرِ ترافرازنده
+
+### 154. transzendentale Wahrheit
+* **E:** transcendental truth
+* **F:** vérité transcendantale
+* **P:** حقیقتِ ترافرازنده
+
+### 155. transzendentale Welterkenntnis
+* **E:** transcendental knowledge of the world
+* **F:** cosmologie transcendantale
+* **P:** جهانشناسیِ ترافرازنده
+
+### 156. transzendentale Weltwissenschaft
+* **E:** transcendental science of the world
+* **F:** cosmologie transcendantale
+* **P:** جهانشناسیِ ترافرازنده
+
+### 157. transzendental-idealisierende Vernunft
+* **E:** transcendentally idealizing reason
+* **F:** raison idéalisante de façon transcendantale
+* **P:** خرد ترافرازنده ـ مینوتوده [همچنین: خرد مینوتوده به شیوهٔ ترافرازنده، خرد ترافرازنده مینوتوده]
+
+### 158. Transzendentalphilosophie / Transzental-Philosophie [sic]
+* **E:** transcendental philosophy
+* **F:** philosophie transcendantale
+* **P:** فلسفهٔ ترافرازنده
+
+### 159. transzendente Anmaßungen
+* **E:** transcendent pretensions
+* **F:** prétentions transcendantes
+* **P:** ادعاهای تراگذرنده
+
+### 160. transzendente Begriffe
+* **E:** transcendent concepts
+* **F:** concepts transcendants
+* **P:** مفهومهای تراگذرنده
+
+### 161. transzendente Erkenntnisse
+* **E:** transcendent knowledge, transcendent knowledges, transcendent modes of knowledge, transcendent cognitions
+* **F:** connaissances transcendantes
+* **P:** شناختهای تراگذرنده
+
+### 162. transzendente Grundsätze
+* **E:** transcendent principles
+* **F:** principes transcendants
+* **P:** آغازه‌های تراگذرنده
+
+### 163. transzendente Ideen
+* **E:** transcendent ideas
+* **F:** idées transcendantes
+* **P:** مینوهای تراگذرنده
+
+### 164. transzendente Naturbegriffe
+* **E:** transcendent concepts of nature
+* **F:** concepts transcendants de la nature
+* **P:** مفهومهای تراگذرندهٔ طبیعت
+
+### 165. transzendente Philosophie
+* **E:** transcendent philosophy
+* **F:** philosophie transcendante
+* **P:** فلسفهٔ تراگذرنده
+
+### 166. transzendenter Gebrauch
+* **E:** transcendent employment, transcendent use
+* **F:** usage transcendant
+* **P:** کاربردِ تراگذرنده
+
+### 167. transzendenter Vernunftbegriff des Unbedingten
+* **E:** reason's transcendent concept of the unconditioned
+* **F:** concept rationnel transcendant de l'inconditionné
+* **P:** مفهوم خردی تراگذرندهٔ امر نامشروط
+
+### 168. transzendente Spekulation
+* **E:** transcendent speculation
+* **F:** spéculation transcendante
+* **P:** نگرورزیِ تراگذرنده
+
+### 169. transzendente und dialektische Vernunftschlüsse
+* **E:** transcendent and dialectical inferences
+* **F:** raisonnements transcendants et dialectiques
+* **P:** قیاسهای خردی تراگذرنده و دویچگویانه
+
+### 170. transzendente Vernunft
+* **E:** transcendent reason
+* **F:** raison transcendante
+* **P:** خردِ تراگذرنده
+
+### 171. Traum
+* **E:** dream
+* **F:** rêve
+* **P:** رؤیا
+
+### 172. Trieb
+* **E:** demand, striving, drive
+* **F:** passion, penchant
+* **P:** رائد
+
+### 173. Triebfeder
+* **E:** motive, spring, impulse
+* **F:** mobile
+* **P:** انگیزاننده
+
+### 174. trüglicher Schein
+* **E:** deceptive illusion
+* **F:** apparence trompeuse
+* **P:** فرانمودِ دروغین
+
+### 175. trügliche Vorstellungen
+* **E:** illusory representations
+* **F:** représentations trompeuses
+* **P:** تصوّرهای دروغین
+
+### 176. Trugschluß
+* **E:** formal fallacy, deceptive inference, sophistical argument, reasoning fallaciously
+* **F:** paralogisme, raisonnement captieux
+* **P:** قیاسِ دروغین
+
+### 177. Tugend
+* **E:** virtue
+* **F:** vertu
+* **P:** پرهیزگاری
+
+### 178. Tugendlehre
+* **E:** doctrine of virtues
+* **F:** théorie des vertus, éthique
+* **P:** آموزهٔ پرهیزگاری
+
+### 179. das Tun oder Lassen
+* **E:** what ought or ought not to be done
+* **F:** que du faire ou du ne pas faire
+* **P:** عمل کردن یا عمل نکردن، فعل یا ترک فعل
+
+### 180. das Tun und Handeln
+* **E:** action, acting and handling
+* **F:** pratique, action
+* **P:** عمل و معامله
+
+### 181. das Tun und Lassen
+* **E:** what is and is not to be done, all our actions
+* **F:** ce qu'il faut faire et ne pas faire, le faire et le ne pas faire
+* **P:** عمل کردن و عمل نکردن، فعل یا ترک فعل
+
+# واژه‌نامه سنجش خرد ناب - حرف V
+
+### 1. Vakuum
+* **E:** vacuum
+* **F:** vacuum
+* **P:** خلاً
+
+### 2. Varietät
+* **E:** variety
+* **F:** variété
+* **P:** تنوّع
+
+### 3. Vehikel
+* **E:** vehicle
+* **F:** véhicule
+* **P:** وسیلهٔ نقلیه [همچنین: محمل]
+
+### 4. vel suaveolens vel non suaveolens
+* **P:** یا معطّر است یا معطّر نیست
+
+### 5. Verachtung
+* **E:** dislike, contempt, to despise, to scorn
+* **F:** mépris
+* **P:** بی‌حرمتی، تحقیر
+
+### 6. Veränderlichkeit
+* **E:** alterableness
+* **F:** mutabilité
+* **P:** تغییرپذیری
+
+### 7. Veränderung
+* **E:** alteration, revolution, change; substituting ... for ...
+* **F:** changement, changement d'existence, révolution; substituant ... pour ...
+* **P:** دگرگون‌سازی، دگرگونی، تغییر
+
+### 8. Verbindlichkeit
+* **E:** obligation, duty
+* **F:** obligation
+* **P:** تعهّد
+
+### 9. Verbindung
+* **E:** combination, connection
+* **F:** liaison, synthèse, union
+* **P:** همبستگی، بستگی، پیوند
+
+### 10. Verbum
+* **E:** verb
+* **F:** verbe
+* **P:** فعلِ دستوری
+
+### 11. Vereinigung
+* **E:** union, unification, harmony, to harmonize, harmonizing; society, connection, connecting, relation
+* **F:** liaison, connexion, en rapport, enchaînement
+* **P:** پیوستگی، پیوند، اتصال
+
+### 12. Vermehrung
+* **E:** increment, addition, enlargement, multiplication, augmentation
+* **F:** augmentation, étendre, augmenter, extension, multiplication
+* **P:** افزونش
+
+### 13. vermittels(t)
+* **E:** through, by means of, in virtue of, by, par, au moyen de
+* **F:** par, au moyen de
+* **P:** به میانجی [ناصرخسرو]، به واسطهٔ
+
+### 14. Vermögen
+* **E:** faculty, capacity, power; financial position
+* **F:** pouvoir, argent
+* **P:** توانش، قوّه؛ دارایی
+
+### 15. Vermögensumstände
+* **E:** faculties, condition of faculties, circumstances of faculties
+* **F:** facultés, condition des facultés, circonstance des facultés
+* **P:** وضعیتِ توانش [همچنین: اوضاع و احوالِ توانش، وضعیتِ قوه‌ها، قوه‌ها، قوا]
+
+### 16. Vermutung
+* **E:** conjecture, conjecturing
+* **F:** conjecture, supposer
+* **P:** گمان، حدس
+
+### 17. verneinen
+* **E:** to negate, to say no
+* **F:** nier
+* **P:** ناییدن، نه گفتن، نفی کردن
+
+### 18. das Verneinen
+* **E:** negation
+* **F:** négation
+* **P:** نایش [= سلب = نفی = نقض؛ از مصدر برساختهٔ «*ناییدن»: نه گفتن، ناگفتن، نفی کردن؛ ــ هومن: «نه گویی»]
+
+### 19. verneinend
+* **E:** negative, denying
+* **F:** négatif, ce qui nie
+* **P:** نایی [لوائی، بهروز؛ ــ خراسانی: «نی‌گوی»؛ ــ هومن: «نه گو»]، ناینده، منفی، سلبی، سالب (سالبه)؛ نایانه، به طور نایی، در جهت نایی، نفیاً، سلباً؛ ناقض
+
+### 20. verneinende Urteile
+* **E:** negative judgments
+* **F:** jugements négatifs
+* **P:** داوریهای نایی
+
+### 21. Verneinung
+* **E:** negation, denial
+* **F:** négation
+* **P:** نایش [= سلب = نفی = نقض]
+
+### 22. Vernichtung
+* **E:** annihilation, extermination
+* **F:** anéantissement, anéantir
+* **P:** نابودی، نابود کردن، نیست کردن
+
+### 23. Vernunft
+* **E:** reason
+* **F:** raison
+* **P:** خرد
+
+### 24. Vernunftbegriff
+* **E:** concept of reason, idea
+* **F:** concept de la raison, concept rationnel
+* **P:** مفهومِ خرد، مفهومِ خردی
+
+### 25. Vernunfteinheit
+* **E:** unity of reason
+* **F:** unité rationnelle, unité de la raison
+* **P:** یگانگیِ خرد، یگانگیِ خردی
+
+### 26. Vernunfteinsicht
+* **E:** reason's insight, reason having insight
+* **F:** lumières de la raison
+* **P:** بینشِ خرد
+
+### 27. Vernunftelei
+* **E:** show of rationality
+* **F:** sophisme
+* **P:** خردپردازی
+
+### 28. vernünfteln
+* **E:** to speculate, to argue, to reason, to subtilize, to propound plausible arguments
+* **F:** raisonner, raisonner subtilement
+* **P:** خردپردازی کردن، خردپردازی نمودن
+
+### 29. vernünftelnد (vernünftelnd)
+* **E:** pseudorational, pseudo-rational
+* **F:** sophistique, soi-disant rationnel
+* **P:** خردپردازانه
+
+### 30. vernünftelnde Begriffe
+* **E:** pseudo-rational concepts
+* **F:** concepts sophistiques
+* **P:** مفهومهای خردپردازانه
+
+### 31. vernünftelde (dialektische) Begriffe
+* **E:** pseudo-rational (dialectical) concepts
+* **F:** concepts sophistiques (dialectiques)
+* **P:** مفهومهای خردپردازانه (دویچگویانه)
+
+### 32. vernünftelnder Schluß
+* **E:** pseudo-rational conclusion, pseudo-rational inference
+* **F:** conclusion sophistique, raisonnement méritant le nom de sophisme
+* **P:** قیاسِ خردپردازانه (دویچگویانه)
+
+### 33. Vernunfterkenntnis
+* **E:** science of reason, knowledge of reason, rational knowledge
+* **F:** connaissance de la raison, connaissance rationnelle
+* **P:** شناختِ خرد، شناختِ خردی
+
+### 34. Vernunftform
+* **E:** form of reason
+* **F:** forme rationnelle
+* **P:** صورتِ خرد
+
+### 35. Vernunftgebrauch
+* **E:** employment of reason
+* **F:** usage de raison
+* **P:** کاربردِ خرد
+
+### 36. Vernunftgeschäft
+* **E:** work of reason, province of reason
+* **F:** opération reationnelle, domaine de la raison
+* **P:** حیطهٔ کارِ خرد، عملِ خرد
+
+### 37. Vernunftgesetze
+* **E:** laws of reason
+* **F:** lois rationnelles
+* **P:** قانونهای خرد
+
+### 38. Vernunftglaube
+* **E:** rational belief
+* **F:** foi rationnelle
+* **P:** گروشِ خرد
+
+### 39. Vernunfthandlung
+* **E:** action of reason, activity of reason
+* **F:** acte de la raison, procédé de la raison
+* **P:** کنشِ خرد
+
+### 40. Vernunftidee
+* **E:** rational idea, idea of reason
+* **F:** idée rationnelle
+* **P:** مینویِ خرد
+
+### 41. vernünftig
+* **E:** rational, reasonable
+* **F:** rationnel, raisonnable
+* **P:** بخرد، بخردانه، خردمندانه، خردورزانه
+
+### 42. Vernunftkünstler
+* **E:** artificer in the field of reason, one who practises the art of reason, virtuoso of reason
+* **F:** artisan de la raison, artiste de la raison, virtuose de la raison
+* **P:** خردورز، هنرمندِ خرد، فتانِ خرد، ویرتئوزِ خرد
+
+### 43. Vernunftlehre
+* **E:** doctrine of reason
+* **F:** théorie de la raison
+* **P:** خردشناسی
+
+### 44. Vernünftler
+* **E:** reasoner, sophist
+* **F:** raisonneur, sophiste
+* **P:** خردورز، خردپرداز
+
+### 45. Vernunftmäßigkeit
+* **E:** rationality, reasonableness, reasonability
+* **F:** ce qu'il y a de raisonnable, le raisonnable, *raisonnabilité
+* **P:** خردمندانیگی
+
+### 46. Vernunftprinzip
+* **E:** principle of reason, rational principle
+* **F:** principe de la raison, principe rationnel
+* **P:** اصلِ خرد
+
+### 47. Vernunftsatz
+* **E:** principle of reason, proposition of reason
+* **F:** principe rationnel, proposition rationnelle
+* **P:** گزارهٔ خرد
+
+### 48. Vernunftschluß
+* **E:** syllogism, rational conclusion, inference of the reason
+* **F:** raisonnement, syllogisme, raisonnement de raison, inférence rationnelle
+* **P:** قیاسِ خردی [ناصر خسرو: «قیاسِ عقلیِ برهانی»]
+
+### 49. Vernunftvermögen
+* **E:** faculty of reason
+* **F:** pouvoir de la raison, pouvoir rationnel
+* **P:** قوّهٔ خرد
+
+### 50. Vernunftwesen
+* **E:** object as entertained by reason, Being [subst.] demanded by reason
+* **F:** être de raison
+* **P:** هستومندِ خردی
+
+### 51. Vernunftwissenschaft
+* **E:** rational science, science
+* **F:** science rationnelle
+* **P:** دانشِ خردی
+
+### 52. Verschiedenheit
+* **E:** difference
+* **F:** diversité, manière diverse, différence
+* **P:** گوناگونی، اختلاف
+
+### 53. das Verschwinden
+* **E:** vanishing, complete vanishing, extinction
+* **F:** progression empirique, progrès de l'expérience
+* **P:** اضمحلال، ناپدید شدن
+
+### 54. Verstand
+* **E:** understanding; sense
+* **F:** entendement; sens
+* **P:** فهم؛ معنا، مفهوم
+
+### 55. Verstandesbegriffe
+* **E:** concepts of understanding
+* **F:** concepts de l'entendement
+* **P:** مفهومهای فهم
+
+### 56. Verstandeseinheit
+* **E:** unity of understanding
+* **F:** unité de l'entendement, unité intellectuelle
+* **P:** یگانگیِ فهم
+
+### 57. Verstandeseinsicht
+* **E:** intellectual insight
+* **F:** vue de l'entendement
+* **P:** بینشِ فهم
+
+### 58. Verstandeserkenntnis
+* **E:** knowledge yielded by the understanding, knowledge of understanding, knowledge obtained through the understanding
+* **F:** connaissance de l'entendement, connaissance intellectuelle
+* **P:** شناختِ فهم
+
+### 59. Verstandeserkenntnis a priori
+* **E:** a priori knowledge yielded by the understanding
+* **F:** connaissance intellectuelle a priori
+* **P:** شناختِ برتومِ فهم
+
+### 60. Verstandesform
+* **E:** form of understanding
+* **F:** forme de l'entendement
+* **P:** صورتِ فهم
+
+### 61. Verstandesgebrauch
+* **E:** employment of the understanding, understanding in its employment
+* **F:** usage de l'entendement
+* **P:** کاربردِ فهم
+
+### 62. Verstandesgesetze
+* **E:** laws of understanding
+* **F:** lois de l'entendement
+* **P:** قانونهای فهم
+
+### 63. Verstandesgrundsätze
+* **E:** principles of understanding
+* **F:** principes de l'entendement
+* **P:** آغازه‌های فهم
+
+### 64. Verstandeshandlung
+* **E:** act of the understanding, act of understanding
+* **F:** acte de l'entendement
+* **P:** کنشِ فهم
+
+### 65. Verstandesregeln
+* **E:** rules of understanding
+* **F:** règles de l'entendement
+* **P:** قاعده‌های فهم
+
+### 66. Verstandesschluß
+* **E:** inference of the understanding
+* **F:** raisonnement d'entendement
+* **P:** قیاسِ فهمی
+
+### 67. Verstandesurteil
+* **E:** judgment of the understanding
+* **F:** jugement de l'entendement
+* **P:** داوریِ فهم
+
+### 68. Verstandesverbindung
+* **E:** combination through the understanding
+* **F:** synthèse intellectuelle
+* **P:** همبستگیِ فهم
+
+### 69. Verstandesvermögen
+* **E:** faculty of the understanding
+* **F:** pouvoir de l'entendement
+* **P:** قوّهٔ فهم
+
+### 70. Verstandeswelt
+* **E:** world of the understanding
+* **F:** monde de l'entendement
+* **P:** جهانِ فهم، جهانِ فهمی
+
+### 71. Verstandeswesen
+* **E:** intelligible entity, [a] being as conceived by the understanding
+* **F:** être de l'entendement, être intelligible
+* **P:** هستومندِ فهمی
+
+### 72. Versuch
+* **E:** attempt, effort, experiment, test by an experiment
+* **F:** tentative, recherche, essayer, effort
+* **P:** کوشش، کوشش آزمایشی، آزمایش
+
+### 73. Verteidiger
+* **E:** defender
+* **F:** défenseur, celui qui défend
+* **P:** پدافنده [= مدافع]
+
+### 74. Verteidigung
+* **E:** defence, defense
+* **F:** défendre, défense
+* **P:** پدافند [= دفاع]
+
+### 75. verwandeln
+* **E:** to change
+* **F:** transformer
+* **P:** ترادیسیدن
+
+### 76. Verwandtschaft
+* **E:** relationship, kinship, affinity
+* **F:** parenté, affinité
+* **P:** خویشاوندی
+
+### 77. veto
+* **P:** من منع می‌کنم، رأیِ مخالف می‌دهم
+
+### 78. das Viele / Vieles
+* **E:** many
+* **F:** many, plusieur
+* **P:** بسیار
+
+### 79. vielfarbiges verschiedenes Selbst
+* **E:** many-coloured and diverse a self
+* **F:** un moi divers et de couleurs
+* **P:** خویشتن‌های گونه‌گون و مختلف
+
+### 80. Vielgötterei
+* **E:** polytheism
+* **F:** polythéisme
+* **P:** چندخدایی
+
+### 81. Vielheit
+* **E:** plurality
+* **F:** pluralité
+* **P:** بسیاری [ابن‌سینا؛ ــ هومن]
+
+### 82. vier syllogistische Figuren
+* **E:** four syllogistic figures
+* **F:** quatre figures du syllogisme
+* **P:** شکلهای چهارگانهٔ قیاسِ صوری
+
+### 83. Vollendung
+* **E:** completion, completing, to complete
+* **F:** achèvement, exécution complète, accomplissement, compléter, avoir accompli
+* **P:** فرساختش، کامل شدن، انجام شدن، فرجامش
+
+### 84. vollkommene Einheit
+* **E:** perfect unity
+* **F:** parfaite unité
+* **P:** یگانگیِ کامل
+
+### 85. Vollkommenheit
+* **E:** perfection
+* **F:** perfection
+* **P:** کمال
+
+### 86. vollständig
+* **E:** complete, ~ly, exhaustive, ~ly, within completeness
+* **F:** plète, plein, intégral, ~ement, parfaitement
+* **P:** فرآراسته، به سان فرآراسته، کامل، به سان کامل، کاملاً، تماماً
+
+### 87. Vollständigkeit
+* **E:** completeness
+* **F:** perfection, intégrité
+* **P:** فرآراستگی [افنان: «آراستگی»]
+
+### 88. Vollzähligkeit
+* **E:** complete enumeration
+* **F:** énumération
+* **P:** فر شمارش
+
+### 89. Volumen
+* **E:** volume
+* **F:** volume
+* **P:** حجم
+
+### 90. von Ewigkeit zu Ewigkeit
+* **E:** from eternity to eternity
+* **F:** de toute éternité
+* **P:** از ازل تا به ابد
+
+### 91. von selbst
+* **E:** in itself, of itself
+* **F:** par lui-même
+* **P:** ذاتاً [همچنین: از خود]
+
+### 92. voraussetzen
+* **E:** to presuppose
+* **F:** présupposer
+* **P:** در پیش فرض کردن [همچنین: از پیش فرض کردن، مقدمتاً فرض کردن]
+
+### 93. Voraussetzung
+* **E:** assumption, presupposition, precondition, starting-point, hypothesis, presupposing, postulate
+* **F:** hypothèse, supposition, présupposition, supposition préalable, *précondition
+* **P:** فرضِ بیشین [خراسانی؛ ــ هومن: «پیش‌گزارده»؛ همچنین: پیش‌برنهش]
+
+### 94. vorgestellt
+* **E:** represented
+* **F:** représenté
+* **P:** متصوّر شده
+
+### 95. vorherbestimmte Harmonie
+* **E:** pre-established harmony
+* **F:** harmonie préétablie
+* **P:** هماهنگیِ بیشین‌بنیاد [مهدوی]، تناسب سابق التقّرر [مهدوی]، هماهنگی ازلی
+
+### 96. das Vorhergehende
+* **E:** that which precedes, the preceding
+* **F:** le parti qui précède
+* **P:** امر پیشین، امر قبلی، امرِ مقدّم
+
+### 97. Vorrede
+* **E:** preface
+* **F:** préface
+* **P:** پیشگفتار
+
+### 98. Vorriß
+* **E:** outline
+* **F:** plan
+* **P:** پیش‌ـ‌طرح
+
+### 99. Vorschrift
+* **E:** rule, precept, prescription
+* **F:** règle, prescription, précepte, précepte moral
+* **P:** دستور
+
+### 100. Vorstellung
+* **E:** represention; view
+* **F:** représentation
+* **P:** تصوّر؛ تصویر [همچنین: پیشنهادِ (در برابر ذهن)]
+
+### 101. Vorstellungsart
+* **E:** mode of representation, species of representation, kind of representation
+* **F:** mode de représentation, espèce de représentation
+* **P:** شیوهٔ تصوّر، گونهٔ تصوّر، گونهٔ تصوّر
+
+### 102. Vorstellung der Sinne
+* **E:** sense-representation
+* **F:** représentation des sens
+* **P:** تصوّرِ حسّها
+
+### 103. Vorstellungsfähigkeit
+* **E:** faculty of representation
+* **F:** faculté représentative, capacité représentative
+* **P:** تواناییِ تصوّر [فروغی: «قوّهٔ مصوّره»]
+
+### 104. Vorstellungsform
+* **E:** form of representation
+* **F:** forme de représentation
+* **P:** صورتِ تصوّر
+
+### 105. Vorstellungskraft
+* **E:** faculty of representation, power of representation, faculty whereby we represent [things]
+* **F:** pouvoir de représentation, faculté représentative
+* **P:** نیروی تصوّر [فروغی: «قوّهٔ مصوّره»]
+
+### 106. Vorübung
+* **E:** preparation
+* **F:** exercice préliminaire
+* **P:** تمرینِ مقدّماتی
+
+### 107. Vorurteil
+* **E:** prejudice
+* **F:** préjugé
+* **P:** پیشداوری
+
+# واژه‌نامه سنجش خرد ناب - حروف W و Z
+
+## حرف W
+
+### 1. Wahrheit
+* **E:** truth
+* **F:** vérité
+* **P:** حقیقت، راستی
+
+### 2. Wahrnehmung
+* **E:** perception
+* **F:** perception
+* **P:** دریافتِ حسّی، دریافت
+
+### 3. Wahrscheinlichkeit
+* **E:** probability
+* **F:** vraisemblance, probabilité
+* **P:** احتمال
+
+### 4. das Wandelbare
+* **E:** the transitory, what is transitory, the changeable
+* **F:** ce qui change, qq. ch. de changeant, le changeant
+* **P:** امر متغیّر
+
+### 5. das Warum
+* **E:** the question "why", wherefore, the why
+* **F:** le pourquoi
+* **P:** پرسش چرا؟ [همچنین: چرایی، مطلبِ لِم]
+
+### 6. Wechsel
+* **E:** change
+* **F:** succession, changement, passage successif
+* **P:** تغییر، تبدّل
+
+### 7. das Wechselnde
+* **E:** the changing, thing that changes
+* **F:** ce qui change
+* **P:** امر متغیّر
+
+### 8. wechselseitig
+* **E:** reciprocal, ~ly, mutual, ~ly
+* **F:** réciproque, ~ment
+* **P:** متقابلاً
+
+### 9. wechselseitige Einschränkung
+* **E:** mutual limitation
+* **F:** limitation réciproque
+* **P:** کرانمندسازی متقابل
+
+### 10. Wechselwirkung
+* **E:** reciprocity, reciprocal relation, reciprocal action, reciprocal interaction, interaction
+* **F:** action réciproque, interaction
+* **P:** مبادله، عمل متقابل
+
+### 11. der Weiseste
+* **E:** the wisest
+* **F:** le plus sage
+* **P:** فرزانه‌ترین [در: فرزانه‌ترینِ آدمی]
+
+### 12. Weisheit
+* **E:** wisdom, teaching
+* **F:** sagesse, science
+* **P:** فرزانگی
+
+### 13. Welt
+* **E:** world
+* **F:** monde
+* **P:** جهان
+
+### 14. Weltall
+* **E:** universe, world in its totality
+* **F:** univers
+* **P:** کیهان
+
+### 15. Weltanfang
+* **E:** beginning of the world
+* **F:** commencement du monde
+* **P:** آغازِ جهان
+
+### 16. Weltbau
+* **E:** structure of the universe, universe
+* **F:** structure du monde
+* **P:** ساختمانِ جهان
+
+### 17. Weltbaumeister
+* **E:** architect of the world
+* **F:** architecte du monde
+* **P:** معمارِ جهان
+
+### 18. Weltbegebenheit
+* **E:** cosmic event
+* **F:** événement du monde
+* **P:** رویداد جهان، رویداد جهانی
+
+### 19. Weltbegriffe
+* **E:** cosmical concepts, concepts of the world
+* **F:** concepts cosmologiques, concepts du monde, concepts cosmiques
+* **P:** مفهومهای جهانی
+
+### 20. Weltbewegungen
+* **E:** cosmical movements
+* **F:** mouvements du monde
+* **P:** جنبشهای جهانی
+
+### 21. Welteinheit
+* **E:** world unity
+* **F:** unité du monde
+* **P:** یگانگیِ جهان
+
+### 22. Weltenden
+* **E:** limits of the world
+* **F:** limites du monde
+* **P:** کرانه‌های جهان
+
+### 23. Welterkenntnis
+* **E:** knowledge of the world
+* **F:** connaissance du monde
+* **P:** جهان‌شناسی
+
+### 24. das Weltganze
+* **E:** world-whole, cosmic whole
+* **F:** univers
+* **P:** کلّ جهان، کلِّ جهانی
+
+### 25. Weltgrenze
+* **E:** limit of the world
+* **F:** limite du monde
+* **P:** مرزِ جهان
+
+### 26. Weltgröße
+* **E:** magnitude of the world
+* **F:** grandeur du monde
+* **P:** اندازهٔ جهان
+
+### 27. Welterkenntnis [Repeat]
+* **E:** knowledge of the world
+* **F:** connaissance du monde
+* **P:** شناسایی جهان
+
+### 28. Weltkörper
+* **E:** cosmic bodies, celestial bodies
+* **F:** corps du monde, monde des corps
+* **P:** جرمهای جهانی، جسمهای جهانی، جرمهای سماوی، اجرام سماوی
+
+### 29. Weltlauf
+* **E:** course of nature, course of the world
+* **F:** cours du monde
+* **P:** جریانِ جهان
+
+### 30. Weltlehre
+* **E:** doctrine of the world
+* **F:** cosmologie
+* **P:** جهانشناسی
+
+### 31. Weltordnung
+* **E:** world-order, world order, order of the world
+* **F:** ordre du monde
+* **P:** نظم جهان
+
+### 32. Weltraum
+* **E:** cosmical space
+* **F:** espace du monde
+* **P:** فضای جهانی
+
+### 33. Weltreihe
+* **E:** world-series
+* **F:** série du monde
+* **P:** سلسلهٔ جهانی
+
+### 34. Weltschöpfer
+* **E:** creator of the world, Creator
+* **F:** créateur du monde
+* **P:** جهان‌آفرین [فردوسی]
+
+### 35. Weltsystem
+* **E:** universe, system of the world, system
+* **F:** système du monde
+* **P:** نظامِ کیهانی
+
+### 36. Welturheber
+* **E:** Author of the world
+* **F:** auteur du monde
+* **P:** جهان‌کردگار [فردوسی]، آفرینندهٔ جهان، جهان‌آفرین [فردوسی]
+
+### 37. Weltursache
+* **E:** cause of the world
+* **F:** cause du monde
+* **P:** علّتِ جهان
+
+### 38. Weltverfassung
+* **E:** order of the world, constitution of the world
+* **F:** constitution du monde
+* **P:** تشکیلاتِ جهانی
+
+### 39. Weltvollkommenheit
+* **E:** perfection of the world
+* **F:** perfection du monde
+* **P:** کمالِ جهان
+
+### 40. Weltweisheit
+* **E:** philosophy, science
+* **F:** philosophie
+* **P:** کیهان‌ـ‌فرزانش [= فلسفه]
+
+### 41. Werkzeug
+* **E:** instrument
+* **F:** instrument
+* **P:** کارافزار
+
+### 42. Wert
+* **E:** value, worth, validity
+* **F:** valeur, prix
+* **P:** ارزش
+
+### 43. Wesen
+* **E:** being; essence
+* **F:** être; essence
+* **P:** هستومند [پهلوی؛ هستی؛ گوهر]
+
+### 44. das [ein] Wesen aller wesen
+* **E:** the being of all beings, ens entium
+* **F:** l'être des êtres, l'être de tous les êtres, un être de tous les êtres
+* **P:** هستومندِ همهٔ هستومندها، هستیِ همهٔ هستومندها
+
+### 45. das Wesen von der höchsten Realität
+* **E:** ens realissimum
+* **F:** être doué de la réalité suprême
+* **P:** هستومندِ برخوردار از برترین واقعیت
+
+### 46. das Wetten
+* **E:** betting
+* **F:** pari, parier
+* **P:** شرط بستن
+
+### 47. Widerlegung
+* **E:** refutation
+* **F:** réfutation
+* **P:** وازنش
+
+### 48. widerspiel
+* **E:** opposite, reverse
+* **F:** le contraire
+* **P:** نقیض
+
+### 49. Widerspruch
+* **E:** contradiction
+* **F:** contradiction
+* **P:** آختنیج، پادگویی، تناقض
+
+### 50. Widerstand
+* **E:** resistance, opposition
+* **F:** résistance
+* **P:** مقاومت، مخالفت
+
+### 51. Widerstreit
+* **E:** opposition, conflict, contradiction
+* **F:** disconvenance, conflit
+* **P:** ستیزه، تعارض
+
+### 52. Wiederholung
+* **E:** repetition
+* **F:** répétition
+* **P:** تکرار
+
+### 53. Wille
+* **E:** will
+* **F:** volonté, vouloir
+* **P:** خواست، اراده
+
+### 54. Willkür
+* **E:** will, free-will
+* **F:** volonté, volonté de choisir
+* **P:** کامش [دهخدا]، آزادکامی، اختیار، اراده
+
+### 55. willkürlich
+* **E:** arbitrary, arbitrarily, free, voluntary, optional, of the will
+* **F:** arbitraire, ~ment, volontaire, d'une manière arbitraire
+* **P:** دلخواهانه، آزادکامه، خودکامه، ارادی، خودرأیانه
+
+### 56. wirklich
+* **E:** actual, ~ly, real, ~ly
+* **F:** réel, ~lement
+* **P:** واقعی، واقعاً
+
+### 57. das Wirkliche
+* **E:** the real
+* **F:** le réel
+* **P:** امرِ واقعی
+
+### 58. wirkliche Erfahrung
+* **E:** actual experience
+* **F:** expérience réelle
+* **P:** تجربهٔ واقعی
+
+### 59. wirklicher Gegenstand
+* **E:** actual object, real object
+* **F:** objet réel
+* **P:** برابرایستایِ واقعی
+
+### 60. Wirklichkeit
+* **E:** actuality, reality, existence
+* **F:** réalité
+* **P:** بودش [ناصر خسرو]، واقعیت
+
+### 61. Wirkung
+* **E:** action; effect, result; interaction
+* **F:** action; effet, impression
+* **P:** معلول؛ اثر؛ تأثیر؛ عمل، کنش؛ واکنش
+
+### 62. Wirkung und Gegenwirkung
+* **E:** action and reaction, stresses and strains
+* **F:** action et la réaction
+* **P:** کنش و واکنش
+
+### 63. Wißbegierده (Wißbegierde)
+* **E:** desire for knowledge
+* **F:** désir de savoir, curiosité
+* **P:** دانشخواهی
+
+### 64. das Wissen
+* **E:** to know, knowing, knowledge
+* **F:** le savoir, connaissance, science
+* **P:** دانستن
+
+### 65. Wissenschaft
+* **E:** science
+* **F:** science
+* **P:** دانش
+
+### 66. Witz
+* **E:** wit, faculty of wit, ingenium
+* **F:** esprit
+* **P:** زیرکی، تیزهوشیِ فرازنگرانه [تعریف ارسطو از قوه‌ای مشابه این قوهٔ ذهنی]
+
+### 67. Wohlgefallen
+* **E:** satisfaction, pleasure
+* **F:** bien-être, plaisir, satisfaction
+* **P:** خشنودی، خرسندی، رضامندی، حالِ خوش
+
+### 68. das Wollen
+* **E:** willing, to will
+* **F:** le vouloir
+* **P:** خواستن
+
+### 69. Wort
+* **E:** word, term, title
+* **F:** mot, terme
+* **P:** واژه، کلام، کلمه، لغت، اصطلاح
+
+### 70. Würde
+* **E:** dignity, dignity and worth
+* **F:** dignité
+* **P:** شأن، ارج و شکوه، شکوه
+
+### 71. Würdigkeit
+* **E:** worthiness
+* **F:** qualité d'être digne, se rendre digne
+* **P:** شایستگی، سزاواری
+
+---
+
+# واژه‌نامه سنجش خرد ناب - حرف Z (بخش دوم و پایانی)
+
+### 1. Zeitlauf
+* **E:** course of time, time
+* **F:** cours du temps
+* **P:** جریان زمان
+
+### 2. das Zeitliche
+* **E:** what is temporal
+* **F:** qq. ch. de temporel, le temporel
+* **P:** چیزِ زمان‌پذیر
+
+### 3. Zeitordnung
+* **E:** time-order
+* **F:** ordre du temps, ordre de temps
+* **P:** نظم زمانی
+
+### 4. Zeitpunkt
+* **E:** moment, point of time
+* **F:** moment du temps, moment
+* **P:** نقطهٔ زمانی
+
+### 5. Zeitrechnung
+* **E:** reckoning of time, chronology
+* **F:** chronologie
+* **P:** گاهشماری [حسن تقوی‌زاده]
+
+### 6. Zeitreihe
+* **E:** time-series
+* **F:** série du temps, temps considéré comme une série, série chronologique
+* **P:** رشتهٔ زمانی
+
+### 7. Zeitstelle
+* **E:** point of time, place in time, position in time
+* **F:** époque, place dans le temps
+* **P:** موضع زمانی [همچنین: برههٔ زمانی]
+
+### 8. Zeitumfang
+* **E:** time-volume
+* **F:** temps considéré comme un étendue
+* **P:** حوزهٔ زمانی
+
+### 9. Zeitveränderungen
+* **E:** changes of time
+* **F:** vicissitudes du temps
+* **P:** دگرگونیهای زمانی
+
+### 10. Zeitverhältnisse
+* **E:** relations of time, time-relations
+* **F:** rapports de temps
+* **P:** نسبت‌های زمانی
+
+### 11. Zeitverhältnisse der Erscheinungen
+* **E:** relations of appearances in time
+* **F:** rapports chronologiques des phénomènes
+* **P:** نسبت‌های زمانیِ پدیدارها
+
+### 12. zelotische Hitze
+* **E:** passionate zeal
+* **F:** zèle ardent
+* **P:** حرارتِ تعصّب‌آمیز
+
+### 13. Zensur
+* **E:** censorship, censura, test; criticism, censure
+* **F:** censure; remarque, remarque critique
+* **P:** بازرسی و مهار، انتقاد
+
+### 14. Zensur der Vernunft
+* **E:** censorship of reason
+* **F:** censure de la raison
+* **P:** بازرسی و مهار خرد
+
+### 15. Zerfällung
+* **E:** division
+* **F:** décomposition
+* **P:** فروپخشی
+
+### 16. Zergliederer
+* **E:** anatomist
+* **F:** anatomiste
+* **P:** کالبدشکاف، کالبدشناس
+
+### 17. Zergliederung
+* **E:** breaking up, analysis
+* **F:** décomposer, analyse
+* **P:** فروشکافی
+
+### 18. Zerlegung
+* **E:** analysis
+* **F:** division, analyse
+* **P:** فروکاوی
+
+### 19. Zero
+* **E:** zero
+* **F:** zéro
+* **P:** صفر
+
+### 20. Zerteilung
+* **E:** dissolution
+* **F:** décomposition
+* **P:** تجزیه
+
+### 21. Zeugnis
+* **E:** evidence, testimony, witness, to attest, attesting
+* **F:** témoigage, témoigner
+* **P:** گواهی
+
+### 22. Zinober
+* **E:** cinnabar
+* **F:** cinabre
+* **P:** شنگرف
+
+### 23. Zirkel
+* **E:** circle
+* **F:** cercle
+* **P:** دایره؛ دور
+
+### 24. Zufall
+* **E:** chance, hazard
+* **F:** chance, hazard
+* **P:** تصادف
+
+### 25. zufällig
+* **E:** contingent, accidental, incidental, au hazard, fortuite-ment
+* **F:** contingent, accidentel, au hazard, fortuitement
+* **P:** تصاحفی، عرضی، ضمنی
+
+### 26. das Zufällige
+* **E:** the accidental, the contingent
+* **F:** le contingent
+* **P:** امر تصادفی
+
+### 27. zufälligerweise
+* **E:** contingently, accidentally
+* **F:** d'une manière contingente, d'une manière accidentelle
+* **P:** به سان تصادفی، تصادفاً
+
+### 28. zufällige Ursache
+* **E:** incidental cause
+* **F:** cause accidentelle
+* **P:** سبب ضمنی
+
+### 29. Zufälligkeit
+* **E:** contingency, accidental condition, contingency, accident
+* **F:** contingency, accident
+* **P:** تصادفی بودن، تصادفی بودگی، جنبهٔ تصادفی، تصادف
+
+### 30. zugleich
+* **E:** at the same time, at one and the same time, simultaneous, ~ly, coexistent, coexisting, at once
+* **F:** en même temps, simultané, ~ment, à la fois
+* **P:** هم‌هنگام، مقارن هم، همزمان، در زمانِ واحد، در عین حال، با هم
+
+### 31. Zugleichsein
+* **E:** coexistence
+* **F:** coexistence, simultanéité
+* **P:** همبود، همبودی، با هم بودن
+
+### 32. Zukunft
+* **E:** future
+* **F:** avenir
+* **P:** آینده
+
+### 33. Zulänglichkeit
+* **E:** adequacy, sufficiency, sufficient cause, sufficient ground
+* **F:** suffisance, suffire, raison suffisante
+* **P:** کفایت، بسندگی، علّت بسنده
+
+### 34. zum Glück
+* **E:** happily
+* **F:** par bonheur
+* **P:** خوشبختانه
+
+### 35. Zurechnung
+* **E:** Imputation, Imputation
+* **F:** imputation
+* **P:** مسئولیت‌پذیری
+
+### 36. zureichend
+* **E:** adequate, ~ly, suffisant, suffisamment
+* **F:** suffisant, suffisamment
+* **P:** رسا، به سان رسا؛ کافی، به طور کافی
+
+### 37. Zusammenfassung
+* **E:** combination
+* **F:** synthèse, réunion
+* **P:** تلفیق
+
+### 38. das Zusammengesetzte / ein Zusammengesetztes
+* **E:** the composite, a composite
+* **F:** le composé, un composé
+* **P:** ترکیب، عنصر مرکّب
+
+### 39. zusammengesetztes Wesen
+* **E:** composite being
+* **F:** être composé
+* **P:** هستومند مرکّب
+
+### 40. Zusammenhang
+* **E:** connection, interconnection, connected whole, context, cohesion, order
+* **F:** ensemble, liaison, enchaînement, composition, ordre, cohésion, place
+* **P:** ارتباط، ارتباط با یکدیگر، پیوستگی، پیوند، کلّ مرتبط؛ همدوشش، بافت
+
+### 41. Zusammennehmung
+* **E:** complex, combination
+* **F:** ensemble, synthèse
+* **P:** همگرفت
+
+### 42. Zusammensetzung
+* **E:** composition, combination, to compose
+* **F:** composition, assemblage, ensemble
+* **P:** ترکیب
+
+### 43. Zusammenstellung
+* **E:** placing together
+* **F:** assemblage
+* **P:** ترکیب
+
+### 44. Zusammenstimmung
+* **E:** agreement
+* **F:** accord
+* **P:** هماهنگی
+
+### 45. Zusammentreffung
+* **E:** agreement
+* **F:** accord
+* **P:** ترافق [همچنین: توافق]
+
+### 46. Zustand
+* **E:** state
+* **F:** état, position
+* **P:** حالت
+
+### 47. Zustand der Vorstellungen
+* **E:** state of the representations
+* **F:** état des représentations
+* **P:** حالت تصوّرها
+
+### 48. Zweck
+* **E:** aim, object, end, purpose, aspiration
+* **F:** fin, but
+* **P:** هدف
+
+### 49. das Zweckmäßige
+* **E:** what is purposeful
+* **F:** finalité, le final, cause finale
+* **P:** امر هدفمند
+
+### 50. Zweckmäßigkeit
+* **E:** purposiveness
+* **F:** finalité
+* **P:** هدف‌مندی / هدفمندی
+
+### 51. Zweideutigkeit
+* **E:** ambiguity, ambiguous character
+* **F:** l'équivoque, ambiguïté
+* **P:** دوبهلویی
+
+### 52. Zweifel
+* **E:** doubt
+* **F:** doute
+* **P:** شک، گمان
+
+### 53. Zweifelsucht
+* **E:** skepticism
+* **F:** scepticisme, doute
+* **P:** گمان‌مندی [= شک‌گرایی]
