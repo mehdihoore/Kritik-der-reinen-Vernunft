@@ -6,7 +6,6 @@
  فایل 
  <a href="https://github.com/mehdihoore/Kritik-der-reinen-Vernunft/blob/main/Glossary.html">Glossary.html</a> را دانلود کنید و به سادگی از صفحه قابل جستجو به صورت آفلاین استفاده کنید. 
 ## بر اساس همین فایل یک اسکیل هم برای استفاده جهت ترجمه متون فلسفی با استفاده از هوش مصنوعی کلودی آماده شده است که <a href="https://github.com/mehdihoore/Kritik-der-reinen-Vernunft/blob/main/kant-glossary.skill">اینجا </a> در دسترس است.
- سه فایل آماده برای ساختن Gem:
 ### همچنین جهت استفاده با هوش مصنوعی گوگل یعنی جمینی سه فایل آماده شده است که می‌توان به روش زیر از آنها استفاده کرد:
 1. به <a href="https://gemini.google.com/">gemini.google.com</a>بروید، از منو گزینهٔ **Gems** → **New Gem** را بزنید.
 2. متن داخل <a href="https://github.com/mehdihoore/Kritik-der-reinen-Vernunft/blob/main/gem-instructions.txt">`gem-instructions.txt`</a> را کپی کنید و در بخش **Instructions** بگذارید.
